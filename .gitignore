@@ -1,0 +1,27 @@
+# local backups and sources of the R2 reorganisation
+Old/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# large regenerable intermediates -- never commit (see README.md)
+*.pkl
+*.npz
+# exception: the small Phase-1 SCF/orbital records of the PES scans (verified against the committed CSVs)
+!05_PES/data/*_phase1.pkl
+
+# outputs written when the notebooks/scripts are re-run
+02_resources/hamiltonians/
+03_H22/hamiltonians/
+05_PES/*_scan.csv
+05_PES/*_phase1.png
+benchmark_*.csv
+encoded_hamiltonians/
+
+# OS / secrets
+.DS_Store
+.env

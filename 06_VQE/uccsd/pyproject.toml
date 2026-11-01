@@ -1,0 +1,23 @@
+# Code by Calvin Ku; original repository: https://github.com/calvinku96/subspace_restriction (commit 8f4143af24c433cf7ea0b4d837fe05ac463e1644)
+[project]
+name = "subspace-restriction"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jax==0.10.0",
+    "openfermion>=1.8.1",
+    "openfermionpyscf>=0.5",
+    "optax>=0.2.8",
+    "pennylane>=0.45.1",
+    "pyscf>=2.14.0",
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+# This tells setuptools to look for code in the root
+package-dir = {"subspace_restriction" = "."}

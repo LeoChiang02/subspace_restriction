@@ -1,0 +1,14 @@
+pyscf==2.14.0
+numpy==2.2.6
+scipy==1.15.3
+jax==0.6.2
+jaxlib==0.6.2
+ray==2.58.0
+openfermion==1.8.1
+openfermionpyscf==0.5
+pandas==2.3.3
+tqdm==4.70.0
+h5py==3.16.0
+matplotlib==3.10.9
+seaborn==0.13.2
+psutil==7.2.2

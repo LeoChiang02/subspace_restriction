@@ -1,0 +1,96 @@
+[
+  {
+    "molecule": "H2",
+    "omega": 0,
+    "S": 0.0,
+    "D": 2,
+    "q": 1,
+    "shift": "zero",
+    "lam": 0.0,
+    "T": 3,
+    "L_tot": 2.011727188984455,
+    "c_I": -1.0424710218959303,
+    "L_noI": 0.9692561670885245,
+    "floor": 0.8085531464525905,
+    "constant": {
+      "nuclear_repulsion_energy": 0.7137539936876182
+    },
+    "nuc": 0.7137539936876182,
+    "eigenval": [
+      -1.851024168348521,
+      -0.23391787544333995
+    ],
+    "E0": -1.851024168348521,
+    "file": "encoded_hamiltonians/H2_MHS_omega0.txt"
+  },
+  {
+    "molecule": "H2",
+    "omega": 0,
+    "S": 0.0,
+    "D": 2,
+    "q": 1,
+    "shift": "mindiag",
+    "lam": -1.8304383807729587,
+    "T": 3,
+    "L_tot": 2.011727188984455,
+    "c_I": -1.0424710218959303,
+    "L_noI": 0.9692561670885245,
+    "floor": 0.8085531464525905,
+    "constant": {
+      "nuclear_repulsion_energy": 0.7137539936876182
+    },
+    "nuc": 0.7137539936876182,
+    "eigenval": [
+      -1.851024168348521,
+      -0.23391787544333995
+    ],
+    "E0": -1.851024168348521,
+    "file": "encoded_hamiltonians/H2_MHS_omega0_shiftMinDiag.txt"
+  },
+  {
+    "molecule": "H2",
+    "omega": 2,
+    "S": 1.0,
+    "D": 1,
+    "q": 0,
+    "shift": "zero",
+    "lam": 0.0,
+    "T": 1,
+    "L_tot": 1.2462330005737903,
+    "c_I": -1.2462330005737903,
+    "L_noI": 0.0,
+    "floor": 0.0,
+    "constant": {
+      "nuclear_repulsion_energy": 0.7137539936876182
+    },
+    "nuc": 0.7137539936876182,
+    "eigenval": [
+      -1.2462330005737903
+    ],
+    "E0": -1.2462330005737903,
+    "file": "encoded_hamiltonians/H2_MHS_omega2.txt"
+  },
+  {
+    "molecule": "H2",
+    "omega": 2,
+    "S": 1.0,
+    "D": 1,
+    "q": 0,
+    "shift": "mindiag",
+    "lam": -1.2462320005737904,
+    "T": 1,
+    "L_tot": 1.2462330005737903,
+    "c_I": -1.2462330005737903,
+    "L_noI": 0.0,
+    "floor": 0.0,
+    "constant": {
+      "nuclear_repulsion_energy": 0.7137539936876182
+    },
+    "nuc": 0.7137539936876182,
+    "eigenval": [
+      -1.2462330005737903
+    ],
+    "E0": -1.2462330005737903,
+    "file": "encoded_hamiltonians/H2_MHS_omega2_shiftMinDiag.txt"
+  }
+]

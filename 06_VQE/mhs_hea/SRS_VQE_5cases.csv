@@ -1,0 +1,2314 @@
+molecule,encoding,optimizer,layers,trial_num,seed,final_energy,iterations,converged,wall_time_s,status
+H2_w0,MHS,lbfgs,1,1,0,-1.851024,4,True,6.2804,Chemically Accurate
+H2_w0,MHS,lbfgs,1,2,1,-1.851024,2,True,3.1222,Chemically Accurate
+H2_w0,MHS,lbfgs,1,3,2,-1.851024,3,True,2.2246,Chemically Accurate
+H2_w0,MHS,lbfgs,1,4,3,-1.851024,3,True,2.1597,Chemically Accurate
+H2_w0,MHS,lbfgs,1,5,4,-1.851024,3,True,2.6866,Chemically Accurate
+H2_w0,MHS,lbfgs,1,6,5,-1.851024,3,True,2.2236,Chemically Accurate
+H2_w0,MHS,lbfgs,1,7,6,-1.851024,4,True,2.3176,Chemically Accurate
+H2_w0,MHS,lbfgs,1,8,7,-1.851024,3,True,1.9266,Chemically Accurate
+H2_w0,MHS,lbfgs,1,9,8,-1.851024,3,True,1.6677,Chemically Accurate
+H2_w0,MHS,lbfgs,1,10,9,-1.851024,4,True,1.6875,Chemically Accurate
+H2_w0,MHS,lbfgs,1,11,10,-1.851024,4,True,1.9268,Chemically Accurate
+H2_w0,MHS,lbfgs,1,12,11,-1.851024,5,True,2.8340,Chemically Accurate
+H2_w0,MHS,lbfgs,1,13,12,-1.851024,4,True,2.2141,Chemically Accurate
+H2_w0,MHS,lbfgs,1,14,13,-1.851024,4,True,2.3778,Chemically Accurate
+H2_w0,MHS,lbfgs,1,15,14,-1.851024,4,True,2.1919,Chemically Accurate
+H2_w0,MHS,lbfgs,2,1,0,-1.851024,2,True,2.1012,Chemically Accurate
+H2_w0,MHS,lbfgs,2,2,1,-1.851024,5,True,2.2671,Chemically Accurate
+H2_w0,MHS,lbfgs,2,3,2,-1.851024,3,True,1.8604,Chemically Accurate
+H2_w0,MHS,lbfgs,2,4,3,-1.851024,5,True,1.9696,Chemically Accurate
+H2_w0,MHS,lbfgs,2,5,4,-1.851024,3,True,1.9388,Chemically Accurate
+H2_w0,MHS,lbfgs,2,6,5,-1.851024,5,True,1.7939,Chemically Accurate
+H2_w0,MHS,lbfgs,2,7,6,-1.851024,3,True,1.8190,Chemically Accurate
+H2_w0,MHS,lbfgs,2,8,7,-1.851024,4,True,1.7816,Chemically Accurate
+H2_w0,MHS,lbfgs,2,9,8,-1.851024,4,True,1.7945,Chemically Accurate
+H2_w0,MHS,lbfgs,2,10,9,-1.851024,5,True,1.8567,Chemically Accurate
+H2_w0,MHS,lbfgs,2,11,10,-1.851024,2,True,1.6296,Chemically Accurate
+H2_w0,MHS,lbfgs,2,12,11,-1.851024,4,True,1.6987,Chemically Accurate
+H2_w0,MHS,lbfgs,2,13,12,-1.851024,4,True,2.3877,Chemically Accurate
+H2_w0,MHS,lbfgs,2,14,13,-1.851024,3,True,2.0911,Chemically Accurate
+H2_w0,MHS,lbfgs,2,15,14,-1.851024,2,True,1.7209,Chemically Accurate
+H2_w0,MHS,lbfgs,3,1,0,-1.851024,1,True,1.6153,Chemically Accurate
+H2_w0,MHS,lbfgs,3,2,1,-1.851024,2,True,2.1475,Chemically Accurate
+H2_w0,MHS,lbfgs,3,3,2,-1.851024,3,True,2.1828,Chemically Accurate
+H2_w0,MHS,lbfgs,3,4,3,-1.851024,5,True,2.0836,Chemically Accurate
+H2_w0,MHS,lbfgs,3,5,4,-1.851024,2,True,1.8076,Chemically Accurate
+H2_w0,MHS,lbfgs,3,6,5,-1.851024,3,True,2.2916,Chemically Accurate
+H2_w0,MHS,lbfgs,3,7,6,-1.851024,3,True,1.9763,Chemically Accurate
+H2_w0,MHS,lbfgs,3,8,7,-1.851024,3,True,1.9337,Chemically Accurate
+H2_w0,MHS,lbfgs,3,9,8,-1.851024,3,True,2.1819,Chemically Accurate
+H2_w0,MHS,lbfgs,3,10,9,-1.851024,4,True,1.8316,Chemically Accurate
+H2_w0,MHS,lbfgs,3,11,10,-1.851024,5,True,1.8298,Chemically Accurate
+H2_w0,MHS,lbfgs,3,12,11,-1.851024,4,True,1.7194,Chemically Accurate
+H2_w0,MHS,lbfgs,3,13,12,-1.851024,5,True,1.8118,Chemically Accurate
+H2_w0,MHS,lbfgs,3,14,13,-1.851024,3,True,1.9361,Chemically Accurate
+H2_w0,MHS,lbfgs,3,15,14,-1.851024,5,True,2.0393,Chemically Accurate
+H2_w0,MHS,lbfgs,4,1,0,-1.851024,2,True,1.8944,Chemically Accurate
+H2_w0,MHS,lbfgs,4,2,1,-1.851024,4,True,2.3109,Chemically Accurate
+H2_w0,MHS,lbfgs,4,3,2,-1.851024,4,True,1.9247,Chemically Accurate
+H2_w0,MHS,lbfgs,4,4,3,-1.851024,3,True,1.6807,Chemically Accurate
+H2_w0,MHS,lbfgs,4,5,4,-1.851024,3,True,1.9012,Chemically Accurate
+H2_w0,MHS,lbfgs,4,6,5,-1.851024,3,True,2.0220,Chemically Accurate
+H2_w0,MHS,lbfgs,4,7,6,-1.851024,3,True,1.7241,Chemically Accurate
+H2_w0,MHS,lbfgs,4,8,7,-1.851024,4,True,1.9414,Chemically Accurate
+H2_w0,MHS,lbfgs,4,9,8,-1.851024,3,True,1.6219,Chemically Accurate
+H2_w0,MHS,lbfgs,4,10,9,-1.851024,5,True,1.7881,Chemically Accurate
+H2_w0,MHS,lbfgs,4,11,10,-1.851024,4,True,2.1796,Chemically Accurate
+H2_w0,MHS,lbfgs,4,12,11,-1.851024,4,True,1.9850,Chemically Accurate
+H2_w0,MHS,lbfgs,4,13,12,-1.851024,3,True,2.2869,Chemically Accurate
+H2_w0,MHS,lbfgs,4,14,13,-1.851024,4,True,3.4074,Chemically Accurate
+H2_w0,MHS,lbfgs,4,15,14,-1.851024,3,True,3.0514,Chemically Accurate
+H2_w0,MHS,lbfgs,5,1,0,-1.851024,5,True,4.3306,Chemically Accurate
+H2_w0,MHS,lbfgs,5,2,1,-1.851024,4,True,2.9063,Chemically Accurate
+H2_w0,MHS,lbfgs,5,3,2,-1.851024,4,True,2.0490,Chemically Accurate
+H2_w0,MHS,lbfgs,5,4,3,-1.851024,5,True,3.2046,Chemically Accurate
+H2_w0,MHS,lbfgs,5,5,4,-1.851024,3,True,6.3336,Chemically Accurate
+H2_w0,MHS,lbfgs,5,6,5,-1.851024,4,True,6.4340,Chemically Accurate
+H2_w0,MHS,lbfgs,5,7,6,-1.851024,5,True,4.0029,Chemically Accurate
+H2_w0,MHS,lbfgs,5,8,7,-1.851024,5,True,3.6914,Chemically Accurate
+H2_w0,MHS,lbfgs,5,9,8,-1.851024,5,True,2.7767,Chemically Accurate
+H2_w0,MHS,lbfgs,5,10,9,-1.851024,3,True,2.1902,Chemically Accurate
+H2_w0,MHS,lbfgs,5,11,10,-1.851024,3,True,1.7756,Chemically Accurate
+H2_w0,MHS,lbfgs,5,12,11,-1.851024,3,True,1.6812,Chemically Accurate
+H2_w0,MHS,lbfgs,5,13,12,-1.851024,3,True,2.0816,Chemically Accurate
+H2_w0,MHS,lbfgs,5,14,13,-1.851024,4,True,1.6841,Chemically Accurate
+H2_w0,MHS,lbfgs,5,15,14,-1.851024,2,True,1.8149,Chemically Accurate
+H2_w0,MHS,lbfgs,6,1,0,-1.851024,5,True,2.3973,Chemically Accurate
+H2_w0,MHS,lbfgs,6,2,1,-1.851024,4,True,2.4250,Chemically Accurate
+H2_w0,MHS,lbfgs,6,3,2,-1.851024,3,True,2.7214,Chemically Accurate
+H2_w0,MHS,lbfgs,6,4,3,-1.851024,5,True,2.6258,Chemically Accurate
+H2_w0,MHS,lbfgs,6,5,4,-1.851024,5,True,2.3090,Chemically Accurate
+H2_w0,MHS,lbfgs,6,6,5,-1.851024,5,True,2.1622,Chemically Accurate
+H2_w0,MHS,lbfgs,6,7,6,-1.851024,3,True,1.5714,Chemically Accurate
+H2_w0,MHS,lbfgs,6,8,7,-1.851024,5,True,1.9144,Chemically Accurate
+H2_w0,MHS,lbfgs,6,9,8,-1.851024,4,True,1.7479,Chemically Accurate
+H2_w0,MHS,lbfgs,6,10,9,-1.851024,4,True,1.8081,Chemically Accurate
+H2_w0,MHS,lbfgs,6,11,10,-1.851024,3,True,3.1269,Chemically Accurate
+H2_w0,MHS,lbfgs,6,12,11,-1.851024,3,True,2.8018,Chemically Accurate
+H2_w0,MHS,lbfgs,6,13,12,-1.851024,4,True,2.2444,Chemically Accurate
+H2_w0,MHS,lbfgs,6,14,13,-1.851024,4,True,2.0796,Chemically Accurate
+H2_w0,MHS,lbfgs,6,15,14,-1.851024,5,True,2.1832,Chemically Accurate
+H2_w0,MHS,lbfgs,7,1,0,-1.851024,4,True,2.3372,Chemically Accurate
+H2_w0,MHS,lbfgs,7,2,1,-1.851024,4,True,2.1708,Chemically Accurate
+H2_w0,MHS,lbfgs,7,3,2,-1.851024,4,True,2.2617,Chemically Accurate
+H2_w0,MHS,lbfgs,7,4,3,-1.851024,4,True,2.2653,Chemically Accurate
+H2_w0,MHS,lbfgs,7,5,4,-1.851024,3,True,2.1977,Chemically Accurate
+H2_w0,MHS,lbfgs,7,6,5,-1.851024,5,True,1.9989,Chemically Accurate
+H2_w0,MHS,lbfgs,7,7,6,-1.851024,5,True,2.1651,Chemically Accurate
+H2_w0,MHS,lbfgs,7,8,7,-1.851024,3,True,1.8741,Chemically Accurate
+H2_w0,MHS,lbfgs,7,9,8,-1.851024,3,True,2.0785,Chemically Accurate
+H2_w0,MHS,lbfgs,7,10,9,-1.851024,3,True,2.1386,Chemically Accurate
+H2_w0,MHS,lbfgs,7,11,10,-1.851024,3,True,2.1009,Chemically Accurate
+H2_w0,MHS,lbfgs,7,12,11,-1.851024,3,True,1.9207,Chemically Accurate
+H2_w0,MHS,lbfgs,7,13,12,-1.851024,3,True,1.9250,Chemically Accurate
+H2_w0,MHS,lbfgs,7,14,13,-1.851024,4,True,3.1359,Chemically Accurate
+H2_w0,MHS,lbfgs,7,15,14,-1.851024,3,True,2.0984,Chemically Accurate
+H2_w0,MHS,adam,1,1,0,-1.851008,45,True,2.5386,Chemically Accurate
+H2_w0,MHS,adam,1,2,1,-1.850936,98,True,4.1019,Chemically Accurate
+H2_w0,MHS,adam,1,3,2,-1.851002,107,True,4.8941,Chemically Accurate
+H2_w0,MHS,adam,1,4,3,-1.851024,111,True,7.6106,Chemically Accurate
+H2_w0,MHS,adam,1,5,4,-1.851000,110,True,5.3981,Chemically Accurate
+H2_w0,MHS,adam,1,6,5,-1.851001,104,True,14.0192,Chemically Accurate
+H2_w0,MHS,adam,1,7,6,-1.851024,89,True,11.6546,Chemically Accurate
+H2_w0,MHS,adam,1,8,7,-1.851023,103,True,9.6022,Chemically Accurate
+H2_w0,MHS,adam,1,9,8,-1.851001,104,True,3.2241,Chemically Accurate
+H2_w0,MHS,adam,1,10,9,-1.851022,80,True,2.8089,Chemically Accurate
+H2_w0,MHS,adam,1,11,10,-1.851006,96,True,5.4255,Chemically Accurate
+H2_w0,MHS,adam,1,12,11,-1.851000,103,True,11.6009,Chemically Accurate
+H2_w0,MHS,adam,1,13,12,-1.851011,102,True,6.8672,Chemically Accurate
+H2_w0,MHS,adam,1,14,13,-1.851023,88,True,3.1423,Chemically Accurate
+H2_w0,MHS,adam,1,15,14,-1.851024,107,True,5.4808,Chemically Accurate
+H2_w0,MHS,adam,2,1,0,-1.851012,65,True,3.1496,Chemically Accurate
+H2_w0,MHS,adam,2,2,1,-1.851023,109,True,5.1218,Chemically Accurate
+H2_w0,MHS,adam,2,3,2,-1.850861,86,True,5.1481,Chemically Accurate
+H2_w0,MHS,adam,2,4,3,-1.850961,79,True,3.4155,Chemically Accurate
+H2_w0,MHS,adam,2,5,4,-1.850966,98,True,4.1637,Chemically Accurate
+H2_w0,MHS,adam,2,6,5,-1.850719,64,True,3.8269,Chemically Accurate
+H2_w0,MHS,adam,2,7,6,-1.850998,98,True,18.3276,Chemically Accurate
+H2_w0,MHS,adam,2,8,7,-1.851022,88,True,12.6263,Chemically Accurate
+H2_w0,MHS,adam,2,9,8,-1.851024,107,True,12.4028,Chemically Accurate
+H2_w0,MHS,adam,2,10,9,-1.851012,66,True,9.1340,Chemically Accurate
+H2_w0,MHS,adam,2,11,10,-1.851017,70,True,10.4736,Chemically Accurate
+H2_w0,MHS,adam,2,12,11,-1.851024,109,True,14.2251,Chemically Accurate
+H2_w0,MHS,adam,2,13,12,-1.851022,92,True,14.1848,Chemically Accurate
+H2_w0,MHS,adam,2,14,13,-1.851024,112,True,13.2346,Chemically Accurate
+H2_w0,MHS,adam,2,15,14,-1.851008,77,True,8.8658,Chemically Accurate
+H2_w0,MHS,adam,3,1,0,-1.851022,80,True,3.4715,Chemically Accurate
+H2_w0,MHS,adam,3,2,1,-1.851009,108,True,11.1733,Chemically Accurate
+H2_w0,MHS,adam,3,3,2,-1.850990,103,True,8.3040,Chemically Accurate
+H2_w0,MHS,adam,3,4,3,-1.850995,62,True,12.2241,Chemically Accurate
+H2_w0,MHS,adam,3,5,4,-1.850989,101,True,20.7843,Chemically Accurate
+H2_w0,MHS,adam,3,6,5,-1.850989,101,True,17.4855,Chemically Accurate
+H2_w0,MHS,adam,3,7,6,-1.851023,101,True,29.9834,Chemically Accurate
+H2_w0,MHS,adam,3,8,7,-1.851009,109,True,46.0993,Chemically Accurate
+H2_w0,MHS,adam,3,9,8,-1.851024,114,True,26.1927,Chemically Accurate
+H2_w0,MHS,adam,3,10,9,-1.851024,113,True,29.3880,Chemically Accurate
+H2_w0,MHS,adam,3,11,10,-1.851024,102,True,26.0896,Chemically Accurate
+H2_w0,MHS,adam,3,12,11,-1.851005,101,True,42.6717,Chemically Accurate
+H2_w0,MHS,adam,3,13,12,-1.851024,112,True,17.5934,Chemically Accurate
+H2_w0,MHS,adam,3,14,13,-1.851022,88,True,11.2040,Chemically Accurate
+H2_w0,MHS,adam,3,15,14,-1.851010,98,True,13.7330,Chemically Accurate
+H2_w0,MHS,adam,4,1,0,-1.851023,94,True,10.3134,Chemically Accurate
+H2_w0,MHS,adam,4,2,1,-1.850989,76,True,3.4360,Chemically Accurate
+H2_w0,MHS,adam,4,3,2,-1.851017,92,True,6.3402,Chemically Accurate
+H2_w0,MHS,adam,4,4,3,-1.851015,72,True,4.8986,Chemically Accurate
+H2_w0,MHS,adam,4,5,4,-1.851014,96,True,6.0747,Chemically Accurate
+H2_w0,MHS,adam,4,6,5,-1.851004,107,True,9.4128,Chemically Accurate
+H2_w0,MHS,adam,4,7,6,-1.851024,119,True,5.6432,Chemically Accurate
+H2_w0,MHS,adam,4,8,7,-1.851004,62,True,2.9754,Chemically Accurate
+H2_w0,MHS,adam,4,9,8,-1.850976,93,True,4.8823,Chemically Accurate
+H2_w0,MHS,adam,4,10,9,-1.851023,101,True,6.2423,Chemically Accurate
+H2_w0,MHS,adam,4,11,10,-1.851013,106,True,4.7752,Chemically Accurate
+H2_w0,MHS,adam,4,12,11,-1.850928,90,True,5.5087,Chemically Accurate
+H2_w0,MHS,adam,4,13,12,-1.851023,83,True,19.8624,Chemically Accurate
+H2_w0,MHS,adam,4,14,13,-1.851023,87,True,8.3888,Chemically Accurate
+H2_w0,MHS,adam,4,15,14,-1.851020,119,True,8.6313,Chemically Accurate
+H2_w0,MHS,adam,5,1,0,-1.851019,112,True,5.5553,Chemically Accurate
+H2_w0,MHS,adam,5,2,1,-1.851022,95,True,4.0218,Chemically Accurate
+H2_w0,MHS,adam,5,3,2,-1.851005,67,True,3.8328,Chemically Accurate
+H2_w0,MHS,adam,5,4,3,-1.851022,97,True,15.7128,Chemically Accurate
+H2_w0,MHS,adam,5,5,4,-1.851017,116,True,24.5190,Chemically Accurate
+H2_w0,MHS,adam,5,6,5,-1.851016,93,True,18.9682,Chemically Accurate
+H2_w0,MHS,adam,5,7,6,-1.851015,79,True,15.0035,Chemically Accurate
+H2_w0,MHS,adam,5,8,7,-1.851023,115,True,19.1458,Chemically Accurate
+H2_w0,MHS,adam,5,9,8,-1.851023,98,True,14.7155,Chemically Accurate
+H2_w0,MHS,adam,5,10,9,-1.850999,92,True,13.6692,Chemically Accurate
+H2_w0,MHS,adam,5,11,10,-1.851018,79,True,5.7574,Chemically Accurate
+H2_w0,MHS,adam,5,12,11,-1.851024,110,True,3.4954,Chemically Accurate
+H2_w0,MHS,adam,5,13,12,-1.850972,83,True,3.3378,Chemically Accurate
+H2_w0,MHS,adam,5,14,13,-1.850957,77,True,2.8530,Chemically Accurate
+H2_w0,MHS,adam,5,15,14,-1.850638,27,True,1.3543,Chemically Accurate
+H2_w0,MHS,adam,6,1,0,-1.851015,109,True,6.3558,Chemically Accurate
+H2_w0,MHS,adam,6,2,1,-1.850985,83,True,3.1375,Chemically Accurate
+H2_w0,MHS,adam,6,3,2,-1.851018,94,True,6.0657,Chemically Accurate
+H2_w0,MHS,adam,6,4,3,-1.851020,113,True,5.9773,Chemically Accurate
+H2_w0,MHS,adam,6,5,4,-1.851015,109,True,6.1854,Chemically Accurate
+H2_w0,MHS,adam,6,6,5,-1.850992,95,True,6.4754,Chemically Accurate
+H2_w0,MHS,adam,6,7,6,-1.851009,78,True,2.8546,Chemically Accurate
+H2_w0,MHS,adam,6,8,7,-1.851018,109,True,3.8880,Chemically Accurate
+H2_w0,MHS,adam,6,9,8,-1.851002,66,True,2.9987,Chemically Accurate
+H2_w0,MHS,adam,6,10,9,-1.851019,75,True,3.3531,Chemically Accurate
+H2_w0,MHS,adam,6,11,10,-1.851020,120,True,5.4144,Chemically Accurate
+H2_w0,MHS,adam,6,12,11,-1.851010,107,True,4.1401,Chemically Accurate
+H2_w0,MHS,adam,6,13,12,-1.851021,105,True,5.2677,Chemically Accurate
+H2_w0,MHS,adam,6,14,13,-1.851022,105,True,11.7165,Chemically Accurate
+H2_w0,MHS,adam,6,15,14,-1.851024,111,True,5.0630,Chemically Accurate
+H2_w0,MHS,adam,7,1,0,-1.851021,83,True,4.3575,Chemically Accurate
+H2_w0,MHS,adam,7,2,1,-1.850996,100,True,3.3055,Chemically Accurate
+H2_w0,MHS,adam,7,3,2,-1.850970,69,True,2.7209,Chemically Accurate
+H2_w0,MHS,adam,7,4,3,-1.851015,89,True,3.1521,Chemically Accurate
+H2_w0,MHS,adam,7,5,4,-1.850998,102,True,6.9725,Chemically Accurate
+H2_w0,MHS,adam,7,6,5,-1.851018,89,True,4.0861,Chemically Accurate
+H2_w0,MHS,adam,7,7,6,-1.851023,102,True,4.0760,Chemically Accurate
+H2_w0,MHS,adam,7,8,7,-1.851024,114,True,3.6865,Chemically Accurate
+H2_w0,MHS,adam,7,9,8,-1.850997,101,True,4.2381,Chemically Accurate
+H2_w0,MHS,adam,7,10,9,-1.851020,86,True,4.7741,Chemically Accurate
+H2_w0,MHS,adam,7,11,10,-1.851018,114,True,4.1221,Chemically Accurate
+H2_w0,MHS,adam,7,12,11,-1.851015,111,True,4.4146,Chemically Accurate
+H2_w0,MHS,adam,7,13,12,-1.851022,88,True,3.3725,Chemically Accurate
+H2_w0,MHS,adam,7,14,13,-1.851015,112,True,4.6784,Chemically Accurate
+H2_w0,MHS,adam,7,15,14,-1.851019,117,True,8.0269,Chemically Accurate
+HF_w0,MHS,lbfgs,1,1,0,-103.769474,93,True,10.6173,Failure
+HF_w0,MHS,lbfgs,1,2,1,-103.769526,64,True,8.0165,Failure
+HF_w0,MHS,lbfgs,1,3,2,-103.769490,26,True,3.1871,Failure
+HF_w0,MHS,lbfgs,1,4,3,-103.769491,89,True,7.9528,Failure
+HF_w0,MHS,lbfgs,1,5,4,-103.769491,56,True,5.9199,Failure
+HF_w0,MHS,lbfgs,1,6,5,-103.769491,35,True,4.4119,Failure
+HF_w0,MHS,lbfgs,1,7,6,-103.769491,44,True,4.2062,Failure
+HF_w0,MHS,lbfgs,1,8,7,-103.769470,26,True,3.3390,Failure
+HF_w0,MHS,lbfgs,1,9,8,-103.769491,25,True,3.2997,Failure
+HF_w0,MHS,lbfgs,1,10,9,-103.769490,26,True,3.7980,Failure
+HF_w0,MHS,lbfgs,1,11,10,-103.769528,35,True,3.7082,Failure
+HF_w0,MHS,lbfgs,1,12,11,-103.769466,34,True,4.0510,Failure
+HF_w0,MHS,lbfgs,1,13,12,-103.769491,24,True,3.6054,Failure
+HF_w0,MHS,lbfgs,1,14,13,-103.769491,50,True,5.8186,Failure
+HF_w0,MHS,lbfgs,1,15,14,-103.769538,21,True,3.2286,Failure
+HF_w0,MHS,lbfgs,2,1,0,-103.786260,34,True,4.8623,Chemically Accurate
+HF_w0,MHS,lbfgs,2,2,1,-103.786239,39,True,4.5342,Chemically Accurate
+HF_w0,MHS,lbfgs,2,3,2,-103.786346,39,True,5.7051,Chemically Accurate
+HF_w0,MHS,lbfgs,2,4,3,-103.786216,33,True,8.0594,Chemically Accurate
+HF_w0,MHS,lbfgs,2,5,4,-103.786410,26,True,4.4555,Chemically Accurate
+HF_w0,MHS,lbfgs,2,6,5,-103.786350,28,True,4.1184,Chemically Accurate
+HF_w0,MHS,lbfgs,2,7,6,-103.786339,26,True,4.9445,Chemically Accurate
+HF_w0,MHS,lbfgs,2,8,7,-103.786385,55,True,5.7109,Chemically Accurate
+HF_w0,MHS,lbfgs,2,9,8,-103.786364,68,True,8.0294,Chemically Accurate
+HF_w0,MHS,lbfgs,2,10,9,-103.786257,42,True,5.3316,Chemically Accurate
+HF_w0,MHS,lbfgs,2,11,10,-103.786357,40,True,5.6530,Chemically Accurate
+HF_w0,MHS,lbfgs,2,12,11,-103.786497,34,True,5.9736,Chemically Accurate
+HF_w0,MHS,lbfgs,2,13,12,-103.786519,33,True,4.3274,Chemically Accurate
+HF_w0,MHS,lbfgs,2,14,13,-103.769642,36,True,4.3762,Failure
+HF_w0,MHS,lbfgs,2,15,14,-103.786355,47,True,6.4157,Chemically Accurate
+HF_w0,MHS,lbfgs,3,1,0,-103.786520,41,True,5.4211,Chemically Accurate
+HF_w0,MHS,lbfgs,3,2,1,-103.786498,29,True,4.4822,Chemically Accurate
+HF_w0,MHS,lbfgs,3,3,2,-103.786519,50,True,5.4469,Chemically Accurate
+HF_w0,MHS,lbfgs,3,4,3,-103.786519,34,True,6.8678,Chemically Accurate
+HF_w0,MHS,lbfgs,3,5,4,-103.786519,37,True,5.7603,Chemically Accurate
+HF_w0,MHS,lbfgs,3,6,5,-103.786518,56,True,5.8281,Chemically Accurate
+HF_w0,MHS,lbfgs,3,7,6,-103.786519,24,True,3.7874,Chemically Accurate
+HF_w0,MHS,lbfgs,3,8,7,-103.786520,29,True,4.7653,Chemically Accurate
+HF_w0,MHS,lbfgs,3,9,8,-103.786519,31,True,4.0611,Chemically Accurate
+HF_w0,MHS,lbfgs,3,10,9,-103.786520,38,True,5.3002,Chemically Accurate
+HF_w0,MHS,lbfgs,3,11,10,-103.786518,69,True,10.8693,Chemically Accurate
+HF_w0,MHS,lbfgs,3,12,11,-103.786520,41,True,4.8776,Chemically Accurate
+HF_w0,MHS,lbfgs,3,13,12,-103.769734,44,True,5.3065,Failure
+HF_w0,MHS,lbfgs,3,14,13,-103.786519,66,True,6.5393,Chemically Accurate
+HF_w0,MHS,lbfgs,3,15,14,-103.786518,34,True,5.1345,Chemically Accurate
+HF_w0,MHS,lbfgs,4,1,0,-103.786520,43,True,7.8977,Chemically Accurate
+HF_w0,MHS,lbfgs,4,2,1,-103.786518,31,True,4.1012,Chemically Accurate
+HF_w0,MHS,lbfgs,4,3,2,-103.786519,38,True,6.4750,Chemically Accurate
+HF_w0,MHS,lbfgs,4,4,3,-103.786497,41,True,5.4958,Chemically Accurate
+HF_w0,MHS,lbfgs,4,5,4,-103.786514,21,True,4.4530,Chemically Accurate
+HF_w0,MHS,lbfgs,4,6,5,-103.786520,54,True,8.0800,Chemically Accurate
+HF_w0,MHS,lbfgs,4,7,6,-103.786520,30,True,3.8143,Chemically Accurate
+HF_w0,MHS,lbfgs,4,8,7,-103.786519,36,True,4.3426,Chemically Accurate
+HF_w0,MHS,lbfgs,4,9,8,-103.786519,58,True,6.0663,Chemically Accurate
+HF_w0,MHS,lbfgs,4,10,9,-103.786520,27,True,4.2378,Chemically Accurate
+HF_w0,MHS,lbfgs,4,11,10,-103.786519,54,True,6.9795,Chemically Accurate
+HF_w0,MHS,lbfgs,4,12,11,-103.786519,27,True,4.2532,Chemically Accurate
+HF_w0,MHS,lbfgs,4,13,12,-103.786517,29,True,4.6456,Chemically Accurate
+HF_w0,MHS,lbfgs,4,14,13,-103.786520,45,True,5.5758,Chemically Accurate
+HF_w0,MHS,lbfgs,4,15,14,-103.786516,25,True,3.9825,Chemically Accurate
+HF_w0,MHS,lbfgs,5,1,0,-103.786519,31,True,4.4836,Chemically Accurate
+HF_w0,MHS,lbfgs,5,2,1,-103.786520,43,True,5.7413,Chemically Accurate
+HF_w0,MHS,lbfgs,5,3,2,-103.786520,43,True,5.3516,Chemically Accurate
+HF_w0,MHS,lbfgs,5,4,3,-103.786515,35,True,5.0082,Chemically Accurate
+HF_w0,MHS,lbfgs,5,5,4,-103.786519,38,True,5.3663,Chemically Accurate
+HF_w0,MHS,lbfgs,5,6,5,-103.786519,44,True,5.7301,Chemically Accurate
+HF_w0,MHS,lbfgs,5,7,6,-103.786519,36,True,5.1586,Chemically Accurate
+HF_w0,MHS,lbfgs,5,8,7,-103.786519,29,True,6.3587,Chemically Accurate
+HF_w0,MHS,lbfgs,5,9,8,-103.786519,33,True,5.8500,Chemically Accurate
+HF_w0,MHS,lbfgs,5,10,9,-103.786519,30,True,4.2725,Chemically Accurate
+HF_w0,MHS,lbfgs,5,11,10,-103.786519,36,True,5.5001,Chemically Accurate
+HF_w0,MHS,lbfgs,5,12,11,-103.786520,38,True,5.4729,Chemically Accurate
+HF_w0,MHS,lbfgs,5,13,12,-103.786519,28,True,4.7674,Chemically Accurate
+HF_w0,MHS,lbfgs,5,14,13,-103.786519,45,True,5.6306,Chemically Accurate
+HF_w0,MHS,lbfgs,5,15,14,-103.786519,37,True,5.0352,Chemically Accurate
+HF_w0,MHS,lbfgs,6,1,0,-103.786520,36,True,4.6522,Chemically Accurate
+HF_w0,MHS,lbfgs,6,2,1,-103.786520,36,True,6.3029,Chemically Accurate
+HF_w0,MHS,lbfgs,6,3,2,-103.786520,39,True,4.9824,Chemically Accurate
+HF_w0,MHS,lbfgs,6,4,3,-103.786520,40,True,5.7147,Chemically Accurate
+HF_w0,MHS,lbfgs,6,5,4,-103.786520,33,True,5.3700,Chemically Accurate
+HF_w0,MHS,lbfgs,6,6,5,-103.786519,31,True,4.2922,Chemically Accurate
+HF_w0,MHS,lbfgs,6,7,6,-103.786520,37,True,5.1465,Chemically Accurate
+HF_w0,MHS,lbfgs,6,8,7,-103.786520,36,True,5.1008,Chemically Accurate
+HF_w0,MHS,lbfgs,6,9,8,-103.786519,33,True,4.9490,Chemically Accurate
+HF_w0,MHS,lbfgs,6,10,9,-103.786520,30,True,4.4675,Chemically Accurate
+HF_w0,MHS,lbfgs,6,11,10,-103.786520,40,True,13.8632,Chemically Accurate
+HF_w0,MHS,lbfgs,6,12,11,-103.786519,34,True,4.7487,Chemically Accurate
+HF_w0,MHS,lbfgs,6,13,12,-103.786519,39,True,6.2094,Chemically Accurate
+HF_w0,MHS,lbfgs,6,14,13,-103.786520,35,True,5.5414,Chemically Accurate
+HF_w0,MHS,lbfgs,6,15,14,-103.786518,23,True,4.1885,Chemically Accurate
+HF_w0,MHS,lbfgs,7,1,0,-103.786511,23,True,4.3082,Chemically Accurate
+HF_w0,MHS,lbfgs,7,2,1,-103.786519,36,True,5.1797,Chemically Accurate
+HF_w0,MHS,lbfgs,7,3,2,-103.786519,30,True,4.7447,Chemically Accurate
+HF_w0,MHS,lbfgs,7,4,3,-103.786520,31,True,5.1058,Chemically Accurate
+HF_w0,MHS,lbfgs,7,5,4,-103.786519,33,True,4.6506,Chemically Accurate
+HF_w0,MHS,lbfgs,7,6,5,-103.786517,26,True,4.5380,Chemically Accurate
+HF_w0,MHS,lbfgs,7,7,6,-103.786516,24,True,4.3752,Chemically Accurate
+HF_w0,MHS,lbfgs,7,8,7,-103.786519,35,True,6.6897,Chemically Accurate
+HF_w0,MHS,lbfgs,7,9,8,-103.786519,37,True,5.6649,Chemically Accurate
+HF_w0,MHS,lbfgs,7,10,9,-103.786520,32,True,4.5816,Chemically Accurate
+HF_w0,MHS,lbfgs,7,11,10,-103.786520,36,True,5.3549,Chemically Accurate
+HF_w0,MHS,lbfgs,7,12,11,-103.786519,30,True,4.8190,Chemically Accurate
+HF_w0,MHS,lbfgs,7,13,12,-103.786519,32,True,5.1075,Chemically Accurate
+HF_w0,MHS,lbfgs,7,14,13,-103.786520,34,True,7.9106,Chemically Accurate
+HF_w0,MHS,lbfgs,7,15,14,-103.786519,28,True,5.7546,Chemically Accurate
+HF_w0,MHS,adam,1,1,0,-103.769490,819,True,46.9141,Failure
+HF_w0,MHS,adam,1,2,1,-103.769491,652,True,35.1033,Failure
+HF_w0,MHS,adam,1,3,2,-103.769444,495,True,26.8048,Failure
+HF_w0,MHS,adam,1,4,3,-103.769515,936,True,57.5569,Failure
+HF_w0,MHS,adam,1,5,4,-103.769472,280,True,16.9365,Failure
+HF_w0,MHS,adam,1,6,5,-103.769476,311,True,16.9828,Failure
+HF_w0,MHS,adam,1,7,6,-103.769462,245,True,25.5822,Failure
+HF_w0,MHS,adam,1,8,7,-103.769470,311,True,17.3310,Failure
+HF_w0,MHS,adam,1,9,8,-103.769476,323,True,19.2679,Failure
+HF_w0,MHS,adam,1,10,9,-103.769506,422,True,22.5974,Failure
+HF_w0,MHS,adam,1,11,10,-103.769517,361,True,21.1774,Failure
+HF_w0,MHS,adam,1,12,11,-103.769471,168,True,11.0108,Failure
+HF_w0,MHS,adam,1,13,12,-103.769485,238,True,14.2999,Failure
+HF_w0,MHS,adam,1,14,13,-102.193354,116,True,5.3798,Failure
+HF_w0,MHS,adam,1,15,14,-103.769498,164,True,7.9339,Failure
+HF_w0,MHS,adam,2,1,0,-103.786275,391,True,27.2063,Chemically Accurate
+HF_w0,MHS,adam,2,2,1,-103.786367,720,True,44.8812,Chemically Accurate
+HF_w0,MHS,adam,2,3,2,-103.786299,411,True,24.5507,Chemically Accurate
+HF_w0,MHS,adam,2,4,3,-103.786356,432,True,24.7002,Chemically Accurate
+HF_w0,MHS,adam,2,5,4,-103.786426,176,True,11.4919,Chemically Accurate
+HF_w0,MHS,adam,2,6,5,-103.786256,174,True,9.4516,Chemically Accurate
+HF_w0,MHS,adam,2,7,6,-103.786336,173,True,9.4333,Chemically Accurate
+HF_w0,MHS,adam,2,8,7,-103.786256,545,True,29.9017,Chemically Accurate
+HF_w0,MHS,adam,2,9,8,-103.786196,992,True,60.1092,Chemically Accurate
+HF_w0,MHS,adam,2,10,9,-103.786301,556,True,32.8984,Chemically Accurate
+HF_w0,MHS,adam,2,11,10,-103.786305,162,True,8.9206,Chemically Accurate
+HF_w0,MHS,adam,2,12,11,-103.785302,108,True,6.1593,Chemically Accurate
+HF_w0,MHS,adam,2,13,12,-103.767216,91,True,5.0973,Failure
+HF_w0,MHS,adam,2,14,13,-103.764313,71,True,5.1065,Failure
+HF_w0,MHS,adam,2,15,14,-103.784955,137,True,7.9691,Chemically Accurate
+HF_w0,MHS,adam,3,1,0,-103.786510,236,True,14.1008,Chemically Accurate
+HF_w0,MHS,adam,3,2,1,-103.786515,154,True,9.6425,Chemically Accurate
+HF_w0,MHS,adam,3,3,2,-103.786500,236,True,15.0309,Chemically Accurate
+HF_w0,MHS,adam,3,4,3,-103.786412,103,True,6.7900,Chemically Accurate
+HF_w0,MHS,adam,3,5,4,-103.786400,191,True,12.0280,Chemically Accurate
+HF_w0,MHS,adam,3,6,5,-103.786503,217,True,14.1511,Chemically Accurate
+HF_w0,MHS,adam,3,7,6,-103.786516,179,True,12.1549,Chemically Accurate
+HF_w0,MHS,adam,3,8,7,-103.786498,460,True,29.7376,Chemically Accurate
+HF_w0,MHS,adam,3,9,8,-103.786513,263,True,15.2539,Chemically Accurate
+HF_w0,MHS,adam,3,10,9,-103.786487,298,True,17.8016,Chemically Accurate
+HF_w0,MHS,adam,3,11,10,-103.768516,155,True,10.3357,Failure
+HF_w0,MHS,adam,3,12,11,-103.786487,742,True,45.1738,Chemically Accurate
+HF_w0,MHS,adam,3,13,12,-103.786518,247,True,15.2040,Chemically Accurate
+HF_w0,MHS,adam,3,14,13,-103.768823,135,True,8.4961,Failure
+HF_w0,MHS,adam,3,15,14,-103.786516,253,True,15.4294,Chemically Accurate
+HF_w0,MHS,adam,4,1,0,-103.786508,156,True,9.5659,Chemically Accurate
+HF_w0,MHS,adam,4,2,1,-103.786515,175,True,12.0611,Chemically Accurate
+HF_w0,MHS,adam,4,3,2,-103.786489,301,True,22.1710,Chemically Accurate
+HF_w0,MHS,adam,4,4,3,-103.786500,253,True,16.1410,Chemically Accurate
+HF_w0,MHS,adam,4,5,4,-103.786477,114,True,8.0092,Chemically Accurate
+HF_w0,MHS,adam,4,6,5,-103.786516,231,True,14.6186,Chemically Accurate
+HF_w0,MHS,adam,4,7,6,-103.786454,110,True,7.7531,Chemically Accurate
+HF_w0,MHS,adam,4,8,7,-103.785921,107,True,7.5882,Chemically Accurate
+HF_w0,MHS,adam,4,9,8,-103.786512,266,True,16.3150,Chemically Accurate
+HF_w0,MHS,adam,4,10,9,-103.786236,113,True,8.2759,Chemically Accurate
+HF_w0,MHS,adam,4,11,10,-103.786506,155,True,10.3016,Chemically Accurate
+HF_w0,MHS,adam,4,12,11,-103.786496,339,True,27.0882,Chemically Accurate
+HF_w0,MHS,adam,4,13,12,-103.786497,222,True,16.1800,Chemically Accurate
+HF_w0,MHS,adam,4,14,13,-103.786493,391,True,25.0674,Chemically Accurate
+HF_w0,MHS,adam,4,15,14,-103.786471,116,True,7.2617,Chemically Accurate
+HF_w0,MHS,adam,5,1,0,-103.786510,132,True,9.3239,Chemically Accurate
+HF_w0,MHS,adam,5,2,1,-103.786514,232,True,14.5151,Chemically Accurate
+HF_w0,MHS,adam,5,3,2,-103.786514,217,True,14.6488,Chemically Accurate
+HF_w0,MHS,adam,5,4,3,-103.786360,139,True,9.4589,Chemically Accurate
+HF_w0,MHS,adam,5,5,4,-103.786448,124,True,7.9612,Chemically Accurate
+HF_w0,MHS,adam,5,6,5,-103.786423,216,True,15.0016,Chemically Accurate
+HF_w0,MHS,adam,5,7,6,-103.786493,305,True,19.3743,Chemically Accurate
+HF_w0,MHS,adam,5,8,7,-103.786512,147,True,11.9134,Chemically Accurate
+HF_w0,MHS,adam,5,9,8,-103.786507,133,True,10.2738,Chemically Accurate
+HF_w0,MHS,adam,5,10,9,-103.786503,114,True,8.1674,Chemically Accurate
+HF_w0,MHS,adam,5,11,10,-103.786504,182,True,11.5000,Chemically Accurate
+HF_w0,MHS,adam,5,12,11,-103.786517,164,True,11.4214,Chemically Accurate
+HF_w0,MHS,adam,5,13,12,-103.786155,96,True,7.2819,Chemically Accurate
+HF_w0,MHS,adam,5,14,13,-103.786499,175,True,10.4126,Chemically Accurate
+HF_w0,MHS,adam,5,15,14,-103.786508,178,True,10.0123,Chemically Accurate
+HF_w0,MHS,adam,6,1,0,-103.785249,100,True,10.5851,Chemically Accurate
+HF_w0,MHS,adam,6,2,1,-103.786190,115,True,8.6270,Chemically Accurate
+HF_w0,MHS,adam,6,3,2,-103.786516,172,True,12.4775,Chemically Accurate
+HF_w0,MHS,adam,6,4,3,-103.786495,127,True,8.7473,Chemically Accurate
+HF_w0,MHS,adam,6,5,4,-103.786514,127,True,8.9631,Chemically Accurate
+HF_w0,MHS,adam,6,6,5,-103.786421,122,True,8.7858,Chemically Accurate
+HF_w0,MHS,adam,6,7,6,-103.786480,122,True,9.0401,Chemically Accurate
+HF_w0,MHS,adam,6,8,7,-103.786214,114,True,7.7351,Chemically Accurate
+HF_w0,MHS,adam,6,9,8,-103.786337,124,True,8.3925,Chemically Accurate
+HF_w0,MHS,adam,6,10,9,-103.786498,117,True,8.3124,Chemically Accurate
+HF_w0,MHS,adam,6,11,10,-103.786516,156,True,11.3300,Chemically Accurate
+HF_w0,MHS,adam,6,12,11,-103.786497,159,True,18.6691,Chemically Accurate
+HF_w0,MHS,adam,6,13,12,-103.786473,137,True,9.0811,Chemically Accurate
+HF_w0,MHS,adam,6,14,13,-103.786497,143,True,10.1419,Chemically Accurate
+HF_w0,MHS,adam,6,15,14,-103.786511,265,True,18.8254,Chemically Accurate
+HF_w0,MHS,adam,7,1,0,-103.786514,127,True,8.7754,Chemically Accurate
+HF_w0,MHS,adam,7,2,1,-103.786369,113,True,8.4846,Chemically Accurate
+HF_w0,MHS,adam,7,3,2,-103.786409,132,True,10.3781,Chemically Accurate
+HF_w0,MHS,adam,7,4,3,-103.786513,122,True,9.3970,Chemically Accurate
+HF_w0,MHS,adam,7,5,4,-103.785589,126,True,8.7291,Chemically Accurate
+HF_w0,MHS,adam,7,6,5,-103.786470,132,True,9.1714,Chemically Accurate
+HF_w0,MHS,adam,7,7,6,-103.786479,102,True,9.6847,Chemically Accurate
+HF_w0,MHS,adam,7,8,7,-103.786501,134,True,10.2530,Chemically Accurate
+HF_w0,MHS,adam,7,9,8,-103.786514,158,True,10.9984,Chemically Accurate
+HF_w0,MHS,adam,7,10,9,-103.786487,127,True,9.7334,Chemically Accurate
+HF_w0,MHS,adam,7,11,10,-103.786337,117,True,8.0287,Chemically Accurate
+HF_w0,MHS,adam,7,12,11,-103.786513,138,True,12.8104,Chemically Accurate
+HF_w0,MHS,adam,7,13,12,-103.786518,149,True,12.4219,Chemically Accurate
+HF_w0,MHS,adam,7,14,13,-103.786447,125,True,9.6233,Chemically Accurate
+HF_w0,MHS,adam,7,15,14,-103.786500,113,True,8.4464,Chemically Accurate
+HF_w2,MHS,lbfgs,1,1,0,-103.356590,64,True,10.9444,Chemically Accurate
+HF_w2,MHS,lbfgs,1,2,1,-103.356205,28,True,5.1819,Chemically Accurate
+HF_w2,MHS,lbfgs,1,3,2,-103.356205,36,True,6.2914,Chemically Accurate
+HF_w2,MHS,lbfgs,1,4,3,-103.356206,34,True,6.7503,Chemically Accurate
+HF_w2,MHS,lbfgs,1,5,4,-103.356205,26,True,5.1281,Chemically Accurate
+HF_w2,MHS,lbfgs,1,6,5,-103.356206,39,True,7.9658,Chemically Accurate
+HF_w2,MHS,lbfgs,1,7,6,-103.356205,44,True,9.1380,Chemically Accurate
+HF_w2,MHS,lbfgs,1,8,7,-103.356206,37,True,6.9173,Chemically Accurate
+HF_w2,MHS,lbfgs,1,9,8,-103.356204,29,True,5.1509,Chemically Accurate
+HF_w2,MHS,lbfgs,1,10,9,-103.356590,42,True,7.2544,Chemically Accurate
+HF_w2,MHS,lbfgs,1,11,10,-103.356206,40,True,7.1650,Chemically Accurate
+HF_w2,MHS,lbfgs,1,12,11,-103.356603,34,True,7.9285,Chemically Accurate
+HF_w2,MHS,lbfgs,1,13,12,-103.356206,26,True,5.6625,Chemically Accurate
+HF_w2,MHS,lbfgs,1,14,13,-103.356618,35,True,6.9069,Chemically Accurate
+HF_w2,MHS,lbfgs,1,15,14,-103.356205,44,True,7.4820,Chemically Accurate
+HF_w2,MHS,lbfgs,2,1,0,-103.356412,38,True,6.7302,Chemically Accurate
+HF_w2,MHS,lbfgs,2,2,1,-103.325463,43,True,7.1569,Failure
+HF_w2,MHS,lbfgs,2,3,2,-103.356246,31,True,7.6397,Chemically Accurate
+HF_w2,MHS,lbfgs,2,4,3,-103.356592,72,True,12.0883,Chemically Accurate
+HF_w2,MHS,lbfgs,2,5,4,-103.356890,86,True,12.9653,Chemically Accurate
+HF_w2,MHS,lbfgs,2,6,5,-103.356237,33,True,5.8262,Chemically Accurate
+HF_w2,MHS,lbfgs,2,7,6,-103.356759,34,True,7.4938,Chemically Accurate
+HF_w2,MHS,lbfgs,2,8,7,-103.356236,52,True,8.2007,Chemically Accurate
+HF_w2,MHS,lbfgs,2,9,8,-103.356225,38,True,6.2948,Chemically Accurate
+HF_w2,MHS,lbfgs,2,10,9,-103.356955,37,True,6.4358,Chemically Accurate
+HF_w2,MHS,lbfgs,2,11,10,-103.356729,63,True,9.9301,Chemically Accurate
+HF_w2,MHS,lbfgs,2,12,11,-103.356956,63,True,10.9149,Chemically Accurate
+HF_w2,MHS,lbfgs,2,13,12,-103.356943,53,True,9.1554,Chemically Accurate
+HF_w2,MHS,lbfgs,2,14,13,-103.356943,41,True,6.9091,Chemically Accurate
+HF_w2,MHS,lbfgs,2,15,14,-103.325374,35,True,6.5838,Failure
+HF_w2,MHS,lbfgs,3,1,0,-103.356236,47,True,8.7107,Chemically Accurate
+HF_w2,MHS,lbfgs,3,2,1,-103.356869,46,True,9.1843,Chemically Accurate
+HF_w2,MHS,lbfgs,3,3,2,-103.356960,67,True,11.2191,Chemically Accurate
+HF_w2,MHS,lbfgs,3,4,3,-103.356276,37,True,7.3059,Chemically Accurate
+HF_w2,MHS,lbfgs,3,5,4,-103.356222,68,True,12.0989,Chemically Accurate
+HF_w2,MHS,lbfgs,3,6,5,-103.356194,80,True,14.0274,Chemically Accurate
+HF_w2,MHS,lbfgs,3,7,6,-103.356960,55,True,9.8220,Chemically Accurate
+HF_w2,MHS,lbfgs,3,8,7,-103.356814,38,True,9.2074,Chemically Accurate
+HF_w2,MHS,lbfgs,3,9,8,-103.356783,63,True,10.6082,Chemically Accurate
+HF_w2,MHS,lbfgs,3,10,9,-103.356229,42,True,8.0855,Chemically Accurate
+HF_w2,MHS,lbfgs,3,11,10,-103.356210,57,True,12.6310,Chemically Accurate
+HF_w2,MHS,lbfgs,3,12,11,-103.356958,64,True,12.0855,Chemically Accurate
+HF_w2,MHS,lbfgs,3,13,12,-103.356406,43,True,7.5851,Chemically Accurate
+HF_w2,MHS,lbfgs,3,14,13,-103.356954,36,True,6.6865,Chemically Accurate
+HF_w2,MHS,lbfgs,3,15,14,-103.356794,51,True,10.1023,Chemically Accurate
+HF_w2,MHS,lbfgs,4,1,0,-103.356959,72,True,14.5454,Chemically Accurate
+HF_w2,MHS,lbfgs,4,2,1,-103.356200,69,True,11.4130,Chemically Accurate
+HF_w2,MHS,lbfgs,4,3,2,-103.356941,106,True,15.1442,Chemically Accurate
+HF_w2,MHS,lbfgs,4,4,3,-103.356713,85,True,14.8080,Chemically Accurate
+HF_w2,MHS,lbfgs,4,5,4,-103.356938,51,True,8.6209,Chemically Accurate
+HF_w2,MHS,lbfgs,4,6,5,-103.356954,129,True,19.1254,Chemically Accurate
+HF_w2,MHS,lbfgs,4,7,6,-103.356932,46,True,10.0993,Chemically Accurate
+HF_w2,MHS,lbfgs,4,8,7,-103.356902,69,True,10.8444,Chemically Accurate
+HF_w2,MHS,lbfgs,4,9,8,-103.356946,73,True,12.6308,Chemically Accurate
+HF_w2,MHS,lbfgs,4,10,9,-103.356949,54,True,9.7440,Chemically Accurate
+HF_w2,MHS,lbfgs,4,11,10,-103.356535,55,True,10.8202,Chemically Accurate
+HF_w2,MHS,lbfgs,4,12,11,-103.356756,67,True,12.4725,Chemically Accurate
+HF_w2,MHS,lbfgs,4,13,12,-103.356744,64,True,16.3901,Chemically Accurate
+HF_w2,MHS,lbfgs,4,14,13,-103.356923,92,True,15.1759,Chemically Accurate
+HF_w2,MHS,lbfgs,4,15,14,-103.356955,58,True,9.4400,Chemically Accurate
+HF_w2,MHS,lbfgs,5,1,0,-103.356928,76,True,15.6959,Chemically Accurate
+HF_w2,MHS,lbfgs,5,2,1,-103.356960,55,True,10.6756,Chemically Accurate
+HF_w2,MHS,lbfgs,5,3,2,-103.356943,73,True,12.6732,Chemically Accurate
+HF_w2,MHS,lbfgs,5,4,3,-103.356957,44,True,11.1044,Chemically Accurate
+HF_w2,MHS,lbfgs,5,5,4,-103.356954,68,True,13.5965,Chemically Accurate
+HF_w2,MHS,lbfgs,5,6,5,-103.356952,54,True,10.3130,Chemically Accurate
+HF_w2,MHS,lbfgs,5,7,6,-103.356560,70,True,13.8633,Chemically Accurate
+HF_w2,MHS,lbfgs,5,8,7,-103.356871,63,True,12.6690,Chemically Accurate
+HF_w2,MHS,lbfgs,5,9,8,-103.356956,52,True,12.9795,Chemically Accurate
+HF_w2,MHS,lbfgs,5,10,9,-103.356957,74,True,13.4592,Chemically Accurate
+HF_w2,MHS,lbfgs,5,11,10,-103.356960,59,True,11.9106,Chemically Accurate
+HF_w2,MHS,lbfgs,5,12,11,-103.356958,44,True,8.2651,Chemically Accurate
+HF_w2,MHS,lbfgs,5,13,12,-103.356943,59,True,10.0251,Chemically Accurate
+HF_w2,MHS,lbfgs,5,14,13,-103.356951,134,True,20.8717,Chemically Accurate
+HF_w2,MHS,lbfgs,5,15,14,-103.356872,87,True,13.2457,Chemically Accurate
+HF_w2,MHS,lbfgs,6,1,0,-103.356959,65,True,11.4337,Chemically Accurate
+HF_w2,MHS,lbfgs,6,2,1,-103.356957,81,True,13.5884,Chemically Accurate
+HF_w2,MHS,lbfgs,6,3,2,-103.356955,57,True,12.3680,Chemically Accurate
+HF_w2,MHS,lbfgs,6,4,3,-103.356957,71,True,11.9886,Chemically Accurate
+HF_w2,MHS,lbfgs,6,5,4,-103.356957,59,True,11.1555,Chemically Accurate
+HF_w2,MHS,lbfgs,6,6,5,-103.356927,54,True,10.0261,Chemically Accurate
+HF_w2,MHS,lbfgs,6,7,6,-103.356960,54,True,12.0695,Chemically Accurate
+HF_w2,MHS,lbfgs,6,8,7,-103.356953,86,True,14.1387,Chemically Accurate
+HF_w2,MHS,lbfgs,6,9,8,-103.356959,71,True,21.7405,Chemically Accurate
+HF_w2,MHS,lbfgs,6,10,9,-103.356946,103,True,18.8388,Chemically Accurate
+HF_w2,MHS,lbfgs,6,11,10,-103.356959,78,True,14.9580,Chemically Accurate
+HF_w2,MHS,lbfgs,6,12,11,-103.356958,50,True,9.5116,Chemically Accurate
+HF_w2,MHS,lbfgs,6,13,12,-103.356954,87,True,13.9165,Chemically Accurate
+HF_w2,MHS,lbfgs,6,14,13,-103.356953,64,True,11.0004,Chemically Accurate
+HF_w2,MHS,lbfgs,6,15,14,-103.356959,73,True,14.0887,Chemically Accurate
+HF_w2,MHS,lbfgs,7,1,0,-103.356958,57,True,12.0850,Chemically Accurate
+HF_w2,MHS,lbfgs,7,2,1,-103.356956,65,True,11.4617,Chemically Accurate
+HF_w2,MHS,lbfgs,7,3,2,-103.356954,63,True,11.1177,Chemically Accurate
+HF_w2,MHS,lbfgs,7,4,3,-103.356959,61,True,11.9249,Chemically Accurate
+HF_w2,MHS,lbfgs,7,5,4,-103.356959,53,True,11.8812,Chemically Accurate
+HF_w2,MHS,lbfgs,7,6,5,-103.356916,58,True,12.2903,Chemically Accurate
+HF_w2,MHS,lbfgs,7,7,6,-103.356958,71,True,13.4670,Chemically Accurate
+HF_w2,MHS,lbfgs,7,8,7,-103.356950,67,True,11.3963,Chemically Accurate
+HF_w2,MHS,lbfgs,7,9,8,-103.356952,47,True,9.6543,Chemically Accurate
+HF_w2,MHS,lbfgs,7,10,9,-103.356955,83,True,17.4094,Chemically Accurate
+HF_w2,MHS,lbfgs,7,11,10,-103.356958,50,True,9.3759,Chemically Accurate
+HF_w2,MHS,lbfgs,7,12,11,-103.356959,51,True,9.0340,Chemically Accurate
+HF_w2,MHS,lbfgs,7,13,12,-103.356959,61,True,15.0117,Chemically Accurate
+HF_w2,MHS,lbfgs,7,14,13,-103.356949,63,True,12.5339,Chemically Accurate
+HF_w2,MHS,lbfgs,7,15,14,-103.356959,57,True,12.8832,Chemically Accurate
+HF_w2,MHS,adam,1,1,0,-103.356570,573,True,63.1288,Chemically Accurate
+HF_w2,MHS,adam,1,2,1,-103.356181,177,True,18.6835,Chemically Accurate
+HF_w2,MHS,adam,1,3,2,-103.356198,178,True,18.4083,Chemically Accurate
+HF_w2,MHS,adam,1,4,3,-103.356194,238,True,25.5343,Chemically Accurate
+HF_w2,MHS,adam,1,5,4,-103.356185,319,True,33.8913,Chemically Accurate
+HF_w2,MHS,adam,1,6,5,-103.283612,85,True,9.0685,Failure
+HF_w2,MHS,adam,1,7,6,-103.329078,415,True,41.9441,Failure
+HF_w2,MHS,adam,1,8,7,-103.356193,275,True,31.3525,Chemically Accurate
+HF_w2,MHS,adam,1,9,8,-103.227651,78,True,7.5733,Failure
+HF_w2,MHS,adam,1,10,9,-103.356556,802,True,83.5963,Chemically Accurate
+HF_w2,MHS,adam,1,11,10,-103.355950,103,True,9.7672,Chemically Accurate
+HF_w2,MHS,adam,1,12,11,-103.356184,219,True,23.5849,Chemically Accurate
+HF_w2,MHS,adam,1,13,12,-103.356204,189,True,18.8223,Chemically Accurate
+HF_w2,MHS,adam,1,14,13,-103.356583,547,True,57.2816,Chemically Accurate
+HF_w2,MHS,adam,1,15,14,-103.356197,160,True,17.8642,Chemically Accurate
+HF_w2,MHS,adam,2,1,0,-103.356306,467,True,60.0274,Chemically Accurate
+HF_w2,MHS,adam,2,2,1,-103.356845,545,True,55.9158,Chemically Accurate
+HF_w2,MHS,adam,2,3,2,-103.355828,94,True,10.4948,Chemically Accurate
+HF_w2,MHS,adam,2,4,3,-103.356586,200,True,22.3129,Chemically Accurate
+HF_w2,MHS,adam,2,5,4,-103.356203,246,True,26.3770,Chemically Accurate
+HF_w2,MHS,adam,2,6,5,-103.356219,260,True,29.1918,Chemically Accurate
+HF_w2,MHS,adam,2,7,6,-103.356928,605,True,65.8445,Chemically Accurate
+HF_w2,MHS,adam,2,8,7,-103.356050,99,True,10.2732,Chemically Accurate
+HF_w2,MHS,adam,2,9,8,-103.356262,187,True,19.6559,Chemically Accurate
+HF_w2,MHS,adam,2,10,9,-103.356816,782,True,82.0457,Chemically Accurate
+HF_w2,MHS,adam,2,11,10,-103.356179,192,True,23.6568,Chemically Accurate
+HF_w2,MHS,adam,2,12,11,-103.356163,354,True,37.0680,Chemically Accurate
+HF_w2,MHS,adam,2,13,12,-103.356720,304,True,34.4893,Chemically Accurate
+HF_w2,MHS,adam,2,14,13,-103.356825,251,True,29.8516,Chemically Accurate
+HF_w2,MHS,adam,2,15,14,-103.356915,473,True,54.7933,Chemically Accurate
+HF_w2,MHS,adam,3,1,0,-103.356885,311,True,53.9810,Chemically Accurate
+HF_w2,MHS,adam,3,2,1,-103.356442,495,True,72.7571,Chemically Accurate
+HF_w2,MHS,adam,3,3,2,-103.356731,538,True,70.6892,Chemically Accurate
+HF_w2,MHS,adam,3,4,3,-103.356946,190,True,24.2794,Chemically Accurate
+HF_w2,MHS,adam,3,5,4,-103.356201,300,True,39.4209,Chemically Accurate
+HF_w2,MHS,adam,3,6,5,-103.355990,109,True,14.4994,Chemically Accurate
+HF_w2,MHS,adam,3,7,6,-103.356334,182,True,19.1492,Chemically Accurate
+HF_w2,MHS,adam,3,8,7,-103.356565,114,True,18.3996,Chemically Accurate
+HF_w2,MHS,adam,3,9,8,-103.356956,187,True,31.4936,Chemically Accurate
+HF_w2,MHS,adam,3,10,9,-103.356920,419,True,61.0451,Chemically Accurate
+HF_w2,MHS,adam,3,11,10,-103.356111,369,True,46.8182,Chemically Accurate
+HF_w2,MHS,adam,3,12,11,-103.356452,526,True,66.0521,Chemically Accurate
+HF_w2,MHS,adam,3,13,12,-103.356552,268,True,34.2864,Chemically Accurate
+HF_w2,MHS,adam,3,14,13,-103.356609,184,True,22.7832,Chemically Accurate
+HF_w2,MHS,adam,3,15,14,-103.356897,396,True,51.0066,Chemically Accurate
+HF_w2,MHS,adam,4,1,0,-103.356851,395,True,50.5904,Chemically Accurate
+HF_w2,MHS,adam,4,2,1,-103.356875,197,True,33.5244,Chemically Accurate
+HF_w2,MHS,adam,4,3,2,-103.356844,548,True,64.2838,Chemically Accurate
+HF_w2,MHS,adam,4,4,3,-103.356941,309,True,33.9946,Chemically Accurate
+HF_w2,MHS,adam,4,5,4,-103.356213,206,True,25.3066,Chemically Accurate
+HF_w2,MHS,adam,4,6,5,-103.356844,789,True,90.6389,Chemically Accurate
+HF_w2,MHS,adam,4,7,6,-103.356909,248,True,27.1999,Chemically Accurate
+HF_w2,MHS,adam,4,8,7,-103.356761,595,True,72.7478,Chemically Accurate
+HF_w2,MHS,adam,4,9,8,-103.356838,630,True,76.5989,Chemically Accurate
+HF_w2,MHS,adam,4,10,9,-103.352018,120,True,13.0294,Qualitatively Accurate
+HF_w2,MHS,adam,4,11,10,-103.356862,618,True,71.2411,Chemically Accurate
+HF_w2,MHS,adam,4,12,11,-103.356468,409,True,43.5366,Chemically Accurate
+HF_w2,MHS,adam,4,13,12,-103.356912,221,True,31.0824,Chemically Accurate
+HF_w2,MHS,adam,4,14,13,-103.356924,214,True,26.5752,Chemically Accurate
+HF_w2,MHS,adam,4,15,14,-103.356878,547,True,74.3961,Chemically Accurate
+HF_w2,MHS,adam,5,1,0,-103.354139,75,True,14.9948,Qualitatively Accurate
+HF_w2,MHS,adam,5,2,1,-103.356780,301,True,43.1729,Chemically Accurate
+HF_w2,MHS,adam,5,3,2,-103.356828,439,True,47.7609,Chemically Accurate
+HF_w2,MHS,adam,5,4,3,-103.356916,116,True,11.8461,Chemically Accurate
+HF_w2,MHS,adam,5,5,4,-103.356941,318,True,43.8443,Chemically Accurate
+HF_w2,MHS,adam,5,6,5,-103.356927,335,True,38.3110,Chemically Accurate
+HF_w2,MHS,adam,5,7,6,-103.356878,471,True,51.9458,Chemically Accurate
+HF_w2,MHS,adam,5,8,7,-103.356912,612,True,72.9891,Chemically Accurate
+HF_w2,MHS,adam,5,9,8,-103.356772,693,True,83.0502,Chemically Accurate
+HF_w2,MHS,adam,5,10,9,-103.356149,573,True,63.7685,Chemically Accurate
+HF_w2,MHS,adam,5,11,10,-103.356912,465,True,55.6733,Chemically Accurate
+HF_w2,MHS,adam,5,12,11,-103.356946,156,True,19.0009,Chemically Accurate
+HF_w2,MHS,adam,5,13,12,-103.356403,114,True,12.6177,Chemically Accurate
+HF_w2,MHS,adam,5,14,13,-103.356890,610,True,71.8596,Chemically Accurate
+HF_w2,MHS,adam,5,15,14,-103.356925,591,True,70.9777,Chemically Accurate
+HF_w2,MHS,adam,6,1,0,-103.354738,71,True,8.4589,Qualitatively Accurate
+HF_w2,MHS,adam,6,2,1,-103.356932,254,True,32.5378,Chemically Accurate
+HF_w2,MHS,adam,6,3,2,-103.356954,181,True,20.1380,Chemically Accurate
+HF_w2,MHS,adam,6,4,3,-103.356877,373,True,48.1602,Chemically Accurate
+HF_w2,MHS,adam,6,5,4,-103.356945,223,True,27.2904,Chemically Accurate
+HF_w2,MHS,adam,6,6,5,-103.356944,204,True,33.8052,Chemically Accurate
+HF_w2,MHS,adam,6,7,6,-103.356675,105,True,14.6213,Chemically Accurate
+HF_w2,MHS,adam,6,8,7,-103.356924,245,True,37.2891,Chemically Accurate
+HF_w2,MHS,adam,6,9,8,-103.356921,202,True,24.9782,Chemically Accurate
+HF_w2,MHS,adam,6,10,9,-103.356940,235,True,27.2565,Chemically Accurate
+HF_w2,MHS,adam,6,11,10,-103.356912,332,True,38.2361,Chemically Accurate
+HF_w2,MHS,adam,6,12,11,-103.356944,201,True,24.9807,Chemically Accurate
+HF_w2,MHS,adam,6,13,12,-103.356929,212,True,34.5773,Chemically Accurate
+HF_w2,MHS,adam,6,14,13,-103.356948,170,True,23.6929,Chemically Accurate
+HF_w2,MHS,adam,6,15,14,-103.356910,484,True,55.8776,Chemically Accurate
+HF_w2,MHS,adam,7,1,0,-103.356950,206,True,28.6494,Chemically Accurate
+HF_w2,MHS,adam,7,2,1,-103.356912,506,True,60.3278,Chemically Accurate
+HF_w2,MHS,adam,7,3,2,-103.356942,199,True,22.5343,Chemically Accurate
+HF_w2,MHS,adam,7,4,3,-103.356953,181,True,26.2023,Chemically Accurate
+HF_w2,MHS,adam,7,5,4,-103.356944,212,True,24.1024,Chemically Accurate
+HF_w2,MHS,adam,7,6,5,-103.356955,225,True,31.5202,Chemically Accurate
+HF_w2,MHS,adam,7,7,6,-103.356934,201,True,23.3028,Chemically Accurate
+HF_w2,MHS,adam,7,8,7,-103.356957,324,True,42.8935,Chemically Accurate
+HF_w2,MHS,adam,7,9,8,-103.356918,204,True,23.3528,Chemically Accurate
+HF_w2,MHS,adam,7,10,9,-103.356929,218,True,28.0280,Chemically Accurate
+HF_w2,MHS,adam,7,11,10,-103.356939,208,True,23.6202,Chemically Accurate
+HF_w2,MHS,adam,7,12,11,-103.356053,71,True,9.1701,Chemically Accurate
+HF_w2,MHS,adam,7,13,12,-103.356933,108,True,14.8953,Chemically Accurate
+HF_w2,MHS,adam,7,14,13,-103.356933,214,True,27.6617,Chemically Accurate
+HF_w2,MHS,adam,7,15,14,-103.356955,201,True,21.9870,Chemically Accurate
+LiH_w0,MHS,lbfgs,1,1,0,-7.814701,13,True,4.5725,Failure
+LiH_w0,MHS,lbfgs,1,2,1,-7.814697,19,True,5.0790,Failure
+LiH_w0,MHS,lbfgs,1,3,2,-8.859257,23,True,7.4667,Failure
+LiH_w0,MHS,lbfgs,1,4,3,-8.859269,23,True,8.4836,Failure
+LiH_w0,MHS,lbfgs,1,5,4,-8.858570,21,True,5.5229,Failure
+LiH_w0,MHS,lbfgs,1,6,5,-8.859256,26,True,5.6565,Failure
+LiH_w0,MHS,lbfgs,1,7,6,-7.813788,11,True,3.8507,Failure
+LiH_w0,MHS,lbfgs,1,8,7,-8.859257,36,True,8.3234,Failure
+LiH_w0,MHS,lbfgs,1,9,8,-8.859277,42,True,8.8512,Failure
+LiH_w0,MHS,lbfgs,1,10,9,-8.859253,19,True,5.3136,Failure
+LiH_w0,MHS,lbfgs,1,11,10,-8.859257,38,True,7.7548,Failure
+LiH_w0,MHS,lbfgs,1,12,11,-8.858982,28,True,6.1495,Failure
+LiH_w0,MHS,lbfgs,1,13,12,-8.859257,18,True,4.6935,Failure
+LiH_w0,MHS,lbfgs,1,14,13,-8.859263,27,True,5.9262,Failure
+LiH_w0,MHS,lbfgs,1,15,14,-8.859270,46,True,9.4504,Failure
+LiH_w0,MHS,lbfgs,2,1,0,-8.873109,36,True,7.3532,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,2,1,-7.814685,14,True,4.6703,Failure
+LiH_w0,MHS,lbfgs,2,3,2,-8.858627,20,True,8.5963,Failure
+LiH_w0,MHS,lbfgs,2,4,3,-8.873194,47,True,8.8556,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,5,4,-8.873297,45,True,7.9965,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,6,5,-8.858537,25,True,6.1143,Failure
+LiH_w0,MHS,lbfgs,2,7,6,-8.859228,22,True,5.4607,Failure
+LiH_w0,MHS,lbfgs,2,8,7,-8.873282,29,True,5.9598,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,9,8,-8.873134,34,True,6.2983,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,10,9,-8.872739,17,True,4.6089,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,11,10,-8.872761,64,True,13.1132,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,12,11,-8.872705,22,True,5.7291,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,13,12,-8.873230,60,True,11.3616,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,14,13,-8.873212,17,True,5.2401,Chemically Accurate
+LiH_w0,MHS,lbfgs,2,15,14,-8.858535,19,True,5.2264,Failure
+LiH_w0,MHS,lbfgs,3,1,0,-8.873380,60,True,13.3732,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,2,1,-8.873111,37,True,7.1002,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,3,2,-8.873234,42,True,8.4913,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,4,3,-8.873377,41,True,8.1600,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,5,4,-8.859722,58,True,10.5066,Failure
+LiH_w0,MHS,lbfgs,3,6,5,-8.859340,60,True,10.9538,Failure
+LiH_w0,MHS,lbfgs,3,7,6,-8.859714,25,True,8.3168,Failure
+LiH_w0,MHS,lbfgs,3,8,7,-8.873265,37,True,7.9322,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,9,8,-8.873353,50,True,9.5844,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,10,9,-8.859460,18,True,5.5590,Failure
+LiH_w0,MHS,lbfgs,3,11,10,-8.872818,44,True,9.9176,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,12,11,-8.873295,47,True,12.9953,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,13,12,-8.873304,31,True,6.8811,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,14,13,-8.873295,63,True,10.9146,Chemically Accurate
+LiH_w0,MHS,lbfgs,3,15,14,-8.873055,33,True,7.3234,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,1,0,-8.873385,41,True,8.1254,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,2,1,-8.873130,53,True,10.3010,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,3,2,-8.873364,55,True,10.2245,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,4,3,-8.873303,35,True,7.5682,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,5,4,-8.873369,46,True,9.9584,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,6,5,-8.873165,57,True,13.8902,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,7,6,-8.873321,75,True,14.8058,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,8,7,-8.873349,86,True,15.5348,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,9,8,-8.873385,35,True,8.4091,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,10,9,-8.873175,37,True,7.9099,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,11,10,-8.859328,36,True,9.5622,Failure
+LiH_w0,MHS,lbfgs,4,12,11,-8.873360,32,True,6.9335,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,13,12,-8.873329,51,True,10.2811,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,14,13,-8.873007,47,True,9.2974,Chemically Accurate
+LiH_w0,MHS,lbfgs,4,15,14,-8.873326,33,True,7.6893,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,1,0,-8.873340,52,True,16.1759,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,2,1,-8.873389,28,True,7.6354,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,3,2,-8.873388,74,True,13.1117,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,4,3,-8.873383,58,True,12.1517,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,5,4,-8.873382,33,True,9.4589,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,6,5,-8.873386,33,True,9.4026,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,7,6,-8.873386,34,True,8.0162,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,8,7,-8.873388,55,True,10.6967,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,9,8,-8.873363,62,True,11.4657,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,10,9,-8.873387,39,True,7.9607,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,11,10,-8.873385,49,True,14.2982,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,12,11,-8.873345,58,True,10.9345,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,13,12,-8.873364,44,True,9.2074,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,14,13,-8.873372,49,True,10.8624,Chemically Accurate
+LiH_w0,MHS,lbfgs,5,15,14,-8.873380,42,True,10.8477,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,1,0,-8.873388,28,True,7.5075,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,2,1,-8.873372,31,True,8.5195,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,3,2,-8.873387,29,True,8.1511,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,4,3,-8.873388,29,True,7.5468,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,5,4,-8.873376,31,True,7.5883,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,6,5,-8.873388,33,True,8.5924,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,7,6,-8.873388,23,True,6.4660,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,8,7,-8.873387,33,True,7.4593,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,9,8,-8.873388,51,True,15.7546,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,10,9,-8.873388,36,True,9.7242,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,11,10,-8.873388,28,True,7.3886,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,12,11,-8.873388,22,True,6.5000,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,13,12,-8.873367,44,True,10.6202,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,14,13,-8.873388,37,True,7.9104,Chemically Accurate
+LiH_w0,MHS,lbfgs,6,15,14,-8.873388,46,True,10.6561,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,1,0,-8.873388,22,True,7.2252,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,2,1,-8.873387,44,True,9.2474,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,3,2,-8.873388,29,True,7.5167,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,4,3,-8.873385,27,True,7.1964,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,5,4,-8.873387,25,True,7.1765,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,6,5,-8.873388,30,True,7.2104,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,7,6,-8.873387,34,True,12.1437,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,8,7,-8.873384,23,True,7.0421,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,9,8,-8.873388,27,True,7.3071,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,10,9,-8.873388,38,True,9.1035,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,11,10,-8.873388,29,True,7.5223,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,12,11,-8.873388,25,True,6.8368,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,13,12,-8.873385,32,True,8.7905,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,14,13,-8.873388,35,True,8.9848,Chemically Accurate
+LiH_w0,MHS,lbfgs,7,15,14,-8.873388,48,True,13.7526,Chemically Accurate
+LiH_w0,MHS,adam,1,1,0,-7.814605,101,True,11.7982,Failure
+LiH_w0,MHS,adam,1,2,1,-8.858904,84,True,11.7644,Failure
+LiH_w0,MHS,adam,1,3,2,-8.858518,135,True,17.9958,Failure
+LiH_w0,MHS,adam,1,4,3,-8.859266,114,True,12.6166,Failure
+LiH_w0,MHS,adam,1,5,4,-8.857784,95,True,9.6900,Failure
+LiH_w0,MHS,adam,1,6,5,-8.859047,171,True,17.0981,Failure
+LiH_w0,MHS,adam,1,7,6,-8.859249,145,True,18.0691,Failure
+LiH_w0,MHS,adam,1,8,7,-8.859242,212,True,27.1637,Failure
+LiH_w0,MHS,adam,1,9,8,-7.814704,107,True,11.6745,Failure
+LiH_w0,MHS,adam,1,10,9,-8.859251,132,True,14.3893,Failure
+LiH_w0,MHS,adam,1,11,10,-8.859242,182,True,18.6171,Failure
+LiH_w0,MHS,adam,1,12,11,-8.859198,222,True,28.1858,Failure
+LiH_w0,MHS,adam,1,13,12,-8.859186,93,True,10.5188,Failure
+LiH_w0,MHS,adam,1,14,13,-8.858503,117,True,13.5194,Failure
+LiH_w0,MHS,adam,1,15,14,-8.858526,121,True,16.5864,Failure
+LiH_w0,MHS,adam,2,1,0,-8.873276,173,True,23.9606,Chemically Accurate
+LiH_w0,MHS,adam,2,2,1,-8.872894,229,True,32.2811,Chemically Accurate
+LiH_w0,MHS,adam,2,3,2,-8.858778,109,True,12.1059,Failure
+LiH_w0,MHS,adam,2,4,3,-8.873281,116,True,15.1720,Chemically Accurate
+LiH_w0,MHS,adam,2,5,4,-8.859309,135,True,15.9835,Failure
+LiH_w0,MHS,adam,2,6,5,-8.860304,103,True,11.4446,Failure
+LiH_w0,MHS,adam,2,7,6,-8.873189,164,True,22.6029,Chemically Accurate
+LiH_w0,MHS,adam,2,8,7,-7.816630,86,True,9.4554,Failure
+LiH_w0,MHS,adam,2,9,8,-8.873152,158,True,18.1992,Chemically Accurate
+LiH_w0,MHS,adam,2,10,9,-8.872707,131,True,13.8965,Chemically Accurate
+LiH_w0,MHS,adam,2,11,10,-8.858501,123,True,15.0682,Failure
+LiH_w0,MHS,adam,2,12,11,-8.873010,90,True,10.2221,Chemically Accurate
+LiH_w0,MHS,adam,2,13,12,-8.873146,288,True,39.3342,Chemically Accurate
+LiH_w0,MHS,adam,2,14,13,-8.873108,98,True,11.7935,Chemically Accurate
+LiH_w0,MHS,adam,2,15,14,-8.855898,53,True,6.2210,Failure
+LiH_w0,MHS,adam,3,1,0,-8.858439,117,True,13.0178,Failure
+LiH_w0,MHS,adam,3,2,1,-8.873255,110,True,12.8420,Chemically Accurate
+LiH_w0,MHS,adam,3,3,2,-8.873269,150,True,20.8461,Chemically Accurate
+LiH_w0,MHS,adam,3,4,3,-8.873368,334,True,40.4511,Chemically Accurate
+LiH_w0,MHS,adam,3,5,4,-8.873273,335,True,44.9089,Chemically Accurate
+LiH_w0,MHS,adam,3,6,5,-8.859314,111,True,16.1745,Failure
+LiH_w0,MHS,adam,3,7,6,-8.859902,78,True,9.3340,Failure
+LiH_w0,MHS,adam,3,8,7,-8.873292,114,True,15.9670,Chemically Accurate
+LiH_w0,MHS,adam,3,9,8,-8.873342,134,True,19.4564,Chemically Accurate
+LiH_w0,MHS,adam,3,10,9,-8.857936,76,True,10.1499,Failure
+LiH_w0,MHS,adam,3,11,10,-8.872975,118,True,14.3246,Chemically Accurate
+LiH_w0,MHS,adam,3,12,11,-8.873301,139,True,20.5967,Chemically Accurate
+LiH_w0,MHS,adam,3,13,12,-8.873290,162,True,23.7684,Chemically Accurate
+LiH_w0,MHS,adam,3,14,13,-8.859344,107,True,13.4198,Failure
+LiH_w0,MHS,adam,3,15,14,-8.872910,102,True,14.6993,Chemically Accurate
+LiH_w0,MHS,adam,4,1,0,-8.860301,86,True,10.3657,Failure
+LiH_w0,MHS,adam,4,2,1,-8.873299,113,True,15.1220,Chemically Accurate
+LiH_w0,MHS,adam,4,3,2,-8.873257,109,True,19.5182,Chemically Accurate
+LiH_w0,MHS,adam,4,4,3,-8.873166,108,True,14.0526,Chemically Accurate
+LiH_w0,MHS,adam,4,5,4,-8.873347,300,True,34.1301,Chemically Accurate
+LiH_w0,MHS,adam,4,6,5,-8.866239,86,True,10.3033,Qualitatively Accurate
+LiH_w0,MHS,adam,4,7,6,-8.873212,102,True,20.5811,Chemically Accurate
+LiH_w0,MHS,adam,4,8,7,-8.873270,317,True,42.5037,Chemically Accurate
+LiH_w0,MHS,adam,4,9,8,-8.873363,162,True,19.1940,Chemically Accurate
+LiH_w0,MHS,adam,4,10,9,-8.873161,152,True,19.2085,Chemically Accurate
+LiH_w0,MHS,adam,4,11,10,-8.873139,87,True,14.2395,Chemically Accurate
+LiH_w0,MHS,adam,4,12,11,-8.873314,239,True,29.6755,Chemically Accurate
+LiH_w0,MHS,adam,4,13,12,-8.873290,231,True,28.3219,Chemically Accurate
+LiH_w0,MHS,adam,4,14,13,-8.873157,132,True,15.5657,Chemically Accurate
+LiH_w0,MHS,adam,4,15,14,-8.871986,71,True,12.0599,Chemically Accurate
+LiH_w0,MHS,adam,5,1,0,-8.873283,114,True,14.9501,Chemically Accurate
+LiH_w0,MHS,adam,5,2,1,-8.873386,166,True,21.9143,Chemically Accurate
+LiH_w0,MHS,adam,5,3,2,-8.873291,372,True,48.0844,Chemically Accurate
+LiH_w0,MHS,adam,5,4,3,-8.873387,207,True,24.1294,Chemically Accurate
+LiH_w0,MHS,adam,5,5,4,-8.873349,207,True,34.8167,Chemically Accurate
+LiH_w0,MHS,adam,5,6,5,-8.873302,169,True,21.4414,Chemically Accurate
+LiH_w0,MHS,adam,5,7,6,-8.873381,122,True,20.2765,Chemically Accurate
+LiH_w0,MHS,adam,5,8,7,-8.873239,92,True,10.4880,Chemically Accurate
+LiH_w0,MHS,adam,5,9,8,-8.873385,152,True,17.5732,Chemically Accurate
+LiH_w0,MHS,adam,5,10,9,-8.873357,262,True,30.6809,Chemically Accurate
+LiH_w0,MHS,adam,5,11,10,-8.873345,102,True,11.4667,Chemically Accurate
+LiH_w0,MHS,adam,5,12,11,-8.873311,175,True,28.0887,Chemically Accurate
+LiH_w0,MHS,adam,5,13,12,-8.873286,170,True,23.4485,Chemically Accurate
+LiH_w0,MHS,adam,5,14,13,-8.873276,111,True,13.9338,Chemically Accurate
+LiH_w0,MHS,adam,5,15,14,-8.871476,89,True,11.2293,Qualitatively Accurate
+LiH_w0,MHS,adam,6,1,0,-8.873376,104,True,16.9941,Chemically Accurate
+LiH_w0,MHS,adam,6,2,1,-8.873223,87,True,19.9508,Chemically Accurate
+LiH_w0,MHS,adam,6,3,2,-8.873374,147,True,19.6646,Chemically Accurate
+LiH_w0,MHS,adam,6,4,3,-8.873370,187,True,23.8858,Chemically Accurate
+LiH_w0,MHS,adam,6,5,4,-8.873386,126,True,16.1937,Chemically Accurate
+LiH_w0,MHS,adam,6,6,5,-8.873140,89,True,10.9998,Chemically Accurate
+LiH_w0,MHS,adam,6,7,6,-8.872980,85,True,9.5812,Chemically Accurate
+LiH_w0,MHS,adam,6,8,7,-8.873367,136,True,20.0964,Chemically Accurate
+LiH_w0,MHS,adam,6,9,8,-8.872985,95,True,12.8009,Chemically Accurate
+LiH_w0,MHS,adam,6,10,9,-8.873353,95,True,11.4905,Chemically Accurate
+LiH_w0,MHS,adam,6,11,10,-8.873106,81,True,10.0707,Chemically Accurate
+LiH_w0,MHS,adam,6,12,11,-8.873369,108,True,14.4601,Chemically Accurate
+LiH_w0,MHS,adam,6,13,12,-8.873378,190,True,22.2076,Chemically Accurate
+LiH_w0,MHS,adam,6,14,13,-8.872889,86,True,15.7199,Chemically Accurate
+LiH_w0,MHS,adam,6,15,14,-8.873223,103,True,11.8971,Chemically Accurate
+LiH_w0,MHS,adam,7,1,0,-8.873372,110,True,17.8801,Chemically Accurate
+LiH_w0,MHS,adam,7,2,1,-8.873375,117,True,16.4058,Chemically Accurate
+LiH_w0,MHS,adam,7,3,2,-8.873384,131,True,19.9031,Chemically Accurate
+LiH_w0,MHS,adam,7,4,3,-8.870501,57,True,8.0084,Qualitatively Accurate
+LiH_w0,MHS,adam,7,5,4,-8.873373,108,True,14.2057,Chemically Accurate
+LiH_w0,MHS,adam,7,6,5,-8.873342,108,True,21.3369,Chemically Accurate
+LiH_w0,MHS,adam,7,7,6,-8.873377,122,True,16.6688,Chemically Accurate
+LiH_w0,MHS,adam,7,8,7,-8.873339,94,True,12.3241,Chemically Accurate
+LiH_w0,MHS,adam,7,9,8,-8.873373,99,True,12.6567,Chemically Accurate
+LiH_w0,MHS,adam,7,10,9,-8.873338,109,True,15.9919,Chemically Accurate
+LiH_w0,MHS,adam,7,11,10,-8.873206,84,True,14.4665,Chemically Accurate
+LiH_w0,MHS,adam,7,12,11,-8.873241,86,True,11.3328,Chemically Accurate
+LiH_w0,MHS,adam,7,13,12,-8.873377,106,True,17.7610,Chemically Accurate
+LiH_w0,MHS,adam,7,14,13,-8.847310,46,True,7.1212,Failure
+LiH_w0,MHS,adam,7,15,14,-8.872942,91,True,11.7431,Chemically Accurate
+LiH_w2,MHS,lbfgs,1,1,0,-8.709738,58,True,44.6415,Failure
+LiH_w2,MHS,lbfgs,1,2,1,-8.717228,104,True,79.1480,Failure
+LiH_w2,MHS,lbfgs,1,3,2,-8.711735,66,True,51.2484,Failure
+LiH_w2,MHS,lbfgs,1,4,3,-8.481105,34,True,28.7496,Failure
+LiH_w2,MHS,lbfgs,1,5,4,-8.481106,22,True,19.3344,Failure
+LiH_w2,MHS,lbfgs,1,6,5,-8.717220,50,True,43.6881,Failure
+LiH_w2,MHS,lbfgs,1,7,6,-8.709736,41,True,36.2686,Failure
+LiH_w2,MHS,lbfgs,1,8,7,-8.681149,40,True,35.2215,Failure
+LiH_w2,MHS,lbfgs,1,9,8,-8.709722,52,True,42.4583,Failure
+LiH_w2,MHS,lbfgs,1,10,9,-8.717224,56,True,44.9042,Failure
+LiH_w2,MHS,lbfgs,1,11,10,-8.717263,42,True,37.8360,Failure
+LiH_w2,MHS,lbfgs,1,12,11,-8.481110,27,True,23.6954,Failure
+LiH_w2,MHS,lbfgs,1,13,12,-6.556696,18,True,16.5753,Failure
+LiH_w2,MHS,lbfgs,1,14,13,-8.711734,28,True,23.9274,Failure
+LiH_w2,MHS,lbfgs,1,15,14,-8.481112,37,True,32.4636,Failure
+LiH_w2,MHS,lbfgs,2,1,0,-8.761160,51,True,41.7637,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,2,1,-8.681837,28,True,26.4103,Failure
+LiH_w2,MHS,lbfgs,2,3,2,-8.711166,44,True,37.1415,Failure
+LiH_w2,MHS,lbfgs,2,4,3,-8.761158,71,True,57.8529,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,5,4,-8.761238,91,True,71.1136,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,6,5,-8.761160,49,True,40.2699,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,7,6,-8.761162,84,True,69.8731,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,8,7,-8.711200,68,True,55.9813,Failure
+LiH_w2,MHS,lbfgs,2,9,8,-8.701153,35,True,29.9178,Failure
+LiH_w2,MHS,lbfgs,2,10,9,-8.717221,61,True,48.8004,Failure
+LiH_w2,MHS,lbfgs,2,11,10,-8.711189,55,True,43.9953,Failure
+LiH_w2,MHS,lbfgs,2,12,11,-8.761139,94,True,74.0299,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,13,12,-8.761179,49,True,39.5420,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,14,13,-8.761159,93,True,76.2812,Chemically Accurate
+LiH_w2,MHS,lbfgs,2,15,14,-8.761162,99,True,82.1297,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,1,0,-8.761202,101,True,83.7328,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,2,1,-8.761178,43,True,35.6294,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,3,2,-8.711257,70,True,56.4384,Failure
+LiH_w2,MHS,lbfgs,3,4,3,-8.761175,155,True,125.1788,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,5,4,-8.761233,55,True,44.3720,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,6,5,-8.761163,181,True,147.6424,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,7,6,-8.761182,83,True,65.9386,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,8,7,-8.761165,66,True,56.9484,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,9,8,-8.761162,119,True,99.9380,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,10,9,-8.761148,123,True,98.5365,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,11,10,-8.761150,111,True,90.6203,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,12,11,-8.711209,76,True,63.4120,Failure
+LiH_w2,MHS,lbfgs,3,13,12,-8.761165,52,True,40.5834,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,14,13,-8.761165,141,True,118.4474,Chemically Accurate
+LiH_w2,MHS,lbfgs,3,15,14,-8.761156,67,True,56.8362,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,1,0,-8.761127,123,True,103.2621,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,2,1,-8.761227,101,True,83.1336,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,3,2,-8.761187,128,True,107.2614,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,4,3,-8.761202,148,True,125.0105,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,5,4,-8.761153,95,True,76.1966,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,6,5,-8.761161,168,True,137.9227,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,7,6,-8.761157,132,True,111.3642,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,8,7,-8.761248,102,True,86.6600,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,9,8,-8.761189,60,True,48.3843,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,10,9,-8.756921,95,True,81.3173,Qualitatively Accurate
+LiH_w2,MHS,lbfgs,4,11,10,-8.760849,97,True,80.9930,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,12,11,-8.761162,64,True,57.0941,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,13,12,-8.761194,81,True,68.7597,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,14,13,-8.761178,84,True,71.0297,Chemically Accurate
+LiH_w2,MHS,lbfgs,4,15,14,-8.761207,64,True,56.8261,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,1,0,-8.761328,228,True,189.6231,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,2,1,-8.761194,46,True,40.0665,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,3,2,-8.761260,126,True,107.3595,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,4,3,-8.761207,79,True,68.4999,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,5,4,-8.761234,123,True,106.3694,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,6,5,-8.761214,172,True,144.6651,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,7,6,-8.761240,167,True,148.3483,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,8,7,-8.761182,109,True,93.9609,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,9,8,-8.761171,55,True,56.1513,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,10,9,-8.761281,106,True,91.4756,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,11,10,-8.761266,86,True,76.6950,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,12,11,-8.761188,166,True,141.0352,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,13,12,-8.743756,76,True,64.5828,Failure
+LiH_w2,MHS,lbfgs,5,14,13,-8.761229,74,True,68.8104,Chemically Accurate
+LiH_w2,MHS,lbfgs,5,15,14,-8.761263,65,True,56.3929,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,1,0,-8.761209,84,True,79.1714,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,2,1,-8.761273,98,True,103.3818,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,3,2,-8.761224,104,True,135.3490,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,4,3,-8.761162,190,True,263.8887,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,5,4,-8.761310,96,True,238.3775,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,6,5,-8.761334,63,True,171.2614,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,7,6,-8.761273,98,True,337.2946,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,8,7,-8.761257,91,True,271.5377,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,9,8,-8.761247,191,True,689.1334,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,10,9,-8.761191,85,True,401.6852,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,11,10,-8.761286,94,True,493.5999,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,12,11,-8.761314,94,True,417.1608,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,13,12,-8.761221,103,True,678.1669,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,14,13,-8.761259,147,True,835.7005,Chemically Accurate
+LiH_w2,MHS,lbfgs,6,15,14,-8.711183,78,True,873.3099,Failure
+LiH_w2,MHS,lbfgs,7,1,0,-8.761249,133,True,1188.6795,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,2,1,-8.761394,139,True,1527.0753,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,3,2,-8.761128,86,True,950.1434,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,4,3,-8.761330,111,True,2244.1501,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,5,4,-8.761278,148,True,2500.3321,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,6,5,-8.761264,82,True,1290.4371,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,7,6,-8.761401,79,True,1137.2065,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,8,7,-8.761252,102,True,108.5414,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,9,8,-8.761310,64,True,79.0675,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,10,9,-8.761342,90,True,97.4710,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,11,10,-8.761185,106,True,115.4108,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,12,11,-8.761260,97,True,111.8243,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,13,12,-8.761327,78,True,92.1607,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,14,13,-8.761298,99,True,93.2137,Chemically Accurate
+LiH_w2,MHS,lbfgs,7,15,14,-8.761073,111,True,114.3748,Chemically Accurate
+LiH_w2,MHS,adam,1,1,0,-8.711654,112,True,153.0940,Failure
+LiH_w2,MHS,adam,1,2,1,-8.431869,126,True,160.8584,Failure
+LiH_w2,MHS,adam,1,3,2,-8.681109,111,True,144.4090,Failure
+LiH_w2,MHS,adam,1,4,3,-8.711719,205,True,264.4623,Failure
+LiH_w2,MHS,adam,1,5,4,-8.711722,175,True,235.1362,Failure
+LiH_w2,MHS,adam,1,6,5,-8.711676,119,True,158.2886,Failure
+LiH_w2,MHS,adam,1,7,6,-8.706309,148,True,195.9739,Failure
+LiH_w2,MHS,adam,1,8,7,-8.711714,124,True,163.9904,Failure
+LiH_w2,MHS,adam,1,9,8,-8.709729,115,True,149.2261,Failure
+LiH_w2,MHS,adam,1,10,9,-8.717046,112,True,147.0947,Failure
+LiH_w2,MHS,adam,1,11,10,-8.712387,1000,False,1287.6199,Failure
+LiH_w2,MHS,adam,1,12,11,-8.481080,219,True,274.4043,Failure
+LiH_w2,MHS,adam,1,13,12,-6.556654,105,True,131.3237,Failure
+LiH_w2,MHS,adam,1,14,13,-8.711621,425,True,549.2276,Failure
+LiH_w2,MHS,adam,1,15,14,-8.480441,91,True,114.7958,Failure
+LiH_w2,MHS,adam,2,1,0,-8.760696,124,True,158.5249,Chemically Accurate
+LiH_w2,MHS,adam,2,2,1,-8.717182,114,True,142.7302,Failure
+LiH_w2,MHS,adam,2,3,2,-8.710891,116,True,148.2931,Failure
+LiH_w2,MHS,adam,2,4,3,-8.711157,301,True,389.7543,Failure
+LiH_w2,MHS,adam,2,5,4,-8.743038,143,True,185.5615,Failure
+LiH_w2,MHS,adam,2,6,5,-8.706427,48,True,60.9440,Failure
+LiH_w2,MHS,adam,2,7,6,-8.761112,242,True,313.9037,Chemically Accurate
+LiH_w2,MHS,adam,2,8,7,-8.761042,101,True,134.0856,Chemically Accurate
+LiH_w2,MHS,adam,2,9,8,-8.711107,121,True,156.0512,Failure
+LiH_w2,MHS,adam,2,10,9,-8.761150,193,True,248.4574,Chemically Accurate
+LiH_w2,MHS,adam,2,11,10,-8.761094,127,True,165.0113,Chemically Accurate
+LiH_w2,MHS,adam,2,12,11,-8.761157,380,True,496.8484,Chemically Accurate
+LiH_w2,MHS,adam,2,13,12,-8.761016,98,True,127.3611,Chemically Accurate
+LiH_w2,MHS,adam,2,14,13,-8.761152,291,True,375.6145,Chemically Accurate
+LiH_w2,MHS,adam,2,15,14,-8.711129,381,True,495.6034,Failure
+LiH_w2,MHS,adam,3,1,0,-8.760999,103,True,134.2071,Chemically Accurate
+LiH_w2,MHS,adam,3,2,1,-8.761159,133,True,171.9528,Chemically Accurate
+LiH_w2,MHS,adam,3,3,2,-8.760922,210,True,271.5754,Chemically Accurate
+LiH_w2,MHS,adam,3,4,3,-8.746522,88,True,109.4722,Failure
+LiH_w2,MHS,adam,3,5,4,-8.761176,256,True,336.6902,Chemically Accurate
+LiH_w2,MHS,adam,3,6,5,-8.761161,163,True,209.5772,Chemically Accurate
+LiH_w2,MHS,adam,3,7,6,-8.761205,222,True,293.1426,Chemically Accurate
+LiH_w2,MHS,adam,3,8,7,-8.761151,304,True,395.8456,Chemically Accurate
+LiH_w2,MHS,adam,3,9,8,-8.761165,233,True,310.1163,Chemically Accurate
+LiH_w2,MHS,adam,3,10,9,-8.761090,591,True,789.3551,Chemically Accurate
+LiH_w2,MHS,adam,3,11,10,-8.756863,413,True,546.9515,Qualitatively Accurate
+LiH_w2,MHS,adam,3,12,11,-8.761064,134,True,172.8947,Chemically Accurate
+LiH_w2,MHS,adam,3,13,12,-8.761183,254,True,340.8875,Chemically Accurate
+LiH_w2,MHS,adam,3,14,13,-8.733815,76,True,95.7389,Failure
+LiH_w2,MHS,adam,3,15,14,-8.760832,250,True,328.3885,Chemically Accurate
+LiH_w2,MHS,adam,4,1,0,-8.761150,255,True,193.5868,Chemically Accurate
+LiH_w2,MHS,adam,4,2,1,-8.761203,194,True,150.7399,Chemically Accurate
+LiH_w2,MHS,adam,4,3,2,-8.761278,293,True,234.5231,Chemically Accurate
+LiH_w2,MHS,adam,4,4,3,-8.756936,74,True,57.8404,Qualitatively Accurate
+LiH_w2,MHS,adam,4,5,4,-8.761114,212,True,170.4919,Chemically Accurate
+LiH_w2,MHS,adam,4,6,5,-8.761179,294,True,334.2991,Chemically Accurate
+LiH_w2,MHS,adam,4,7,6,-8.761008,368,True,494.1650,Chemically Accurate
+LiH_w2,MHS,adam,4,8,7,-8.716932,95,True,119.5566,Failure
+LiH_w2,MHS,adam,4,9,8,-8.761194,170,True,225.0798,Chemically Accurate
+LiH_w2,MHS,adam,4,10,9,-8.761249,249,True,291.3402,Chemically Accurate
+LiH_w2,MHS,adam,4,11,10,-8.761216,359,True,297.0838,Chemically Accurate
+LiH_w2,MHS,adam,4,12,11,-8.761236,289,True,239.8767,Chemically Accurate
+LiH_w2,MHS,adam,4,13,12,-8.761190,164,True,139.9833,Chemically Accurate
+LiH_w2,MHS,adam,4,14,13,-8.761068,438,True,418.3395,Chemically Accurate
+LiH_w2,MHS,adam,4,15,14,-8.761162,294,True,291.6475,Chemically Accurate
+LiH_w2,MHS,adam,5,1,0,-8.761201,629,True,609.0194,Chemically Accurate
+LiH_w2,MHS,adam,5,2,1,-8.761125,304,True,268.8833,Chemically Accurate
+LiH_w2,MHS,adam,5,3,2,-8.761207,253,True,228.5927,Chemically Accurate
+LiH_w2,MHS,adam,5,4,3,-8.761180,530,True,454.0042,Chemically Accurate
+LiH_w2,MHS,adam,5,5,4,-8.761129,204,True,169.8342,Chemically Accurate
+LiH_w2,MHS,adam,5,6,5,-8.761135,411,True,336.3275,Chemically Accurate
+LiH_w2,MHS,adam,5,7,6,-8.761005,241,True,189.4163,Chemically Accurate
+LiH_w2,MHS,adam,5,8,7,-8.761170,195,True,155.3279,Chemically Accurate
+LiH_w2,MHS,adam,5,9,8,-8.761142,233,True,182.9994,Chemically Accurate
+LiH_w2,MHS,adam,5,10,9,-8.761198,301,True,240.8971,Chemically Accurate
+LiH_w2,MHS,adam,5,11,10,-8.761217,239,True,189.3414,Chemically Accurate
+LiH_w2,MHS,adam,5,12,11,-8.761276,214,True,168.7531,Chemically Accurate
+LiH_w2,MHS,adam,5,13,12,-8.234069,24,True,18.3272,Failure
+LiH_w2,MHS,adam,5,14,13,-8.761235,207,True,167.7830,Chemically Accurate
+LiH_w2,MHS,adam,5,15,14,-8.761163,235,True,185.5553,Chemically Accurate
+LiH_w2,MHS,adam,6,1,0,-8.760624,93,True,71.8587,Chemically Accurate
+LiH_w2,MHS,adam,6,2,1,-8.761263,322,True,254.2335,Chemically Accurate
+LiH_w2,MHS,adam,6,3,2,-8.761203,222,True,176.8124,Chemically Accurate
+LiH_w2,MHS,adam,6,4,3,-8.761292,261,True,209.7852,Chemically Accurate
+LiH_w2,MHS,adam,6,5,4,-8.761213,385,True,306.3030,Chemically Accurate
+LiH_w2,MHS,adam,6,6,5,-8.761247,337,True,273.1893,Chemically Accurate
+LiH_w2,MHS,adam,6,7,6,-8.761303,336,True,271.5508,Chemically Accurate
+LiH_w2,MHS,adam,6,8,7,-8.761258,338,True,300.8029,Chemically Accurate
+LiH_w2,MHS,adam,6,9,8,-8.761173,105,True,84.0504,Chemically Accurate
+LiH_w2,MHS,adam,6,10,9,-8.760199,81,True,65.2017,Chemically Accurate
+LiH_w2,MHS,adam,6,11,10,-8.761171,262,True,209.3155,Chemically Accurate
+LiH_w2,MHS,adam,6,12,11,-8.761167,386,True,311.8331,Chemically Accurate
+LiH_w2,MHS,adam,6,13,12,-8.711419,232,True,187.3755,Failure
+LiH_w2,MHS,adam,6,14,13,-8.761268,319,True,262.7724,Chemically Accurate
+LiH_w2,MHS,adam,6,15,14,-8.761232,150,True,121.5062,Chemically Accurate
+LiH_w2,MHS,adam,7,1,0,-8.761089,464,True,376.7593,Chemically Accurate
+LiH_w2,MHS,adam,7,2,1,-8.761301,263,True,219.8372,Chemically Accurate
+LiH_w2,MHS,adam,7,3,2,-8.761277,201,True,200.7290,Chemically Accurate
+LiH_w2,MHS,adam,7,4,3,-8.761210,211,True,215.8306,Chemically Accurate
+LiH_w2,MHS,adam,7,5,4,-8.761227,295,True,298.2340,Chemically Accurate
+LiH_w2,MHS,adam,7,6,5,-8.761316,210,True,236.3384,Chemically Accurate
+LiH_w2,MHS,adam,7,7,6,-8.761262,286,True,278.5497,Chemically Accurate
+LiH_w2,MHS,adam,7,8,7,-8.760983,387,True,410.1905,Chemically Accurate
+LiH_w2,MHS,adam,7,9,8,-8.761329,180,True,171.2234,Chemically Accurate
+LiH_w2,MHS,adam,7,10,9,-8.761180,344,True,340.6152,Chemically Accurate
+LiH_w2,MHS,adam,7,11,10,-8.760759,280,True,297.1150,Chemically Accurate
+LiH_w2,MHS,adam,7,12,11,-8.761264,191,True,200.1927,Chemically Accurate
+LiH_w2,MHS,adam,7,13,12,-8.761274,120,True,129.2451,Chemically Accurate
+LiH_w2,MHS,adam,7,14,13,-8.761244,182,True,191.3346,Chemically Accurate
+LiH_w2,MHS,adam,7,15,14,-8.761136,498,True,521.4134,Chemically Accurate
+LiH_w4,MHS,lbfgs,1,1,0,-6.698872,59,True,10.4390,Chemically Accurate
+LiH_w4,MHS,lbfgs,1,2,1,-6.685033,20,True,2.8253,Failure
+LiH_w4,MHS,lbfgs,1,3,2,-6.685058,25,True,3.2072,Failure
+LiH_w4,MHS,lbfgs,1,4,3,-6.685055,35,True,4.1051,Failure
+LiH_w4,MHS,lbfgs,1,5,4,-6.685061,24,True,3.1862,Failure
+LiH_w4,MHS,lbfgs,1,6,5,-6.685061,37,True,4.6811,Failure
+LiH_w4,MHS,lbfgs,1,7,6,-6.685060,31,True,4.1184,Failure
+LiH_w4,MHS,lbfgs,1,8,7,-6.685060,20,True,3.0495,Failure
+LiH_w4,MHS,lbfgs,1,9,8,-6.685067,19,True,3.1432,Failure
+LiH_w4,MHS,lbfgs,1,10,9,-6.685060,50,True,6.0192,Failure
+LiH_w4,MHS,lbfgs,1,11,10,-6.685060,33,True,4.1498,Failure
+LiH_w4,MHS,lbfgs,1,12,11,-6.685060,27,True,4.0257,Failure
+LiH_w4,MHS,lbfgs,1,13,12,-6.690707,23,True,4.6321,Qualitatively Accurate
+LiH_w4,MHS,lbfgs,1,14,13,-6.698872,39,True,5.2229,Chemically Accurate
+LiH_w4,MHS,lbfgs,1,15,14,-6.685060,21,True,3.2305,Failure
+LiH_w4,MHS,lbfgs,2,1,0,-6.698870,41,True,4.8833,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,2,1,-6.698867,42,True,5.1037,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,3,2,-6.698868,54,True,6.0544,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,4,3,-6.677101,42,True,5.0065,Failure
+LiH_w4,MHS,lbfgs,2,5,4,-6.698866,37,True,5.2289,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,6,5,-6.698872,39,True,5.0942,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,7,6,-6.698871,26,True,4.1924,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,8,7,-6.685316,25,True,3.5679,Failure
+LiH_w4,MHS,lbfgs,2,9,8,-6.685605,26,True,3.9474,Failure
+LiH_w4,MHS,lbfgs,2,10,9,-6.698869,46,True,5.3812,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,11,10,-6.698818,51,True,5.5215,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,12,11,-6.698871,38,True,4.5140,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,13,12,-6.698863,38,True,4.5763,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,14,13,-6.698871,40,True,5.2947,Chemically Accurate
+LiH_w4,MHS,lbfgs,2,15,14,-6.698870,43,True,5.3037,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,1,0,-6.698869,53,True,6.4371,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,2,1,-6.698867,46,True,6.6078,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,3,2,-6.698872,84,True,10.3646,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,4,3,-6.698861,39,True,4.7882,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,5,4,-6.698772,54,True,6.8653,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,6,5,-6.698863,40,True,4.9812,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,7,6,-6.698868,51,True,5.9213,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,8,7,-6.698859,44,True,5.7016,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,9,8,-6.698284,65,True,7.0535,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,10,9,-6.698871,53,True,6.1010,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,11,10,-6.698843,107,True,10.3428,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,12,11,-6.698843,36,True,4.6962,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,13,12,-6.698868,51,True,6.1981,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,14,13,-6.698872,22,True,3.6972,Chemically Accurate
+LiH_w4,MHS,lbfgs,3,15,14,-6.698862,38,True,6.1958,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,1,0,-6.698864,32,True,6.5358,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,2,1,-6.698804,55,True,10.6665,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,3,2,-6.698866,46,True,7.2828,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,4,3,-6.698823,63,True,10.4771,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,5,4,-6.698846,39,True,9.3498,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,6,5,-6.698859,55,True,18.2602,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,7,6,-6.698865,26,True,5.5192,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,8,7,-6.698861,24,True,4.2617,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,9,8,-6.698817,45,True,21.4119,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,10,9,-6.698755,33,True,5.7989,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,11,10,-6.698871,60,True,8.2339,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,12,11,-6.698862,42,True,5.6743,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,13,12,-6.698859,56,True,7.8449,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,14,13,-6.698867,56,True,6.7031,Chemically Accurate
+LiH_w4,MHS,lbfgs,4,15,14,-6.698818,31,True,4.6272,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,1,0,-6.698871,41,True,6.1596,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,2,1,-6.698872,37,True,4.9589,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,3,2,-6.698868,71,True,8.6406,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,4,3,-6.698872,40,True,5.5749,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,5,4,-6.698842,53,True,6.8965,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,6,5,-6.698871,44,True,5.8051,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,7,6,-6.698871,41,True,5.3675,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,8,7,-6.698862,44,True,6.3156,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,9,8,-6.698871,45,True,5.8875,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,10,9,-6.698860,43,True,5.8994,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,11,10,-6.698872,33,True,5.4598,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,12,11,-6.698869,33,True,4.7979,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,13,12,-6.698871,44,True,5.7127,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,14,13,-6.698868,59,True,7.5337,Chemically Accurate
+LiH_w4,MHS,lbfgs,5,15,14,-6.698829,45,True,5.9651,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,1,0,-6.698872,31,True,5.9639,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,2,1,-6.698871,54,True,7.5861,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,3,2,-6.698871,43,True,6.2287,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,4,3,-6.698869,38,True,6.1036,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,5,4,-6.698872,32,True,4.9242,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,6,5,-6.698871,38,True,5.6103,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,7,6,-6.698872,30,True,4.7985,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,8,7,-6.698871,46,True,7.0093,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,9,8,-6.698872,34,True,5.2260,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,10,9,-6.698868,29,True,5.2219,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,11,10,-6.698869,47,True,6.7396,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,12,11,-6.698871,31,True,4.8530,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,13,12,-6.698864,33,True,5.1844,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,14,13,-6.698872,30,True,4.7107,Chemically Accurate
+LiH_w4,MHS,lbfgs,6,15,14,-6.698872,36,True,6.5968,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,1,0,-6.698872,26,True,5.2386,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,2,1,-6.698872,31,True,5.2528,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,3,2,-6.698871,38,True,5.8229,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,4,3,-6.698867,27,True,5.0485,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,5,4,-6.698870,29,True,5.9132,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,6,5,-6.698872,32,True,5.3353,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,7,6,-6.698872,31,True,5.2043,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,8,7,-6.698870,35,True,7.2412,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,9,8,-6.698872,25,True,5.5164,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,10,9,-6.698867,44,True,11.5968,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,11,10,-6.698872,41,True,6.8449,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,12,11,-6.698871,30,True,5.5115,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,13,12,-6.698871,31,True,6.1373,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,14,13,-6.698872,37,True,6.8081,Chemically Accurate
+LiH_w4,MHS,lbfgs,7,15,14,-6.698871,35,True,7.4394,Chemically Accurate
+LiH_w4,MHS,adam,1,1,0,-6.698862,539,True,43.4030,Chemically Accurate
+LiH_w4,MHS,adam,1,2,1,-6.685061,151,True,12.2350,Failure
+LiH_w4,MHS,adam,1,3,2,-6.685054,154,True,13.1827,Failure
+LiH_w4,MHS,adam,1,4,3,-6.685030,164,True,12.3925,Failure
+LiH_w4,MHS,adam,1,5,4,-6.685056,141,True,11.2417,Failure
+LiH_w4,MHS,adam,1,6,5,-6.698861,264,True,20.9727,Chemically Accurate
+LiH_w4,MHS,adam,1,7,6,-6.685024,97,True,8.3258,Failure
+LiH_w4,MHS,adam,1,8,7,-6.685029,134,True,9.2706,Failure
+LiH_w4,MHS,adam,1,9,8,-6.685024,192,True,14.4758,Failure
+LiH_w4,MHS,adam,1,10,9,-6.674887,126,True,8.9672,Failure
+LiH_w4,MHS,adam,1,11,10,-6.685021,91,True,7.6726,Failure
+LiH_w4,MHS,adam,1,12,11,-6.685057,115,True,8.5607,Failure
+LiH_w4,MHS,adam,1,13,12,-6.685004,101,True,7.8973,Failure
+LiH_w4,MHS,adam,1,14,13,-6.698861,172,True,13.9168,Chemically Accurate
+LiH_w4,MHS,adam,1,15,14,-6.684912,108,True,14.7324,Failure
+LiH_w4,MHS,adam,2,1,0,-6.698865,308,True,35.5708,Chemically Accurate
+LiH_w4,MHS,adam,2,2,1,-6.698793,118,True,10.9862,Chemically Accurate
+LiH_w4,MHS,adam,2,3,2,-6.685276,100,True,7.5276,Failure
+LiH_w4,MHS,adam,2,4,3,-6.676223,72,True,6.8172,Failure
+LiH_w4,MHS,adam,2,5,4,-6.698851,548,True,41.7624,Chemically Accurate
+LiH_w4,MHS,adam,2,6,5,-6.685295,89,True,7.5278,Failure
+LiH_w4,MHS,adam,2,7,6,-6.698835,219,True,17.0516,Chemically Accurate
+LiH_w4,MHS,adam,2,8,7,-6.685294,106,True,9.3750,Failure
+LiH_w4,MHS,adam,2,9,8,-6.698864,228,True,17.6724,Chemically Accurate
+LiH_w4,MHS,adam,2,10,9,-6.698847,244,True,18.5830,Chemically Accurate
+LiH_w4,MHS,adam,2,11,10,-6.698868,339,True,26.0186,Chemically Accurate
+LiH_w4,MHS,adam,2,12,11,-6.698806,196,True,14.0891,Chemically Accurate
+LiH_w4,MHS,adam,2,13,12,-6.698685,123,True,10.0261,Chemically Accurate
+LiH_w4,MHS,adam,2,14,13,-6.698814,105,True,7.7804,Chemically Accurate
+LiH_w4,MHS,adam,2,15,14,-6.698660,74,True,6.5175,Chemically Accurate
+LiH_w4,MHS,adam,3,1,0,-6.698860,145,True,10.9478,Chemically Accurate
+LiH_w4,MHS,adam,3,2,1,-6.698840,220,True,16.7358,Chemically Accurate
+LiH_w4,MHS,adam,3,3,2,-6.698870,145,True,11.6443,Chemically Accurate
+LiH_w4,MHS,adam,3,4,3,-6.698837,109,True,8.2185,Chemically Accurate
+LiH_w4,MHS,adam,3,5,4,-6.698851,187,True,15.0229,Chemically Accurate
+LiH_w4,MHS,adam,3,6,5,-6.698517,420,True,31.1625,Chemically Accurate
+LiH_w4,MHS,adam,3,7,6,-6.698374,64,True,5.9053,Chemically Accurate
+LiH_w4,MHS,adam,3,8,7,-6.698631,109,True,8.3214,Chemically Accurate
+LiH_w4,MHS,adam,3,9,8,-6.698852,165,True,13.5174,Chemically Accurate
+LiH_w4,MHS,adam,3,10,9,-6.698857,242,True,18.9624,Chemically Accurate
+LiH_w4,MHS,adam,3,11,10,-6.685930,418,True,31.2290,Failure
+LiH_w4,MHS,adam,3,12,11,-6.698853,166,True,13.3582,Chemically Accurate
+LiH_w4,MHS,adam,3,13,12,-6.698855,159,True,11.8203,Chemically Accurate
+LiH_w4,MHS,adam,3,14,13,-6.698813,101,True,8.8912,Chemically Accurate
+LiH_w4,MHS,adam,3,15,14,-6.698806,128,True,9.6675,Chemically Accurate
+LiH_w4,MHS,adam,4,1,0,-6.698840,88,True,8.4608,Chemically Accurate
+LiH_w4,MHS,adam,4,2,1,-6.698835,203,True,15.1815,Chemically Accurate
+LiH_w4,MHS,adam,4,3,2,-6.698784,392,True,29.8999,Chemically Accurate
+LiH_w4,MHS,adam,4,4,3,-6.693409,51,True,4.4354,Qualitatively Accurate
+LiH_w4,MHS,adam,4,5,4,-6.698786,194,True,15.2596,Chemically Accurate
+LiH_w4,MHS,adam,4,6,5,-6.698846,231,True,16.7309,Chemically Accurate
+LiH_w4,MHS,adam,4,7,6,-6.698739,81,True,7.2054,Chemically Accurate
+LiH_w4,MHS,adam,4,8,7,-6.698302,90,True,6.9718,Chemically Accurate
+LiH_w4,MHS,adam,4,9,8,-6.698808,276,True,21.3865,Chemically Accurate
+LiH_w4,MHS,adam,4,10,9,-6.698826,167,True,13.6517,Chemically Accurate
+LiH_w4,MHS,adam,4,11,10,-6.698765,98,True,8.4195,Chemically Accurate
+LiH_w4,MHS,adam,4,12,11,-6.698856,143,True,12.0455,Chemically Accurate
+LiH_w4,MHS,adam,4,13,12,-6.698852,189,True,13.9793,Chemically Accurate
+LiH_w4,MHS,adam,4,14,13,-6.692317,54,True,4.5921,Qualitatively Accurate
+LiH_w4,MHS,adam,4,15,14,-6.698814,182,True,14.8630,Chemically Accurate
+LiH_w4,MHS,adam,5,1,0,-6.698814,85,True,6.8685,Chemically Accurate
+LiH_w4,MHS,adam,5,2,1,-6.698590,86,True,8.0559,Chemically Accurate
+LiH_w4,MHS,adam,5,3,2,-6.698851,100,True,8.4124,Chemically Accurate
+LiH_w4,MHS,adam,5,4,3,-6.698597,76,True,6.5652,Chemically Accurate
+LiH_w4,MHS,adam,5,5,4,-6.698725,76,True,8.2563,Chemically Accurate
+LiH_w4,MHS,adam,5,6,5,-6.698854,165,True,16.9510,Chemically Accurate
+LiH_w4,MHS,adam,5,7,6,-6.698857,141,True,24.8949,Chemically Accurate
+LiH_w4,MHS,adam,5,8,7,-6.698817,214,True,15.9055,Chemically Accurate
+LiH_w4,MHS,adam,5,9,8,-6.698821,98,True,8.7253,Chemically Accurate
+LiH_w4,MHS,adam,5,10,9,-6.698825,174,True,20.6163,Chemically Accurate
+LiH_w4,MHS,adam,5,11,10,-6.698847,209,True,18.9694,Chemically Accurate
+LiH_w4,MHS,adam,5,12,11,-6.698177,69,True,5.7866,Chemically Accurate
+LiH_w4,MHS,adam,5,13,12,-6.698842,112,True,9.7278,Chemically Accurate
+LiH_w4,MHS,adam,5,14,13,-6.698840,292,True,22.4613,Chemically Accurate
+LiH_w4,MHS,adam,5,15,14,-6.698827,200,True,14.9550,Chemically Accurate
+LiH_w4,MHS,adam,6,1,0,-6.698834,88,True,8.1859,Chemically Accurate
+LiH_w4,MHS,adam,6,2,1,-6.698722,80,True,6.5345,Chemically Accurate
+LiH_w4,MHS,adam,6,3,2,-6.698710,84,True,6.8412,Chemically Accurate
+LiH_w4,MHS,adam,6,4,3,-6.698387,70,True,5.7067,Chemically Accurate
+LiH_w4,MHS,adam,6,5,4,-6.698867,110,True,11.8202,Chemically Accurate
+LiH_w4,MHS,adam,6,6,5,-6.698831,95,True,7.9975,Chemically Accurate
+LiH_w4,MHS,adam,6,7,6,-6.698616,65,True,5.3889,Chemically Accurate
+LiH_w4,MHS,adam,6,8,7,-6.698852,99,True,8.9789,Chemically Accurate
+LiH_w4,MHS,adam,6,9,8,-6.698799,100,True,7.6606,Chemically Accurate
+LiH_w4,MHS,adam,6,10,9,-6.698871,123,True,9.7720,Chemically Accurate
+LiH_w4,MHS,adam,6,11,10,-6.698855,112,True,10.0256,Chemically Accurate
+LiH_w4,MHS,adam,6,12,11,-6.698736,78,True,6.2274,Chemically Accurate
+LiH_w4,MHS,adam,6,13,12,-6.698847,94,True,7.4045,Chemically Accurate
+LiH_w4,MHS,adam,6,14,13,-6.693724,37,True,4.5061,Qualitatively Accurate
+LiH_w4,MHS,adam,6,15,14,-6.698767,81,True,11.4312,Chemically Accurate
+LiH_w4,MHS,adam,7,1,0,-6.698860,96,True,8.0353,Chemically Accurate
+LiH_w4,MHS,adam,7,2,1,-6.698863,101,True,7.9933,Chemically Accurate
+LiH_w4,MHS,adam,7,3,2,-6.698684,83,True,8.0905,Chemically Accurate
+LiH_w4,MHS,adam,7,4,3,-6.698609,77,True,6.1766,Chemically Accurate
+LiH_w4,MHS,adam,7,5,4,-6.698846,103,True,7.9339,Chemically Accurate
+LiH_w4,MHS,adam,7,6,5,-6.698686,84,True,8.1079,Chemically Accurate
+LiH_w4,MHS,adam,7,7,6,-6.698829,90,True,7.1077,Chemically Accurate
+LiH_w4,MHS,adam,7,8,7,-6.698812,90,True,7.2643,Chemically Accurate
+LiH_w4,MHS,adam,7,9,8,-6.698815,77,True,6.1427,Chemically Accurate
+LiH_w4,MHS,adam,7,10,9,-6.698831,86,True,8.0900,Chemically Accurate
+LiH_w4,MHS,adam,7,11,10,-6.698856,92,True,7.4772,Chemically Accurate
+LiH_w4,MHS,adam,7,12,11,-6.698843,90,True,7.4793,Chemically Accurate
+LiH_w4,MHS,adam,7,13,12,-6.698452,61,True,5.1918,Chemically Accurate
+LiH_w4,MHS,adam,7,14,13,-6.698739,82,True,7.7315,Chemically Accurate
+LiH_w4,MHS,adam,7,15,14,-6.698831,96,True,7.6555,Chemically Accurate
+OH_w1,MHS,lbfgs,1,1,0,-78.727647,50,True,16.7473,Failure
+OH_w1,MHS,lbfgs,1,2,1,-78.727991,49,True,14.1161,Failure
+OH_w1,MHS,lbfgs,1,3,2,-78.727230,33,True,14.4366,Failure
+OH_w1,MHS,lbfgs,1,4,3,-78.727976,63,True,27.6386,Failure
+OH_w1,MHS,lbfgs,1,5,4,-78.727992,40,True,15.9032,Failure
+OH_w1,MHS,lbfgs,1,6,5,-78.727906,42,True,17.7087,Failure
+OH_w1,MHS,lbfgs,1,7,6,-78.727203,52,True,19.2384,Failure
+OH_w1,MHS,lbfgs,1,8,7,-78.727265,64,True,25.9798,Failure
+OH_w1,MHS,lbfgs,1,9,8,-78.727283,45,True,17.6754,Failure
+OH_w1,MHS,lbfgs,1,10,9,-78.727260,55,True,19.5195,Failure
+OH_w1,MHS,lbfgs,1,11,10,-78.727703,31,True,14.0583,Failure
+OH_w1,MHS,lbfgs,1,12,11,-78.727254,88,True,33.7549,Failure
+OH_w1,MHS,lbfgs,1,13,12,-78.727894,53,True,25.3554,Failure
+OH_w1,MHS,lbfgs,1,14,13,-78.727991,36,True,24.8596,Failure
+OH_w1,MHS,lbfgs,1,15,14,-78.727299,48,True,20.2661,Failure
+OH_w1,MHS,lbfgs,2,1,0,-78.727650,53,True,16.0887,Failure
+OH_w1,MHS,lbfgs,2,2,1,-78.727672,47,True,15.2526,Failure
+OH_w1,MHS,lbfgs,2,3,2,-78.727643,57,True,16.2336,Failure
+OH_w1,MHS,lbfgs,2,4,3,-78.742525,127,True,39.0169,Qualitatively Accurate
+OH_w1,MHS,lbfgs,2,5,4,-78.739590,73,True,20.6967,Qualitatively Accurate
+OH_w1,MHS,lbfgs,2,6,5,-78.727273,47,True,16.5446,Failure
+OH_w1,MHS,lbfgs,2,7,6,-78.727606,52,True,15.1471,Failure
+OH_w1,MHS,lbfgs,2,8,7,-78.742572,212,True,61.5801,Qualitatively Accurate
+OH_w1,MHS,lbfgs,2,9,8,-78.727979,46,True,13.3139,Failure
+OH_w1,MHS,lbfgs,2,10,9,-78.727305,57,True,17.8443,Failure
+OH_w1,MHS,lbfgs,2,11,10,-78.727865,39,True,12.3231,Failure
+OH_w1,MHS,lbfgs,2,12,11,-78.727260,62,True,19.1196,Failure
+OH_w1,MHS,lbfgs,2,13,12,-78.727543,49,True,14.0507,Failure
+OH_w1,MHS,lbfgs,2,14,13,-78.727566,73,True,22.9599,Failure
+OH_w1,MHS,lbfgs,2,15,14,-78.731125,96,True,29.8045,Failure
+OH_w1,MHS,lbfgs,3,1,0,-78.742469,89,True,25.6458,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,2,1,-78.727361,41,True,14.4963,Failure
+OH_w1,MHS,lbfgs,3,3,2,-78.744867,157,True,42.0709,Chemically Accurate
+OH_w1,MHS,lbfgs,3,4,3,-78.739931,161,True,44.5787,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,5,4,-78.744851,157,True,43.6739,Chemically Accurate
+OH_w1,MHS,lbfgs,3,6,5,-78.742716,171,True,45.2426,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,7,6,-78.742318,144,True,41.3254,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,8,7,-78.742289,123,True,33.7165,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,9,8,-78.727910,66,True,19.3068,Failure
+OH_w1,MHS,lbfgs,3,10,9,-78.742157,119,True,34.4832,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,11,10,-78.742420,174,True,47.4927,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,12,11,-78.742587,123,True,34.2620,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,13,12,-78.744866,189,True,52.3233,Chemically Accurate
+OH_w1,MHS,lbfgs,3,14,13,-78.742383,108,True,32.3295,Qualitatively Accurate
+OH_w1,MHS,lbfgs,3,15,14,-78.742324,134,True,38.1985,Qualitatively Accurate
+OH_w1,MHS,lbfgs,4,1,0,-78.742827,200,True,56.4473,Qualitatively Accurate
+OH_w1,MHS,lbfgs,4,2,1,-78.744917,111,True,29.7923,Chemically Accurate
+OH_w1,MHS,lbfgs,4,3,2,-78.744506,210,True,58.4421,Chemically Accurate
+OH_w1,MHS,lbfgs,4,4,3,-78.744484,198,True,54.8645,Chemically Accurate
+OH_w1,MHS,lbfgs,4,5,4,-78.744532,144,True,41.7215,Chemically Accurate
+OH_w1,MHS,lbfgs,4,6,5,-78.744266,232,True,68.1012,Chemically Accurate
+OH_w1,MHS,lbfgs,4,7,6,-78.744899,152,True,43.0079,Chemically Accurate
+OH_w1,MHS,lbfgs,4,8,7,-78.744852,120,True,35.4749,Chemically Accurate
+OH_w1,MHS,lbfgs,4,9,8,-78.742444,130,True,37.1702,Qualitatively Accurate
+OH_w1,MHS,lbfgs,4,10,9,-78.744865,77,True,25.0820,Chemically Accurate
+OH_w1,MHS,lbfgs,4,11,10,-78.742464,136,True,35.4031,Qualitatively Accurate
+OH_w1,MHS,lbfgs,4,12,11,-78.742457,208,True,59.0055,Qualitatively Accurate
+OH_w1,MHS,lbfgs,4,13,12,-78.744730,184,True,50.2425,Chemically Accurate
+OH_w1,MHS,lbfgs,4,14,13,-78.742751,147,True,42.7153,Qualitatively Accurate
+OH_w1,MHS,lbfgs,4,15,14,-78.739671,120,True,36.1564,Qualitatively Accurate
+OH_w1,MHS,lbfgs,5,1,0,-78.744560,120,True,36.3467,Chemically Accurate
+OH_w1,MHS,lbfgs,5,2,1,-78.744648,344,True,92.6722,Chemically Accurate
+OH_w1,MHS,lbfgs,5,3,2,-78.744577,210,True,60.2526,Chemically Accurate
+OH_w1,MHS,lbfgs,5,4,3,-78.742133,139,True,42.7003,Qualitatively Accurate
+OH_w1,MHS,lbfgs,5,5,4,-78.744629,247,True,69.5536,Chemically Accurate
+OH_w1,MHS,lbfgs,5,6,5,-78.744707,125,True,37.4130,Chemically Accurate
+OH_w1,MHS,lbfgs,5,7,6,-78.742554,225,True,60.9943,Qualitatively Accurate
+OH_w1,MHS,lbfgs,5,8,7,-78.744645,192,True,60.9234,Chemically Accurate
+OH_w1,MHS,lbfgs,5,9,8,-78.744764,136,True,41.3235,Chemically Accurate
+OH_w1,MHS,lbfgs,5,10,9,-78.744173,127,True,35.0049,Chemically Accurate
+OH_w1,MHS,lbfgs,5,11,10,-78.727984,69,True,23.1861,Failure
+OH_w1,MHS,lbfgs,5,12,11,-78.744553,175,True,49.7677,Chemically Accurate
+OH_w1,MHS,lbfgs,5,13,12,-78.742601,128,True,38.2613,Qualitatively Accurate
+OH_w1,MHS,lbfgs,5,14,13,-78.744168,153,True,46.6908,Chemically Accurate
+OH_w1,MHS,lbfgs,5,15,14,-78.744790,221,True,62.3200,Chemically Accurate
+OH_w1,MHS,lbfgs,6,1,0,-78.744708,233,True,69.4370,Chemically Accurate
+OH_w1,MHS,lbfgs,6,2,1,-78.744372,153,True,42.2616,Chemically Accurate
+OH_w1,MHS,lbfgs,6,3,2,-78.743650,170,True,53.2201,Chemically Accurate
+OH_w1,MHS,lbfgs,6,4,3,-78.743506,147,True,43.3846,Chemically Accurate
+OH_w1,MHS,lbfgs,6,5,4,-78.744728,310,True,90.5165,Chemically Accurate
+OH_w1,MHS,lbfgs,6,6,5,-78.744226,171,True,49.5688,Chemically Accurate
+OH_w1,MHS,lbfgs,6,7,6,-78.744818,204,True,62.4555,Chemically Accurate
+OH_w1,MHS,lbfgs,6,8,7,-78.742543,175,True,54.0659,Qualitatively Accurate
+OH_w1,MHS,lbfgs,6,9,8,-78.742650,186,True,54.9869,Qualitatively Accurate
+OH_w1,MHS,lbfgs,6,10,9,-78.744135,151,True,46.2607,Chemically Accurate
+OH_w1,MHS,lbfgs,6,11,10,-78.742632,186,True,56.9831,Qualitatively Accurate
+OH_w1,MHS,lbfgs,6,12,11,-78.744807,219,True,69.1462,Chemically Accurate
+OH_w1,MHS,lbfgs,6,13,12,-78.744705,155,True,46.5769,Chemically Accurate
+OH_w1,MHS,lbfgs,6,14,13,-78.744763,182,True,55.3674,Chemically Accurate
+OH_w1,MHS,lbfgs,6,15,14,-78.744768,235,True,68.6823,Chemically Accurate
+OH_w1,MHS,lbfgs,7,1,0,-78.744580,176,True,55.6709,Chemically Accurate
+OH_w1,MHS,lbfgs,7,2,1,-78.744757,210,True,61.8897,Chemically Accurate
+OH_w1,MHS,lbfgs,7,3,2,-78.744765,328,True,97.7961,Chemically Accurate
+OH_w1,MHS,lbfgs,7,4,3,-78.744803,127,True,42.1872,Chemically Accurate
+OH_w1,MHS,lbfgs,7,5,4,-78.744407,200,True,63.4167,Chemically Accurate
+OH_w1,MHS,lbfgs,7,6,5,-78.744784,235,True,73.3248,Chemically Accurate
+OH_w1,MHS,lbfgs,7,7,6,-78.744861,171,True,52.4288,Chemically Accurate
+OH_w1,MHS,lbfgs,7,8,7,-78.744609,193,True,59.9931,Chemically Accurate
+OH_w1,MHS,lbfgs,7,9,8,-78.744770,255,True,78.2018,Chemically Accurate
+OH_w1,MHS,lbfgs,7,10,9,-78.744798,212,True,65.2064,Chemically Accurate
+OH_w1,MHS,lbfgs,7,11,10,-78.744720,215,True,69.4568,Chemically Accurate
+OH_w1,MHS,lbfgs,7,12,11,-78.744523,304,True,92.5586,Chemically Accurate
+OH_w1,MHS,lbfgs,7,13,12,-78.744610,189,True,60.4119,Chemically Accurate
+OH_w1,MHS,lbfgs,7,14,13,-78.744841,208,True,65.0903,Chemically Accurate
+OH_w1,MHS,lbfgs,7,15,14,-78.744747,353,True,109.9208,Chemically Accurate
+OH_w1,MHS,adam,1,1,0,-78.727235,810,True,208.8649,Failure
+OH_w1,MHS,adam,1,2,1,-78.727984,317,True,82.6002,Failure
+OH_w1,MHS,adam,1,3,2,-78.727104,111,True,26.7598,Failure
+OH_w1,MHS,adam,1,4,3,-78.727242,787,True,204.3520,Failure
+OH_w1,MHS,adam,1,5,4,-78.727193,700,True,182.3169,Failure
+OH_w1,MHS,adam,1,6,5,-78.727925,967,True,250.4272,Failure
+OH_w1,MHS,adam,1,7,6,-78.727219,400,True,103.9604,Failure
+OH_w1,MHS,adam,1,8,7,-78.727411,105,True,28.8797,Failure
+OH_w1,MHS,adam,1,9,8,-78.726929,110,True,27.6619,Failure
+OH_w1,MHS,adam,1,10,9,-78.727911,241,True,63.5539,Failure
+OH_w1,MHS,adam,1,11,10,-78.727239,301,True,80.5182,Failure
+OH_w1,MHS,adam,1,12,11,-78.727616,177,True,42.5033,Failure
+OH_w1,MHS,adam,1,13,12,-78.727935,173,True,46.2779,Failure
+OH_w1,MHS,adam,1,14,13,-78.727825,236,True,62.7029,Failure
+OH_w1,MHS,adam,1,15,14,-78.727217,335,True,89.0028,Failure
+OH_w1,MHS,adam,2,1,0,-78.727203,312,True,81.6830,Failure
+OH_w1,MHS,adam,2,2,1,-78.727496,444,True,120.3473,Failure
+OH_w1,MHS,adam,2,3,2,-78.727652,241,True,64.8203,Failure
+OH_w1,MHS,adam,2,4,3,-78.742411,723,True,198.4030,Qualitatively Accurate
+OH_w1,MHS,adam,2,5,4,-78.739562,579,True,162.4905,Qualitatively Accurate
+OH_w1,MHS,adam,2,6,5,-78.742548,701,True,187.5658,Qualitatively Accurate
+OH_w1,MHS,adam,2,7,6,-78.742318,600,True,170.7778,Qualitatively Accurate
+OH_w1,MHS,adam,2,8,7,-78.710092,1000,False,279.9304,Failure
+OH_w1,MHS,adam,2,9,8,-78.727935,123,True,33.2187,Failure
+OH_w1,MHS,adam,2,10,9,-78.727551,316,True,91.9693,Failure
+OH_w1,MHS,adam,2,11,10,-78.727322,139,True,36.6757,Failure
+OH_w1,MHS,adam,2,12,11,-78.727984,193,True,54.1453,Failure
+OH_w1,MHS,adam,2,13,12,-78.744887,864,True,239.4901,Chemically Accurate
+OH_w1,MHS,adam,2,14,13,-78.727401,464,True,132.1785,Failure
+OH_w1,MHS,adam,2,15,14,-78.727926,246,True,69.4073,Failure
+OH_w1,MHS,adam,3,1,0,-78.742148,753,True,220.5801,Qualitatively Accurate
+OH_w1,MHS,adam,3,2,1,-78.727819,182,True,54.3979,Failure
+OH_w1,MHS,adam,3,3,2,-78.740406,448,True,132.8201,Qualitatively Accurate
+OH_w1,MHS,adam,3,4,3,-78.729605,236,True,69.0004,Failure
+OH_w1,MHS,adam,3,5,4,-78.744734,603,True,176.3771,Chemically Accurate
+OH_w1,MHS,adam,3,6,5,-78.739380,1000,False,305.6204,Failure
+OH_w1,MHS,adam,3,7,6,-78.742224,938,True,278.2566,Qualitatively Accurate
+OH_w1,MHS,adam,3,8,7,-78.727426,251,True,75.3064,Failure
+OH_w1,MHS,adam,3,9,8,-78.744874,508,True,152.0324,Chemically Accurate
+OH_w1,MHS,adam,3,10,9,-78.742130,586,True,181.5049,Qualitatively Accurate
+OH_w1,MHS,adam,3,11,10,-78.742616,280,True,82.9909,Qualitatively Accurate
+OH_w1,MHS,adam,3,12,11,-78.743883,720,True,216.7598,Chemically Accurate
+OH_w1,MHS,adam,3,13,12,-78.729921,629,True,189.0496,Failure
+OH_w1,MHS,adam,3,14,13,-78.742319,580,True,178.7073,Qualitatively Accurate
+OH_w1,MHS,adam,3,15,14,-78.743964,1000,False,307.1349,Failure
+OH_w1,MHS,adam,4,1,0,-78.742967,1000,False,317.5716,Failure
+OH_w1,MHS,adam,4,2,1,-78.744882,442,True,141.3669,Chemically Accurate
+OH_w1,MHS,adam,4,3,2,-78.727002,196,True,64.3087,Failure
+OH_w1,MHS,adam,4,4,3,-78.742184,1000,False,319.2293,Failure
+OH_w1,MHS,adam,4,5,4,-78.744860,991,True,316.3938,Chemically Accurate
+OH_w1,MHS,adam,4,6,5,-78.740633,494,True,160.5297,Qualitatively Accurate
+OH_w1,MHS,adam,4,7,6,-78.742005,1000,False,326.0812,Failure
+OH_w1,MHS,adam,4,8,7,-78.744807,608,True,200.9698,Chemically Accurate
+OH_w1,MHS,adam,4,9,8,-78.742002,430,True,141.1358,Qualitatively Accurate
+OH_w1,MHS,adam,4,10,9,-78.744877,489,True,163.3171,Chemically Accurate
+OH_w1,MHS,adam,4,11,10,-78.741961,529,True,176.4618,Qualitatively Accurate
+OH_w1,MHS,adam,4,12,11,-78.730244,284,True,93.0676,Failure
+OH_w1,MHS,adam,4,13,12,-78.744130,470,True,157.3216,Chemically Accurate
+OH_w1,MHS,adam,4,14,13,-78.744789,734,True,242.7535,Chemically Accurate
+OH_w1,MHS,adam,4,15,14,-78.727807,117,True,42.2334,Failure
+OH_w1,MHS,adam,5,1,0,-78.744477,398,True,135.5920,Chemically Accurate
+OH_w1,MHS,adam,5,2,1,-78.740759,771,True,271.1968,Qualitatively Accurate
+OH_w1,MHS,adam,5,3,2,-78.739974,174,True,62.9911,Qualitatively Accurate
+OH_w1,MHS,adam,5,4,3,-78.744727,814,True,293.0459,Chemically Accurate
+OH_w1,MHS,adam,5,5,4,-78.740605,857,True,303.0721,Qualitatively Accurate
+OH_w1,MHS,adam,5,6,5,-78.744839,611,True,215.8617,Chemically Accurate
+OH_w1,MHS,adam,5,7,6,-78.743329,788,True,280.2320,Chemically Accurate
+OH_w1,MHS,adam,5,8,7,-78.742516,655,True,246.7102,Qualitatively Accurate
+OH_w1,MHS,adam,5,9,8,-78.744858,417,True,142.5670,Chemically Accurate
+OH_w1,MHS,adam,5,10,9,-78.743851,767,True,263.0358,Chemically Accurate
+OH_w1,MHS,adam,5,11,10,-78.744531,233,True,85.2694,Chemically Accurate
+OH_w1,MHS,adam,5,12,11,-78.744660,632,True,228.1399,Chemically Accurate
+OH_w1,MHS,adam,5,13,12,-78.740169,662,True,244.9724,Qualitatively Accurate
+OH_w1,MHS,adam,5,14,13,-78.742223,525,True,190.6088,Qualitatively Accurate
+OH_w1,MHS,adam,5,15,14,-78.742537,343,True,125.3130,Qualitatively Accurate
+OH_w1,MHS,adam,6,1,0,-78.741869,268,True,100.2647,Qualitatively Accurate
+OH_w1,MHS,adam,6,2,1,-78.740313,340,True,126.0897,Qualitatively Accurate
+OH_w1,MHS,adam,6,3,2,-78.742961,291,True,111.9742,Qualitatively Accurate
+OH_w1,MHS,adam,6,4,3,-78.741865,420,True,156.0503,Qualitatively Accurate
+OH_w1,MHS,adam,6,5,4,-78.742085,305,True,118.3880,Qualitatively Accurate
+OH_w1,MHS,adam,6,6,5,-78.744055,905,True,337.8259,Chemically Accurate
+OH_w1,MHS,adam,6,7,6,-78.743794,535,True,197.9667,Chemically Accurate
+OH_w1,MHS,adam,6,8,7,-78.743220,515,True,197.1358,Qualitatively Accurate
+OH_w1,MHS,adam,6,9,8,-78.744344,949,True,360.9073,Chemically Accurate
+OH_w1,MHS,adam,6,10,9,-78.742511,273,True,98.5946,Qualitatively Accurate
+OH_w1,MHS,adam,6,11,10,-78.742883,218,True,86.1869,Qualitatively Accurate
+OH_w1,MHS,adam,6,12,11,-78.739045,320,True,123.6285,Qualitatively Accurate
+OH_w1,MHS,adam,6,13,12,-78.744272,519,True,201.3393,Chemically Accurate
+OH_w1,MHS,adam,6,14,13,-78.744351,384,True,148.1860,Chemically Accurate
+OH_w1,MHS,adam,6,15,14,-78.741945,483,True,187.6897,Qualitatively Accurate
+OH_w1,MHS,adam,7,1,0,-78.744566,350,True,138.2552,Chemically Accurate
+OH_w1,MHS,adam,7,2,1,-78.742676,691,True,277.9906,Qualitatively Accurate
+OH_w1,MHS,adam,7,3,2,-78.740620,142,True,56.0151,Qualitatively Accurate
+OH_w1,MHS,adam,7,4,3,-78.744499,284,True,115.7064,Chemically Accurate
+OH_w1,MHS,adam,7,5,4,-78.744739,729,True,291.1912,Chemically Accurate
+OH_w1,MHS,adam,7,6,5,-78.744721,295,True,119.1535,Chemically Accurate
+OH_w1,MHS,adam,7,7,6,-78.744334,581,True,235.9472,Chemically Accurate
+OH_w1,MHS,adam,7,8,7,-78.743664,641,True,259.8459,Chemically Accurate
+OH_w1,MHS,adam,7,9,8,-78.738577,752,True,196.3013,Qualitatively Accurate
+OH_w1,MHS,adam,7,10,9,-78.744684,558,True,139.0314,Chemically Accurate
+OH_w1,MHS,adam,7,11,10,-78.744425,500,True,124.3356,Chemically Accurate
+OH_w1,MHS,adam,7,12,11,-78.742889,350,True,85.1768,Qualitatively Accurate
+OH_w1,MHS,adam,7,13,12,-78.742892,744,True,186.7262,Qualitatively Accurate
+OH_w1,MHS,adam,7,14,13,-78.742248,275,True,68.8844,Qualitatively Accurate
+OH_w1,MHS,adam,7,15,14,-78.744816,640,True,160.3984,Chemically Accurate
+OH_w3,MHS,lbfgs,1,1,0,-77.212999,36,True,7.9916,Failure
+OH_w3,MHS,lbfgs,1,2,1,-78.233532,34,True,7.2837,Failure
+OH_w3,MHS,lbfgs,1,3,2,-78.233294,44,True,9.4056,Failure
+OH_w3,MHS,lbfgs,1,4,3,-77.536768,62,True,17.3084,Failure
+OH_w3,MHS,lbfgs,1,5,4,-78.333697,96,True,17.0840,Failure
+OH_w3,MHS,lbfgs,1,6,5,-78.233265,56,True,11.1872,Failure
+OH_w3,MHS,lbfgs,1,7,6,-78.283499,29,True,6.2372,Failure
+OH_w3,MHS,lbfgs,1,8,7,-78.333701,104,True,19.2334,Failure
+OH_w3,MHS,lbfgs,1,9,8,-78.333701,31,True,7.2196,Failure
+OH_w3,MHS,lbfgs,1,10,9,-78.333701,88,True,15.4343,Failure
+OH_w3,MHS,lbfgs,1,11,10,-77.864657,45,True,9.9914,Failure
+OH_w3,MHS,lbfgs,1,12,11,-78.333701,67,True,17.9270,Failure
+OH_w3,MHS,lbfgs,1,13,12,-77.213000,31,True,6.7673,Failure
+OH_w3,MHS,lbfgs,1,14,13,-77.620567,13,True,4.1981,Failure
+OH_w3,MHS,lbfgs,1,15,14,-78.333701,136,True,23.3710,Failure
+OH_w3,MHS,lbfgs,2,1,0,-78.233247,47,True,9.7856,Failure
+OH_w3,MHS,lbfgs,2,2,1,-77.536670,36,True,7.9259,Failure
+OH_w3,MHS,lbfgs,2,3,2,-77.536725,32,True,7.5598,Failure
+OH_w3,MHS,lbfgs,2,4,3,-78.233246,30,True,6.9209,Failure
+OH_w3,MHS,lbfgs,2,5,4,-77.536821,44,True,9.2244,Failure
+OH_w3,MHS,lbfgs,2,6,5,-78.333780,129,True,21.7086,Failure
+OH_w3,MHS,lbfgs,2,7,6,-78.359085,104,True,23.3402,Chemically Accurate
+OH_w3,MHS,lbfgs,2,8,7,-77.536783,46,True,9.8280,Failure
+OH_w3,MHS,lbfgs,2,9,8,-77.536797,74,True,13.5289,Failure
+OH_w3,MHS,lbfgs,2,10,9,-78.233241,66,True,12.2734,Failure
+OH_w3,MHS,lbfgs,2,11,10,-78.333755,35,True,7.3730,Failure
+OH_w3,MHS,lbfgs,2,12,11,-77.536777,40,True,8.3775,Failure
+OH_w3,MHS,lbfgs,2,13,12,-78.233243,52,True,10.3687,Failure
+OH_w3,MHS,lbfgs,2,14,13,-77.537447,71,True,12.8796,Failure
+OH_w3,MHS,lbfgs,2,15,14,-78.234101,48,True,9.5706,Failure
+OH_w3,MHS,lbfgs,3,1,0,-78.233248,167,True,34.2277,Failure
+OH_w3,MHS,lbfgs,3,2,1,-78.234313,62,True,11.9093,Failure
+OH_w3,MHS,lbfgs,3,3,2,-78.358997,111,True,19.1529,Chemically Accurate
+OH_w3,MHS,lbfgs,3,4,3,-78.358805,157,True,26.7782,Chemically Accurate
+OH_w3,MHS,lbfgs,3,5,4,-78.233442,35,True,7.9162,Failure
+OH_w3,MHS,lbfgs,3,6,5,-78.233431,84,True,15.7093,Failure
+OH_w3,MHS,lbfgs,3,7,6,-78.233242,114,True,20.0984,Failure
+OH_w3,MHS,lbfgs,3,8,7,-78.333660,192,True,37.0446,Failure
+OH_w3,MHS,lbfgs,3,9,8,-78.333672,210,True,35.4408,Failure
+OH_w3,MHS,lbfgs,3,10,9,-78.234215,47,True,9.7372,Failure
+OH_w3,MHS,lbfgs,3,11,10,-78.233205,68,True,13.0016,Failure
+OH_w3,MHS,lbfgs,3,12,11,-78.233330,76,True,14.0750,Failure
+OH_w3,MHS,lbfgs,3,13,12,-78.233234,57,True,11.2080,Failure
+OH_w3,MHS,lbfgs,3,14,13,-78.233373,75,True,20.6024,Failure
+OH_w3,MHS,lbfgs,3,15,14,-78.359085,66,True,12.6467,Chemically Accurate
+OH_w3,MHS,lbfgs,4,1,0,-78.358807,216,True,35.8332,Chemically Accurate
+OH_w3,MHS,lbfgs,4,2,1,-78.359052,324,True,59.0669,Chemically Accurate
+OH_w3,MHS,lbfgs,4,3,2,-78.333663,142,True,25.2708,Failure
+OH_w3,MHS,lbfgs,4,4,3,-78.358824,254,True,42.2581,Chemically Accurate
+OH_w3,MHS,lbfgs,4,5,4,-78.358925,103,True,18.9173,Chemically Accurate
+OH_w3,MHS,lbfgs,4,6,5,-78.358531,111,True,19.3646,Chemically Accurate
+OH_w3,MHS,lbfgs,4,7,6,-78.233221,77,True,21.7939,Failure
+OH_w3,MHS,lbfgs,4,8,7,-78.233375,69,True,13.4331,Failure
+OH_w3,MHS,lbfgs,4,9,8,-78.333692,74,True,13.8521,Failure
+OH_w3,MHS,lbfgs,4,10,9,-78.233253,67,True,13.1982,Failure
+OH_w3,MHS,lbfgs,4,11,10,-78.359015,183,True,31.3071,Chemically Accurate
+OH_w3,MHS,lbfgs,4,12,11,-78.358835,149,True,25.5464,Chemically Accurate
+OH_w3,MHS,lbfgs,4,13,12,-78.358797,195,True,38.6373,Chemically Accurate
+OH_w3,MHS,lbfgs,4,14,13,-78.359069,137,True,23.5718,Chemically Accurate
+OH_w3,MHS,lbfgs,4,15,14,-78.359052,189,True,32.3675,Chemically Accurate
+OH_w3,MHS,lbfgs,5,1,0,-78.359020,242,True,46.8209,Chemically Accurate
+OH_w3,MHS,lbfgs,5,2,1,-78.359017,228,True,38.4777,Chemically Accurate
+OH_w3,MHS,lbfgs,5,3,2,-78.296586,155,True,27.4754,Failure
+OH_w3,MHS,lbfgs,5,4,3,-78.233291,119,True,22.2750,Failure
+OH_w3,MHS,lbfgs,5,5,4,-78.333518,194,True,40.1038,Failure
+OH_w3,MHS,lbfgs,5,6,5,-78.359040,198,True,33.5051,Chemically Accurate
+OH_w3,MHS,lbfgs,5,7,6,-78.358914,454,True,79.6674,Chemically Accurate
+OH_w3,MHS,lbfgs,5,8,7,-78.359042,183,True,31.2813,Chemically Accurate
+OH_w3,MHS,lbfgs,5,9,8,-78.359002,112,True,21.2774,Chemically Accurate
+OH_w3,MHS,lbfgs,5,10,9,-78.333914,246,True,41.9236,Failure
+OH_w3,MHS,lbfgs,5,11,10,-78.358806,278,True,53.8460,Chemically Accurate
+OH_w3,MHS,lbfgs,5,12,11,-78.358826,165,True,28.9829,Chemically Accurate
+OH_w3,MHS,lbfgs,5,13,12,-78.233280,68,True,13.6630,Failure
+OH_w3,MHS,lbfgs,5,14,13,-78.333702,218,True,39.9424,Failure
+OH_w3,MHS,lbfgs,5,15,14,-78.359079,258,True,51.1873,Chemically Accurate
+OH_w3,MHS,lbfgs,6,1,0,-78.333718,114,True,21.6910,Failure
+OH_w3,MHS,lbfgs,6,2,1,-78.358865,254,True,44.1507,Chemically Accurate
+OH_w3,MHS,lbfgs,6,3,2,-78.358874,235,True,46.7946,Chemically Accurate
+OH_w3,MHS,lbfgs,6,4,3,-78.358920,242,True,41.1966,Chemically Accurate
+OH_w3,MHS,lbfgs,6,5,4,-78.358890,220,True,38.2285,Chemically Accurate
+OH_w3,MHS,lbfgs,6,6,5,-78.233812,66,True,20.8500,Failure
+OH_w3,MHS,lbfgs,6,7,6,-78.359052,278,True,48.5988,Chemically Accurate
+OH_w3,MHS,lbfgs,6,8,7,-78.358770,202,True,36.4934,Chemically Accurate
+OH_w3,MHS,lbfgs,6,9,8,-78.334073,149,True,37.5937,Failure
+OH_w3,MHS,lbfgs,6,10,9,-78.358858,278,True,53.9554,Chemically Accurate
+OH_w3,MHS,lbfgs,6,11,10,-78.358853,175,True,33.0538,Chemically Accurate
+OH_w3,MHS,lbfgs,6,12,11,-78.358948,176,True,32.8622,Chemically Accurate
+OH_w3,MHS,lbfgs,6,13,12,-78.359055,101,True,42.8228,Chemically Accurate
+OH_w3,MHS,lbfgs,6,14,13,-78.359002,302,True,58.6134,Chemically Accurate
+OH_w3,MHS,lbfgs,6,15,14,-78.358856,188,True,35.8992,Chemically Accurate
+OH_w3,MHS,lbfgs,7,1,0,-78.358751,191,True,66.8145,Chemically Accurate
+OH_w3,MHS,lbfgs,7,2,1,-78.358871,274,True,64.7232,Chemically Accurate
+OH_w3,MHS,lbfgs,7,3,2,-78.358841,423,True,128.9986,Chemically Accurate
+OH_w3,MHS,lbfgs,7,4,3,-78.358957,273,True,61.6858,Chemically Accurate
+OH_w3,MHS,lbfgs,7,5,4,-78.333619,277,True,85.7337,Failure
+OH_w3,MHS,lbfgs,7,6,5,-78.359037,233,True,60.9685,Chemically Accurate
+OH_w3,MHS,lbfgs,7,7,6,-78.358849,336,True,66.1501,Chemically Accurate
+OH_w3,MHS,lbfgs,7,8,7,-78.359043,181,True,79.8816,Chemically Accurate
+OH_w3,MHS,lbfgs,7,9,8,-78.359028,263,True,68.1203,Chemically Accurate
+OH_w3,MHS,lbfgs,7,10,9,-78.359054,215,True,43.8468,Chemically Accurate
+OH_w3,MHS,lbfgs,7,11,10,-78.359077,366,True,128.4182,Chemically Accurate
+OH_w3,MHS,lbfgs,7,12,11,-78.359063,350,True,113.9751,Chemically Accurate
+OH_w3,MHS,lbfgs,7,13,12,-78.358942,248,True,72.2635,Chemically Accurate
+OH_w3,MHS,lbfgs,7,14,13,-78.359040,184,True,38.2454,Chemically Accurate
+OH_w3,MHS,lbfgs,7,15,14,-78.358975,319,True,123.0653,Chemically Accurate
+OH_w3,MHS,adam,1,1,0,-77.213270,181,True,44.6986,Failure
+OH_w3,MHS,adam,1,2,1,-78.233225,138,True,26.7775,Failure
+OH_w3,MHS,adam,1,3,2,-78.332638,1000,False,249.2317,Failure
+OH_w3,MHS,adam,1,4,3,-77.532903,1000,False,315.9048,Failure
+OH_w3,MHS,adam,1,5,4,-78.233220,655,True,142.8285,Failure
+OH_w3,MHS,adam,1,6,5,-77.212982,331,True,146.7635,Failure
+OH_w3,MHS,adam,1,7,6,-78.284627,181,True,42.4004,Failure
+OH_w3,MHS,adam,1,8,7,-78.289369,1000,False,298.5610,Failure
+OH_w3,MHS,adam,1,9,8,-78.333673,273,True,149.9131,Failure
+OH_w3,MHS,adam,1,10,9,-78.333661,846,True,305.5282,Failure
+OH_w3,MHS,adam,1,11,10,-78.233237,696,True,148.3609,Failure
+OH_w3,MHS,adam,1,12,11,-78.234405,183,True,163.8511,Failure
+OH_w3,MHS,adam,1,13,12,-77.212964,246,True,63.8039,Failure
+OH_w3,MHS,adam,1,14,13,-78.333685,453,True,185.9325,Failure
+OH_w3,MHS,adam,1,15,14,-78.233234,780,True,166.8800,Failure
+OH_w3,MHS,adam,2,1,0,-78.359063,402,True,199.5942,Chemically Accurate
+OH_w3,MHS,adam,2,2,1,-77.536645,122,True,24.7409,Failure
+OH_w3,MHS,adam,2,3,2,-77.536690,402,True,208.0189,Failure
+OH_w3,MHS,adam,2,4,3,-78.233291,191,True,50.3394,Failure
+OH_w3,MHS,adam,2,5,4,-77.536900,322,True,61.7977,Failure
+OH_w3,MHS,adam,2,6,5,-78.333683,354,True,183.0298,Failure
+OH_w3,MHS,adam,2,7,6,-78.333703,354,True,80.0228,Failure
+OH_w3,MHS,adam,2,8,7,-77.536746,130,True,26.2587,Failure
+OH_w3,MHS,adam,2,9,8,-77.536597,133,True,24.8737,Failure
+OH_w3,MHS,adam,2,10,9,-77.536710,300,True,220.3746,Failure
+OH_w3,MHS,adam,2,11,10,-78.333509,504,True,122.0705,Failure
+OH_w3,MHS,adam,2,12,11,-77.536416,137,True,158.5833,Failure
+OH_w3,MHS,adam,2,13,12,-78.333681,296,True,92.4578,Failure
+OH_w3,MHS,adam,2,14,13,-76.889328,283,True,60.6569,Failure
+OH_w3,MHS,adam,2,15,14,-78.333729,586,True,293.1410,Failure
+OH_w3,MHS,adam,3,1,0,-78.233249,307,True,64.0873,Failure
+OH_w3,MHS,adam,3,2,1,-78.233217,134,True,173.3201,Failure
+OH_w3,MHS,adam,3,3,2,-78.358600,653,True,172.9114,Chemically Accurate
+OH_w3,MHS,adam,3,4,3,-78.358789,929,True,397.2159,Chemically Accurate
+OH_w3,MHS,adam,3,5,4,-77.536625,613,True,374.4932,Failure
+OH_w3,MHS,adam,3,6,5,-78.317356,1000,False,455.7028,Failure
+OH_w3,MHS,adam,3,7,6,-78.233240,258,True,305.3137,Failure
+OH_w3,MHS,adam,3,8,7,-78.233243,267,True,76.8631,Failure
+OH_w3,MHS,adam,3,9,8,-78.234307,101,True,24.7583,Failure
+OH_w3,MHS,adam,3,10,9,-78.334668,199,True,43.8725,Failure
+OH_w3,MHS,adam,3,11,10,-78.335215,1000,False,666.2498,Failure
+OH_w3,MHS,adam,3,12,11,-78.341464,1000,False,496.1695,Failure
+OH_w3,MHS,adam,3,13,12,-78.333704,944,True,513.1289,Failure
+OH_w3,MHS,adam,3,14,13,-78.233184,690,True,326.7351,Failure
+OH_w3,MHS,adam,3,15,14,-78.359056,216,True,65.6112,Chemically Accurate
+OH_w3,MHS,adam,4,1,0,-78.359079,861,True,476.2168,Chemically Accurate
+OH_w3,MHS,adam,4,2,1,-78.334156,929,True,427.1411,Failure
+OH_w3,MHS,adam,4,3,2,-78.333719,437,True,296.6581,Failure
+OH_w3,MHS,adam,4,4,3,-77.534966,1000,False,483.3720,Failure
+OH_w3,MHS,adam,4,5,4,-78.289291,1000,False,508.2551,Failure
+OH_w3,MHS,adam,4,6,5,-78.233596,429,True,537.2177,Failure
+OH_w3,MHS,adam,4,7,6,-78.233077,115,True,57.4832,Failure
+OH_w3,MHS,adam,4,8,7,-78.234765,1000,False,655.7986,Failure
+OH_w3,MHS,adam,4,9,8,-78.333326,943,True,631.0998,Failure
+OH_w3,MHS,adam,4,10,9,-78.356354,854,True,808.6422,Qualitatively Accurate
+OH_w3,MHS,adam,4,11,10,-78.233247,248,True,86.5615,Failure
+OH_w3,MHS,adam,4,12,11,-78.358917,687,True,710.4969,Chemically Accurate
+OH_w3,MHS,adam,4,13,12,-78.233166,124,True,45.7389,Failure
+OH_w3,MHS,adam,4,14,13,-78.358747,651,True,577.0955,Chemically Accurate
+OH_w3,MHS,adam,4,15,14,-78.358811,892,True,647.7947,Chemically Accurate
+OH_w3,MHS,adam,5,1,0,-78.359031,769,True,689.8332,Chemically Accurate
+OH_w3,MHS,adam,5,2,1,-78.356477,377,True,773.4201,Qualitatively Accurate
+OH_w3,MHS,adam,5,3,2,-78.233167,771,True,733.0741,Failure
+OH_w3,MHS,adam,5,4,3,-78.233623,293,True,131.1801,Failure
+OH_w3,MHS,adam,5,5,4,-78.358982,500,True,172.3891,Chemically Accurate
+OH_w3,MHS,adam,5,6,5,-78.233356,197,True,574.0036,Failure
+OH_w3,MHS,adam,5,7,6,-78.234682,402,True,158.6552,Failure
+OH_w3,MHS,adam,5,8,7,-78.358988,487,True,982.4168,Chemically Accurate
+OH_w3,MHS,adam,5,9,8,-78.333879,470,True,147.3363,Failure
+OH_w3,MHS,adam,5,10,9,-77.536957,286,True,720.0450,Failure
+OH_w3,MHS,adam,5,11,10,-78.354373,1000,False,1000.6349,Failure
+OH_w3,MHS,adam,5,12,11,-78.358857,956,True,938.1473,Chemically Accurate
+OH_w3,MHS,adam,5,13,12,-78.232552,130,True,45.5339,Failure
+OH_w3,MHS,adam,5,14,13,-78.333133,647,True,1360.4716,Failure
+OH_w3,MHS,adam,5,15,14,-78.311363,1000,False,1267.1742,Failure
+OH_w3,MHS,adam,6,1,0,-78.358750,542,True,92.2549,Chemically Accurate
+OH_w3,MHS,adam,6,2,1,-78.331670,632,True,111.0424,Failure
+OH_w3,MHS,adam,6,3,2,-78.358928,607,True,105.2420,Chemically Accurate
+OH_w3,MHS,adam,6,4,3,-78.334207,534,True,155.3118,Failure
+OH_w3,MHS,adam,6,5,4,-78.357884,319,True,120.8764,Chemically Accurate
+OH_w3,MHS,adam,6,6,5,-78.359038,915,True,239.5399,Chemically Accurate
+OH_w3,MHS,adam,6,7,6,-78.233131,448,True,98.1667,Failure
+OH_w3,MHS,adam,6,8,7,-78.334706,851,True,163.6744,Failure
+OH_w3,MHS,adam,6,9,8,-78.295195,645,True,127.9909,Failure
+OH_w3,MHS,adam,6,10,9,-78.357976,904,True,407.7436,Chemically Accurate
+OH_w3,MHS,adam,6,11,10,-78.333887,596,True,110.7575,Failure
+OH_w3,MHS,adam,6,12,11,-78.358809,599,True,104.3152,Chemically Accurate
+OH_w3,MHS,adam,6,13,12,-78.358963,300,True,51.8132,Chemically Accurate
+OH_w3,MHS,adam,6,14,13,-78.357474,760,True,126.8972,Qualitatively Accurate
+OH_w3,MHS,adam,6,15,14,-78.233804,289,True,48.8037,Failure
+OH_w3,MHS,adam,7,1,0,-78.346091,699,True,121.6803,Failure
+OH_w3,MHS,adam,7,2,1,-78.232889,106,True,18.0807,Failure
+OH_w3,MHS,adam,7,3,2,-78.281262,1000,False,171.2114,Failure
+OH_w3,MHS,adam,7,4,3,-78.357522,731,True,127.5096,Chemically Accurate
+OH_w3,MHS,adam,7,5,4,-78.358968,872,True,173.9474,Chemically Accurate
+OH_w3,MHS,adam,7,6,5,-78.355785,1000,False,252.0275,Failure
+OH_w3,MHS,adam,7,7,6,-78.356008,752,True,375.9212,Qualitatively Accurate
+OH_w3,MHS,adam,7,8,7,-78.358830,804,True,324.6619,Chemically Accurate
+OH_w3,MHS,adam,7,9,8,-78.358428,832,True,253.7246,Chemically Accurate
+OH_w3,MHS,adam,7,10,9,-78.358281,409,True,68.8407,Chemically Accurate
+OH_w3,MHS,adam,7,11,10,-78.351585,421,True,57.0950,Qualitatively Accurate
+OH_w3,MHS,adam,7,12,11,-78.358786,1000,False,133.2505,Failure
+OH_w3,MHS,adam,7,13,12,-78.358341,1000,False,141.7337,Failure
+OH_w3,MHS,adam,7,14,13,-78.333773,322,True,42.8942,Failure
+OH_w3,MHS,adam,7,15,14,-78.358662,598,True,79.8770,Chemically Accurate
+molecule,encoding,optimizer,layers,trial_num,seed,final_energy,iterations,converged,wall_time_s,status
+CH_w1,MHS,lbfgs,1,1,0,-40.611597,109,TRUE,169.4685,Failure
+CH_w1,MHS,lbfgs,1,2,1,-40.440653,29,TRUE,40.9719,Failure
+CH_w1,MHS,lbfgs,1,3,2,-40.611555,43,TRUE,63.5253,Failure
+CH_w1,MHS,lbfgs,1,4,3,-39.360097,46,TRUE,66.7595,Failure
+CH_w1,MHS,lbfgs,1,5,4,-40.611666,137,TRUE,205.7094,Failure
+CH_w1,MHS,lbfgs,1,6,5,-40.525771,69,TRUE,103.2162,Failure
+CH_w1,MHS,lbfgs,1,7,6,-40.440932,104,TRUE,152.8314,Failure
+CH_w1,MHS,lbfgs,1,8,7,-40.440678,44,TRUE,67.506,Failure
+CH_w1,MHS,lbfgs,1,9,8,-40.611665,59,TRUE,86.7091,Failure
+CH_w1,MHS,lbfgs,1,10,9,-40.44054,36,TRUE,52.0084,Failure
+CH_w1,MHS,lbfgs,1,11,10,-40.523076,24,TRUE,38.4293,Failure
+CH_w1,MHS,lbfgs,1,12,11,-40.440521,93,TRUE,146.9368,Failure
+CH_w1,MHS,lbfgs,1,13,12,-40.046334,56,TRUE,85.0267,Failure
+CH_w1,MHS,lbfgs,1,14,13,-39.360045,52,TRUE,80.0739,Failure
+CH_w1,MHS,lbfgs,1,15,14,-40.611951,81,TRUE,118.9421,Failure
+CH_w1,MHS,lbfgs,2,1,0,-40.615786,68,TRUE,105.8042,Failure
+CH_w1,MHS,lbfgs,2,2,1,-40.615875,140,TRUE,216.5603,Failure
+CH_w1,MHS,lbfgs,2,3,2,-40.61054,92,TRUE,146.089,Failure
+CH_w1,MHS,lbfgs,2,4,3,-40.616347,212,TRUE,317.9467,Failure
+CH_w1,MHS,lbfgs,2,5,4,-39.360019,56,TRUE,88.355,Failure
+CH_w1,MHS,lbfgs,2,6,5,-40.610583,41,TRUE,64.4181,Failure
+CH_w1,MHS,lbfgs,2,7,6,-40.618969,149,TRUE,220.4719,Qualitatively Accurate
+CH_w1,MHS,lbfgs,2,8,7,-40.610412,64,TRUE,102.2485,Failure
+CH_w1,MHS,lbfgs,2,9,8,-39.378138,112,TRUE,164.5318,Failure
+CH_w1,MHS,lbfgs,2,10,9,-40.615648,39,TRUE,68.3109,Failure
+CH_w1,MHS,lbfgs,2,11,10,-40.054507,108,TRUE,159.2796,Failure
+CH_w1,MHS,lbfgs,2,12,11,-40.614507,100,TRUE,148.3719,Failure
+CH_w1,MHS,lbfgs,2,13,12,-40.615683,104,TRUE,154.9365,Failure
+CH_w1,MHS,lbfgs,2,14,13,-40.61083,56,TRUE,80.9045,Failure
+CH_w1,MHS,lbfgs,2,15,14,-40.610844,93,TRUE,135.3977,Failure
+CH_w1,MHS,lbfgs,3,1,0,-40.613941,147,TRUE,226.9894,Failure
+CH_w1,MHS,lbfgs,3,2,1,-40.61676,155,TRUE,236.0808,Failure
+CH_w1,MHS,lbfgs,3,3,2,-40.610471,93,TRUE,145.2246,Failure
+CH_w1,MHS,lbfgs,3,4,3,-40.628358,364,TRUE,541.186,Chemically Accurate
+CH_w1,MHS,lbfgs,3,5,4,-40.610645,58,TRUE,87.8723,Failure
+CH_w1,MHS,lbfgs,3,6,5,-40.613686,210,TRUE,320.5019,Failure
+CH_w1,MHS,lbfgs,3,7,6,-40.616907,187,TRUE,286.8531,Failure
+CH_w1,MHS,lbfgs,3,8,7,-40.610399,254,TRUE,398.6533,Failure
+CH_w1,MHS,lbfgs,3,9,8,-40.61393,139,TRUE,214.4621,Failure
+CH_w1,MHS,lbfgs,3,10,9,-40.610579,67,TRUE,102.1203,Failure
+CH_w1,MHS,lbfgs,3,11,10,-40.612042,86,TRUE,129.1054,Failure
+CH_w1,MHS,lbfgs,3,12,11,-40.616436,193,TRUE,287.021,Failure
+CH_w1,MHS,lbfgs,3,13,12,-40.614556,65,TRUE,100.0434,Failure
+CH_w1,MHS,lbfgs,3,14,13,-40.616452,243,TRUE,378.1474,Failure
+CH_w1,MHS,lbfgs,3,15,14,-40.610593,69,TRUE,107.195,Failure
+CH_w1,MHS,lbfgs,4,1,0,-40.622659,326,TRUE,509.152,Qualitatively Accurate
+CH_w1,MHS,lbfgs,4,2,1,-40.623891,288,TRUE,454.7369,Qualitatively Accurate
+CH_w1,MHS,lbfgs,4,3,2,-40.627837,419,TRUE,663.5246,Chemically Accurate
+CH_w1,MHS,lbfgs,4,4,3,-40.616887,75,TRUE,119.1704,Failure
+CH_w1,MHS,lbfgs,4,5,4,-40.615558,288,TRUE,466.871,Failure
+CH_w1,MHS,lbfgs,4,6,5,-40.620995,254,TRUE,397.2462,Qualitatively Accurate
+CH_w1,MHS,lbfgs,4,7,6,-40.616849,103,TRUE,165.1878,Failure
+CH_w1,MHS,lbfgs,4,8,7,-40.616931,121,TRUE,191.3742,Failure
+CH_w1,MHS,lbfgs,4,9,8,-40.616927,107,TRUE,172.0217,Failure
+CH_w1,MHS,lbfgs,4,10,9,-40.616635,258,TRUE,401.3619,Failure
+CH_w1,MHS,lbfgs,4,11,10,-40.621111,243,TRUE,381.3566,Qualitatively Accurate
+CH_w1,MHS,lbfgs,4,12,11,-40.616886,169,TRUE,267.6308,Failure
+CH_w1,MHS,lbfgs,4,13,12,-40.615771,112,TRUE,188.8392,Failure
+CH_w1,MHS,lbfgs,4,14,13,-40.628175,679,TRUE,1074.9629,Chemically Accurate
+CH_w1,MHS,lbfgs,4,15,14,-40.61665,62,TRUE,96.8908,Failure
+CH_w1,MHS,lbfgs,5,1,0,-40.621556,385,TRUE,644.7979,Qualitatively Accurate
+CH_w1,MHS,lbfgs,5,2,1,-40.616839,205,TRUE,341.4238,Failure
+CH_w1,MHS,lbfgs,5,3,2,-40.626832,346,TRUE,564.038,Qualitatively Accurate
+CH_w1,MHS,lbfgs,5,4,3,-40.616967,134,TRUE,220.7569,Failure
+CH_w1,MHS,lbfgs,5,5,4,-40.616847,160,TRUE,261.9595,Failure
+CH_w1,MHS,lbfgs,5,6,5,-40.624032,255,TRUE,430.6185,Qualitatively Accurate
+CH_w1,MHS,lbfgs,5,7,6,-40.616874,112,TRUE,182.8755,Failure
+CH_w1,MHS,lbfgs,5,8,7,-40.617137,273,TRUE,462.934,Failure
+CH_w1,MHS,lbfgs,5,9,8,-40.620697,327,TRUE,528.0305,Qualitatively Accurate
+CH_w1,MHS,lbfgs,5,10,9,-40.054676,72,TRUE,124.4282,Failure
+CH_w1,MHS,lbfgs,5,11,10,-40.627635,428,TRUE,684.5809,Chemically Accurate
+CH_w1,MHS,lbfgs,5,12,11,-40.624134,511,TRUE,822.541,Qualitatively Accurate
+CH_w1,MHS,lbfgs,5,13,12,-40.62753,413,TRUE,656.2503,Chemically Accurate
+CH_w1,MHS,lbfgs,5,14,13,-40.624581,533,TRUE,869.5793,Qualitatively Accurate
+CH_w1,MHS,lbfgs,5,15,14,-40.626092,553,TRUE,926.5681,Qualitatively Accurate
+CH_w1,MHS,lbfgs,6,1,0,-40.628179,572,TRUE,977.8651,Chemically Accurate
+CH_w1,MHS,lbfgs,6,2,1,-40.627882,359,TRUE,607.7182,Chemically Accurate
+CH_w1,MHS,lbfgs,6,3,2,-40.626903,295,TRUE,519.8483,Qualitatively Accurate
+CH_w1,MHS,lbfgs,6,4,3,-40.628532,363,TRUE,612.4515,Chemically Accurate
+CH_w1,MHS,lbfgs,6,5,4,-40.628699,361,TRUE,612.734,Chemically Accurate
+CH_w1,MHS,lbfgs,6,6,5,-40.627404,502,TRUE,861.6072,Chemically Accurate
+CH_w1,MHS,lbfgs,6,7,6,-40.628453,431,TRUE,737.7656,Chemically Accurate
+CH_w1,MHS,lbfgs,6,8,7,-40.628636,437,TRUE,757.8447,Chemically Accurate
+CH_w1,MHS,lbfgs,6,9,8,-40.623559,172,TRUE,285.1712,Qualitatively Accurate
+CH_w1,MHS,lbfgs,6,10,9,-40.627074,294,TRUE,503.2419,Qualitatively Accurate
+CH_w1,MHS,lbfgs,6,11,10,-40.628505,419,TRUE,726.015,Chemically Accurate
+CH_w1,MHS,lbfgs,6,12,11,-40.617979,269,TRUE,457.2756,Failure
+CH_w1,MHS,lbfgs,6,13,12,-40.623168,343,TRUE,603.6692,Qualitatively Accurate
+CH_w1,MHS,lbfgs,6,14,13,-40.628621,307,TRUE,525.0031,Chemically Accurate
+CH_w1,MHS,lbfgs,6,15,14,-40.625148,248,TRUE,424.8723,Qualitatively Accurate
+CH_w1,MHS,lbfgs,7,1,0,-40.628225,446,TRUE,775.565,Chemically Accurate
+CH_w1,MHS,lbfgs,7,2,1,-40.627638,363,TRUE,650.267,Chemically Accurate
+CH_w1,MHS,lbfgs,7,3,2,-40.627609,488,TRUE,867.7832,Chemically Accurate
+CH_w1,MHS,lbfgs,7,4,3,-40.628706,488,TRUE,871.5509,Chemically Accurate
+CH_w1,MHS,lbfgs,7,5,4,-40.617577,147,TRUE,274.217,Failure
+CH_w1,MHS,lbfgs,7,6,5,-40.628002,280,TRUE,495.5134,Chemically Accurate
+CH_w1,MHS,lbfgs,7,7,6,-40.62522,526,TRUE,929.0478,Qualitatively Accurate
+CH_w1,MHS,lbfgs,7,8,7,-40.62833,437,TRUE,797.1484,Chemically Accurate
+CH_w1,MHS,lbfgs,7,9,8,-40.628035,306,TRUE,540.5109,Chemically Accurate
+CH_w1,MHS,lbfgs,7,10,9,-40.622562,406,TRUE,726.9368,Qualitatively Accurate
+CH_w1,MHS,lbfgs,7,11,10,-40.628387,463,TRUE,822.2341,Chemically Accurate
+CH_w1,MHS,lbfgs,7,12,11,-40.624482,402,TRUE,729.1137,Qualitatively Accurate
+CH_w1,MHS,lbfgs,7,13,12,-40.628253,295,TRUE,529.1754,Chemically Accurate
+CH_w1,MHS,lbfgs,7,14,13,-40.627641,333,TRUE,584.964,Chemically Accurate
+CH_w1,MHS,lbfgs,7,15,14,-40.627737,455,TRUE,810.4466,Chemically Accurate
+CH_w1,MHS,adam,1,1,0,-40.611518,592,TRUE,734.732,Failure
+CH_w1,MHS,adam,1,2,1,-40.440417,135,TRUE,173.9122,Failure
+CH_w1,MHS,adam,1,3,2,-40.525196,124,TRUE,162.2824,Failure
+CH_w1,MHS,adam,1,4,3,-40.523061,96,TRUE,117.7717,Failure
+CH_w1,MHS,adam,1,5,4,-40.443597,557,TRUE,707.783,Failure
+CH_w1,MHS,adam,1,6,5,-40.523048,160,TRUE,208.4969,Failure
+CH_w1,MHS,adam,1,7,6,-40.443497,290,TRUE,384.9689,Failure
+CH_w1,MHS,adam,1,8,7,-40.441306,773,TRUE,1010.7865,Failure
+CH_w1,MHS,adam,1,9,8,-40.525684,750,TRUE,963.2313,Failure
+CH_w1,MHS,adam,1,10,9,-40.611659,663,TRUE,864.4046,Failure
+CH_w1,MHS,adam,1,11,10,-40.522701,196,TRUE,247.4681,Failure
+CH_w1,MHS,adam,1,12,11,-40.440738,392,TRUE,514.0484,Failure
+CH_w1,MHS,adam,1,13,12,-40.046267,155,TRUE,185.7211,Failure
+CH_w1,MHS,adam,1,14,13,-40.610482,224,TRUE,293.9178,Failure
+CH_w1,MHS,adam,1,15,14,-40.046234,301,TRUE,382.509,Failure
+CH_w1,MHS,adam,2,1,0,-40.616669,254,TRUE,348.1058,Failure
+CH_w1,MHS,adam,2,2,1,-40.610461,133,TRUE,172.5619,Failure
+CH_w1,MHS,adam,2,3,2,-40.610769,256,TRUE,351.6081,Failure
+CH_w1,MHS,adam,2,4,3,-40.611772,810,TRUE,1120.7837,Failure
+CH_w1,MHS,adam,2,5,4,-39.360044,226,TRUE,301.7688,Failure
+CH_w1,MHS,adam,2,6,5,-40.616886,115,TRUE,151.2229,Failure
+CH_w1,MHS,adam,2,7,6,-40.60928,114,TRUE,166.7436,Failure
+CH_w1,MHS,adam,2,8,7,-40.609324,150,TRUE,193.1751,Failure
+CH_w1,MHS,adam,2,9,8,-39.36598,157,TRUE,218.5749,Failure
+CH_w1,MHS,adam,2,10,9,-40.61069,142,TRUE,184.5802,Failure
+CH_w1,MHS,adam,2,11,10,-40.054433,361,TRUE,498.1099,Failure
+CH_w1,MHS,adam,2,12,11,-39.363913,1000,FALSE,1383.885,Failure
+CH_w1,MHS,adam,2,13,12,-40.615469,650,TRUE,920.4675,Failure
+CH_w1,MHS,adam,2,14,13,-40.615662,435,TRUE,600.0836,Failure
+CH_w1,MHS,adam,2,15,14,-40.617917,959,TRUE,1283.8798,Failure
+CH_w1,MHS,adam,3,1,0,-40.054514,159,TRUE,228.8876,Failure
+CH_w1,MHS,adam,3,2,1,-40.61598,607,TRUE,867.1214,Failure
+CH_w1,MHS,adam,3,3,2,-40.610134,144,TRUE,194.9883,Failure
+CH_w1,MHS,adam,3,4,3,-40.615071,137,TRUE,203.3676,Failure
+CH_w1,MHS,adam,3,5,4,-40.60994,94,TRUE,115.163,Failure
+CH_w1,MHS,adam,3,6,5,-40.616802,955,TRUE,1380.296,Failure
+CH_w1,MHS,adam,3,7,6,-40.534687,1000,FALSE,1459.5643,Failure
+CH_w1,MHS,adam,3,8,7,-40.618186,770,TRUE,1110.7206,Failure
+CH_w1,MHS,adam,3,9,8,-40.612911,570,TRUE,822.6355,Failure
+CH_w1,MHS,adam,3,10,9,-40.611056,128,TRUE,197.081,Failure
+CH_w1,MHS,adam,3,11,10,-40.612599,182,TRUE,246.6684,Failure
+CH_w1,MHS,adam,3,12,11,-40.613495,469,TRUE,690.6423,Failure
+CH_w1,MHS,adam,3,13,12,-40.610883,562,TRUE,813.8744,Failure
+CH_w1,MHS,adam,3,14,13,-40.613769,969,TRUE,1394.0232,Failure
+CH_w1,MHS,adam,3,15,14,-40.615316,815,TRUE,1199.663,Failure
+CH_w1,MHS,adam,4,1,0,-40.614192,477,TRUE,720.2288,Failure
+CH_w1,MHS,adam,4,2,1,-40.623786,720,TRUE,1106.3159,Qualitatively Accurate
+CH_w1,MHS,adam,4,3,2,-40.616133,363,TRUE,585.4223,Failure
+CH_w1,MHS,adam,4,4,3,-40.628092,991,TRUE,1550.5357,Chemically Accurate
+CH_w1,MHS,adam,4,5,4,-40.617593,1000,FALSE,1617.0054,Failure
+CH_w1,MHS,adam,4,6,5,-40.621949,655,TRUE,1229.885,Qualitatively Accurate
+CH_w1,MHS,adam,4,7,6,-40.616804,284,TRUE,539.5566,Failure
+CH_w1,MHS,adam,4,8,7,-40.616627,821,TRUE,1592.5577,Failure
+CH_w1,MHS,adam,4,9,8,-40.616776,550,TRUE,1074.549,Failure
+CH_w1,MHS,adam,4,10,9,-40.622366,579,TRUE,1156.6476,Qualitatively Accurate
+CH_w1,MHS,adam,4,11,10,-40.613655,114,TRUE,216.3765,Failure
+CH_w1,MHS,adam,4,12,11,-40.616505,262,TRUE,474.8396,Failure
+CH_w1,MHS,adam,4,13,12,-40.616924,360,TRUE,668.4903,Failure
+CH_w1,MHS,adam,4,14,13,-40.616645,431,TRUE,789.4992,Failure
+CH_w1,MHS,adam,4,15,14,-40.619085,1000,FALSE,1921.0347,Failure
+CH_w1,MHS,adam,5,1,0,-40.618065,423,TRUE,662.7556,Failure
+CH_w1,MHS,adam,5,2,1,-40.621035,536,TRUE,839.5199,Qualitatively Accurate
+CH_w1,MHS,adam,5,3,2,-40.618187,463,TRUE,841.3157,Failure
+CH_w1,MHS,adam,5,4,3,-40.615034,509,TRUE,1044.9459,Failure
+CH_w1,MHS,adam,5,5,4,-40.616807,384,TRUE,778.3564,Failure
+CH_w1,MHS,adam,5,6,5,-40.622362,428,TRUE,886.4357,Qualitatively Accurate
+CH_w1,MHS,adam,5,7,6,-40.613108,765,TRUE,1299.057,Failure
+CH_w1,MHS,adam,5,8,7,-40.627893,739,TRUE,1211.8178,Chemically Accurate
+CH_w1,MHS,adam,5,9,8,-40.617205,223,TRUE,344.3884,Failure
+CH_w1,MHS,adam,5,10,9,-40.626858,803,TRUE,1334.1817,Qualitatively Accurate
+CH_w1,MHS,adam,5,11,10,-40.618486,715,TRUE,1140.8292,Failure
+CH_w1,MHS,adam,5,12,11,-40.614308,513,TRUE,828.6859,Failure
+CH_w1,MHS,adam,5,13,12,-40.619235,826,TRUE,1339.3046,Qualitatively Accurate
+CH_w1,MHS,adam,5,14,13,-40.622059,536,TRUE,867.3879,Qualitatively Accurate
+CH_w1,MHS,adam,5,15,14,-40.615893,442,TRUE,742.0988,Failure
+CH_w1,MHS,adam,6,1,0,-40.617497,250,TRUE,428.5787,Failure
+CH_w1,MHS,adam,6,2,1,-40.623026,689,TRUE,1185.0605,Qualitatively Accurate
+CH_w1,MHS,adam,6,3,2,-40.615682,725,TRUE,1239.157,Failure
+CH_w1,MHS,adam,6,4,3,-40.622249,1000,FALSE,1735.165,Failure
+CH_w1,MHS,adam,6,5,4,-40.618936,566,TRUE,962.4794,Failure
+CH_w1,MHS,adam,6,6,5,-40.622748,412,TRUE,705.234,Qualitatively Accurate
+CH_w1,MHS,adam,6,7,6,-40.617855,455,TRUE,791.5694,Failure
+CH_w1,MHS,adam,6,8,7,-40.618046,493,TRUE,833.4338,Failure
+CH_w1,MHS,adam,6,9,8,-40.618214,241,TRUE,415.0205,Failure
+CH_w1,MHS,adam,6,10,9,-40.622288,669,TRUE,1100.9223,Qualitatively Accurate
+CH_w1,MHS,adam,6,11,10,-40.620386,429,TRUE,705.9557,Qualitatively Accurate
+CH_w1,MHS,adam,6,12,11,-40.622952,754,TRUE,1249.1138,Qualitatively Accurate
+CH_w1,MHS,adam,6,13,12,-40.619758,994,TRUE,1693.3904,Qualitatively Accurate
+CH_w1,MHS,adam,6,14,13,-40.617741,303,TRUE,499.0595,Failure
+CH_w1,MHS,adam,6,15,14,-40.617098,682,TRUE,1146.8989,Failure
+CH_w1,MHS,adam,7,1,0,-40.618139,190,TRUE,311.5413,Failure
+CH_w1,MHS,adam,7,2,1,-40.620291,393,TRUE,646.2907,Qualitatively Accurate
+CH_w1,MHS,adam,7,3,2,-40.619223,676,TRUE,1137.5048,Qualitatively Accurate
+CH_w1,MHS,adam,7,4,3,-40.625924,876,TRUE,1369.9666,Qualitatively Accurate
+CH_w1,MHS,adam,7,5,4,-40.617792,307,TRUE,504.656,Failure
+CH_w1,MHS,adam,7,6,5,-40.625016,980,TRUE,1457.4421,Qualitatively Accurate
+CH_w1,MHS,adam,7,7,6,-40.61523,380,TRUE,625.7986,Failure
+CH_w1,MHS,adam,7,8,7,-40.620577,399,TRUE,652.5502,Qualitatively Accurate
+CH_w1,MHS,adam,7,9,8,-40.615142,265,TRUE,441.5654,Failure
+CH_w1,MHS,adam,7,10,9,-40.621432,734,TRUE,1075.4464,Qualitatively Accurate
+CH_w1,MHS,adam,7,11,10,-40.61821,349,TRUE,570.7449,Failure
+CH_w1,MHS,adam,7,12,11,-40.619805,328,TRUE,535.9362,Qualitatively Accurate
+CH_w1,MHS,adam,7,13,12,-40.624006,297,TRUE,465.529,Qualitatively Accurate
+CH_w1,MHS,adam,7,14,13,-40.62789,843,TRUE,1074.4122,Chemically Accurate
+CH_w1,MHS,adam,7,15,14,-40.62088,230,TRUE,352.8212,Qualitatively Accurate
+CH_w3,MHS,lbfgs,1,1,0,-40.623128,82,TRUE,135.3057,Failure
+CH_w3,MHS,lbfgs,1,2,1,-40.623124,43,TRUE,77.0503,Failure
+CH_w3,MHS,lbfgs,1,3,2,-40.623121,70,TRUE,118.4287,Failure
+CH_w3,MHS,lbfgs,1,4,3,-40.623106,100,TRUE,186.1009,Failure
+CH_w3,MHS,lbfgs,1,5,4,-40.622976,36,TRUE,68.2569,Failure
+CH_w3,MHS,lbfgs,1,6,5,-39.161194,22,TRUE,42.567,Failure
+CH_w3,MHS,lbfgs,1,7,6,-40.623128,75,TRUE,131.071,Failure
+CH_w3,MHS,lbfgs,1,8,7,-40.623127,58,TRUE,99.6888,Failure
+CH_w3,MHS,lbfgs,1,9,8,-40.623128,79,TRUE,130.5046,Failure
+CH_w3,MHS,lbfgs,1,10,9,-40.623116,59,TRUE,98.0907,Failure
+CH_w3,MHS,lbfgs,1,11,10,-40.623128,74,TRUE,124.5278,Failure
+CH_w3,MHS,lbfgs,1,12,11,-40.623177,44,TRUE,78.8155,Failure
+CH_w3,MHS,lbfgs,1,13,12,-40.623128,64,TRUE,115.8648,Failure
+CH_w3,MHS,lbfgs,1,14,13,-40.623128,70,TRUE,125.7225,Failure
+CH_w3,MHS,lbfgs,1,15,14,-39.831482,30,TRUE,52.1439,Failure
+CH_w3,MHS,lbfgs,2,1,0,-40.623126,44,TRUE,75.887,Failure
+CH_w3,MHS,lbfgs,2,2,1,-40.623166,59,TRUE,98.4108,Failure
+CH_w3,MHS,lbfgs,2,3,2,-40.623198,37,TRUE,64.4779,Failure
+CH_w3,MHS,lbfgs,2,4,3,-40.623042,48,TRUE,76.037,Failure
+CH_w3,MHS,lbfgs,2,5,4,-40.62315,69,TRUE,115.5476,Failure
+CH_w3,MHS,lbfgs,2,6,5,-40.62318,41,TRUE,69.3854,Failure
+CH_w3,MHS,lbfgs,2,7,6,-40.623147,25,TRUE,43.0562,Failure
+CH_w3,MHS,lbfgs,2,8,7,-39.161196,40,TRUE,69.1484,Failure
+CH_w3,MHS,lbfgs,2,9,8,-40.624259,72,TRUE,122.1238,Failure
+CH_w3,MHS,lbfgs,2,10,9,-40.623122,47,TRUE,81.7724,Failure
+CH_w3,MHS,lbfgs,2,11,10,-40.623113,58,TRUE,93.7104,Failure
+CH_w3,MHS,lbfgs,2,12,11,-40.623165,62,TRUE,103.5352,Failure
+CH_w3,MHS,lbfgs,2,13,12,-40.623134,33,TRUE,57.3214,Failure
+CH_w3,MHS,lbfgs,2,14,13,-40.62313,54,TRUE,88.3982,Failure
+CH_w3,MHS,lbfgs,2,15,14,-40.623374,52,TRUE,88.8152,Failure
+CH_w3,MHS,lbfgs,3,1,0,-40.623365,71,TRUE,119.0676,Failure
+CH_w3,MHS,lbfgs,3,2,1,-40.623373,70,TRUE,111.3965,Failure
+CH_w3,MHS,lbfgs,3,3,2,-39.161214,55,TRUE,92.6393,Failure
+CH_w3,MHS,lbfgs,3,4,3,-40.623573,110,TRUE,183.8851,Failure
+CH_w3,MHS,lbfgs,3,5,4,-40.623131,49,TRUE,80.5545,Failure
+CH_w3,MHS,lbfgs,3,6,5,-40.635296,130,TRUE,215.6971,Chemically Accurate
+CH_w3,MHS,lbfgs,3,7,6,-40.635086,155,TRUE,266.3701,Qualitatively Accurate
+CH_w3,MHS,lbfgs,3,8,7,-40.623332,58,TRUE,94.8282,Failure
+CH_w3,MHS,lbfgs,3,9,8,-40.623801,59,TRUE,100.299,Failure
+CH_w3,MHS,lbfgs,3,10,9,-40.623923,74,TRUE,124.1642,Failure
+CH_w3,MHS,lbfgs,3,11,10,-40.626095,107,TRUE,173.0923,Failure
+CH_w3,MHS,lbfgs,3,12,11,-40.635338,120,TRUE,202.3485,Chemically Accurate
+CH_w3,MHS,lbfgs,3,13,12,-40.623389,45,TRUE,74.7305,Failure
+CH_w3,MHS,lbfgs,3,14,13,-40.623366,90,TRUE,145.8926,Failure
+CH_w3,MHS,lbfgs,3,15,14,-40.6239,211,TRUE,363.4824,Failure
+CH_w3,MHS,lbfgs,4,1,0,-40.623243,67,TRUE,111.7668,Failure
+CH_w3,MHS,lbfgs,4,2,1,-40.635229,168,TRUE,283.1757,Chemically Accurate
+CH_w3,MHS,lbfgs,4,3,2,-40.636001,212,TRUE,343.3154,Chemically Accurate
+CH_w3,MHS,lbfgs,4,4,3,-40.62377,66,TRUE,108.2865,Failure
+CH_w3,MHS,lbfgs,4,5,4,-40.623877,82,TRUE,140.1265,Failure
+CH_w3,MHS,lbfgs,4,6,5,-40.623539,88,TRUE,145.4823,Failure
+CH_w3,MHS,lbfgs,4,7,6,-40.623429,67,TRUE,108.3681,Failure
+CH_w3,MHS,lbfgs,4,8,7,-40.623768,69,TRUE,114.7494,Failure
+CH_w3,MHS,lbfgs,4,9,8,-40.623818,105,TRUE,170.6968,Failure
+CH_w3,MHS,lbfgs,4,10,9,-40.631736,237,TRUE,372.3512,Qualitatively Accurate
+CH_w3,MHS,lbfgs,4,11,10,-40.63453,156,TRUE,250.4491,Qualitatively Accurate
+CH_w3,MHS,lbfgs,4,12,11,-40.623953,115,TRUE,198.459,Failure
+CH_w3,MHS,lbfgs,4,13,12,-40.623468,95,TRUE,157.2349,Failure
+CH_w3,MHS,lbfgs,4,14,13,-40.624021,79,TRUE,128.9309,Failure
+CH_w3,MHS,lbfgs,4,15,14,-40.635527,221,TRUE,358.1439,Chemically Accurate
+CH_w3,MHS,lbfgs,5,1,0,-40.624254,87,TRUE,143.3041,Failure
+CH_w3,MHS,lbfgs,5,2,1,-40.636037,237,TRUE,386.8536,Chemically Accurate
+CH_w3,MHS,lbfgs,5,3,2,-40.624617,144,TRUE,241.8759,Failure
+CH_w3,MHS,lbfgs,5,4,3,-40.631921,142,TRUE,237.8672,Qualitatively Accurate
+CH_w3,MHS,lbfgs,5,5,4,-40.632311,388,TRUE,636.7534,Qualitatively Accurate
+CH_w3,MHS,lbfgs,5,6,5,-40.635946,223,TRUE,365.8897,Chemically Accurate
+CH_w3,MHS,lbfgs,5,7,6,-40.623854,102,TRUE,168.7281,Failure
+CH_w3,MHS,lbfgs,5,8,7,-40.623275,144,TRUE,240.4058,Failure
+CH_w3,MHS,lbfgs,5,9,8,-40.624415,208,TRUE,336.9119,Failure
+CH_w3,MHS,lbfgs,5,10,9,-40.624394,81,TRUE,134.2648,Failure
+CH_w3,MHS,lbfgs,5,11,10,-40.635205,280,TRUE,474.6308,Chemically Accurate
+CH_w3,MHS,lbfgs,5,12,11,-40.635759,132,TRUE,220.6403,Chemically Accurate
+CH_w3,MHS,lbfgs,5,13,12,-40.623498,99,TRUE,163.1369,Failure
+CH_w3,MHS,lbfgs,5,14,13,-40.636099,207,TRUE,339.7187,Chemically Accurate
+CH_w3,MHS,lbfgs,5,15,14,-40.636266,286,TRUE,464.7936,Chemically Accurate
+CH_w3,MHS,lbfgs,6,1,0,-40.624152,181,TRUE,293.5559,Failure
+CH_w3,MHS,lbfgs,6,2,1,-40.635811,226,TRUE,367.8783,Chemically Accurate
+CH_w3,MHS,lbfgs,6,3,2,-40.623731,132,TRUE,218.733,Failure
+CH_w3,MHS,lbfgs,6,4,3,-40.636625,395,TRUE,652.1592,Chemically Accurate
+CH_w3,MHS,lbfgs,6,5,4,-40.634963,384,TRUE,630.6096,Qualitatively Accurate
+CH_w3,MHS,lbfgs,6,6,5,-40.635652,205,TRUE,332.7177,Chemically Accurate
+CH_w3,MHS,lbfgs,6,7,6,-40.63615,434,TRUE,716.4822,Chemically Accurate
+CH_w3,MHS,lbfgs,6,8,7,-40.624233,128,TRUE,212.4083,Failure
+CH_w3,MHS,lbfgs,6,9,8,-40.62455,123,TRUE,203.207,Failure
+CH_w3,MHS,lbfgs,6,10,9,-40.636192,190,TRUE,311.6376,Chemically Accurate
+CH_w3,MHS,lbfgs,6,11,10,-40.636341,210,TRUE,347.5451,Chemically Accurate
+CH_w3,MHS,lbfgs,6,12,11,-40.630916,144,TRUE,234.7174,Qualitatively Accurate
+CH_w3,MHS,lbfgs,6,13,12,-40.635841,223,TRUE,365.6677,Chemically Accurate
+CH_w3,MHS,lbfgs,6,14,13,-40.636088,255,TRUE,421.1901,Chemically Accurate
+CH_w3,MHS,lbfgs,6,15,14,-40.636626,226,TRUE,374.326,Chemically Accurate
+CH_w3,MHS,lbfgs,7,1,0,-40.62443,150,TRUE,249.8613,Failure
+CH_w3,MHS,lbfgs,7,2,1,-40.636368,284,TRUE,465.0057,Chemically Accurate
+CH_w3,MHS,lbfgs,7,3,2,-40.636082,333,TRUE,535.2595,Chemically Accurate
+CH_w3,MHS,lbfgs,7,4,3,-40.636131,270,TRUE,454.0617,Chemically Accurate
+CH_w3,MHS,lbfgs,7,5,4,-40.635369,538,TRUE,882.6283,Chemically Accurate
+CH_w3,MHS,lbfgs,7,6,5,-40.636318,302,TRUE,494.8203,Chemically Accurate
+CH_w3,MHS,lbfgs,7,7,6,-40.636342,167,TRUE,271.0399,Chemically Accurate
+CH_w3,MHS,lbfgs,7,8,7,-40.636572,428,TRUE,692.5412,Chemically Accurate
+CH_w3,MHS,lbfgs,7,9,8,-40.62435,166,TRUE,274.1794,Failure
+CH_w3,MHS,lbfgs,7,10,9,-40.624468,115,TRUE,189.3855,Failure
+CH_w3,MHS,lbfgs,7,11,10,-40.636169,158,TRUE,259.4743,Chemically Accurate
+CH_w3,MHS,lbfgs,7,12,11,-40.636465,142,TRUE,232.6845,Chemically Accurate
+CH_w3,MHS,lbfgs,7,13,12,-40.624465,69,TRUE,114.0058,Failure
+CH_w3,MHS,lbfgs,7,14,13,-40.636627,283,TRUE,468.0163,Chemically Accurate
+CH_w3,MHS,lbfgs,7,15,14,-40.636322,259,TRUE,426.332,Chemically Accurate
+CH_w3,MHS,adam,1,1,0,-40.623117,191,TRUE,337.5516,Failure
+CH_w3,MHS,adam,1,2,1,-40.623108,531,TRUE,942.3871,Failure
+CH_w3,MHS,adam,1,3,2,-40.623117,208,TRUE,368.85,Failure
+CH_w3,MHS,adam,1,4,3,-40.623114,219,TRUE,394.2259,Failure
+CH_w3,MHS,adam,1,5,4,-40.622739,122,TRUE,213.8307,Failure
+CH_w3,MHS,adam,1,6,5,-39.083388,114,TRUE,198.2305,Failure
+CH_w3,MHS,adam,1,7,6,-40.623142,278,TRUE,500.3481,Failure
+CH_w3,MHS,adam,1,8,7,-40.623117,216,TRUE,388.2888,Failure
+CH_w3,MHS,adam,1,9,8,-40.623096,410,TRUE,745.7494,Failure
+CH_w3,MHS,adam,1,10,9,-40.623108,355,TRUE,632.9096,Failure
+CH_w3,MHS,adam,1,11,10,-40.623023,210,TRUE,379.116,Failure
+CH_w3,MHS,adam,1,12,11,-40.622457,856,TRUE,1580.0245,Failure
+CH_w3,MHS,adam,1,13,12,-40.622206,158,TRUE,274.7726,Failure
+CH_w3,MHS,adam,1,14,13,-39.865346,111,TRUE,196.6456,Failure
+CH_w3,MHS,adam,1,15,14,-40.623122,376,TRUE,674.6134,Failure
+CH_w3,MHS,adam,2,1,0,-40.621988,116,TRUE,214.7537,Failure
+CH_w3,MHS,adam,2,2,1,-40.622875,147,TRUE,261.3817,Failure
+CH_w3,MHS,adam,2,3,2,-40.623169,195,TRUE,354.475,Failure
+CH_w3,MHS,adam,2,4,3,-40.622891,155,TRUE,290.6417,Failure
+CH_w3,MHS,adam,2,5,4,-40.622908,448,TRUE,839.8711,Failure
+CH_w3,MHS,adam,2,6,5,-40.623108,133,TRUE,242.8848,Failure
+CH_w3,MHS,adam,2,7,6,-40.622626,102,TRUE,190.7594,Failure
+CH_w3,MHS,adam,2,8,7,-40.622978,396,TRUE,737.4907,Failure
+CH_w3,MHS,adam,2,9,8,-40.635185,917,TRUE,1686.3492,Chemically Accurate
+CH_w3,MHS,adam,2,10,9,-40.622207,78,TRUE,148.7321,Failure
+CH_w3,MHS,adam,2,11,10,-40.623113,158,TRUE,294.3741,Failure
+CH_w3,MHS,adam,2,12,11,-40.621607,100,TRUE,182.7572,Failure
+CH_w3,MHS,adam,2,13,12,-40.623078,141,TRUE,260.8716,Failure
+CH_w3,MHS,adam,2,14,13,-40.623092,155,TRUE,291.7021,Failure
+CH_w3,MHS,adam,2,15,14,-40.623122,180,TRUE,326.476,Failure
+CH_w3,MHS,adam,3,1,0,-40.623366,181,TRUE,335.0502,Failure
+CH_w3,MHS,adam,3,2,1,-40.621724,101,TRUE,180.0007,Failure
+CH_w3,MHS,adam,3,3,2,-40.623027,148,TRUE,275.1779,Failure
+CH_w3,MHS,adam,3,4,3,-40.63543,423,TRUE,780.8886,Chemically Accurate
+CH_w3,MHS,adam,3,5,4,-40.621563,155,TRUE,281.9313,Failure
+CH_w3,MHS,adam,3,6,5,-40.62328,201,TRUE,372.5078,Failure
+CH_w3,MHS,adam,3,7,6,-40.623219,490,TRUE,910.8164,Failure
+CH_w3,MHS,adam,3,8,7,-40.623237,173,TRUE,321.2225,Failure
+CH_w3,MHS,adam,3,9,8,-40.623411,133,TRUE,246.8388,Failure
+CH_w3,MHS,adam,3,10,9,-40.623147,371,TRUE,703.6441,Failure
+CH_w3,MHS,adam,3,11,10,-40.623031,129,TRUE,234.4759,Failure
+CH_w3,MHS,adam,3,12,11,-40.623109,769,TRUE,1417.2789,Failure
+CH_w3,MHS,adam,3,13,12,-40.622859,163,TRUE,294.5966,Failure
+CH_w3,MHS,adam,3,14,13,-40.62336,405,TRUE,755.0675,Failure
+CH_w3,MHS,adam,3,15,14,-40.623162,178,TRUE,324.2259,Failure
+CH_w3,MHS,adam,4,1,0,-40.623892,122,TRUE,229.3527,Failure
+CH_w3,MHS,adam,4,2,1,-40.623314,142,TRUE,258.976,Failure
+CH_w3,MHS,adam,4,3,2,-40.623878,239,TRUE,429.142,Failure
+CH_w3,MHS,adam,4,4,3,-40.623102,104,TRUE,189.7555,Failure
+CH_w3,MHS,adam,4,5,4,-40.623459,154,TRUE,276.7982,Failure
+CH_w3,MHS,adam,4,6,5,-40.623448,203,TRUE,373.0169,Failure
+CH_w3,MHS,adam,4,7,6,-40.62331,189,TRUE,343.3621,Failure
+CH_w3,MHS,adam,4,8,7,-40.623359,107,TRUE,197.4273,Failure
+CH_w3,MHS,adam,4,9,8,-40.624302,475,TRUE,862.5656,Failure
+CH_w3,MHS,adam,4,10,9,-40.624641,326,TRUE,589.7319,Failure
+CH_w3,MHS,adam,4,11,10,-40.624223,184,TRUE,333.9266,Failure
+CH_w3,MHS,adam,4,12,11,-40.623462,524,TRUE,976.7562,Failure
+CH_w3,MHS,adam,4,13,12,-40.624598,495,TRUE,907.2753,Failure
+CH_w3,MHS,adam,4,14,13,-40.624589,740,TRUE,1364.8935,Failure
+CH_w3,MHS,adam,4,15,14,-40.627676,646,TRUE,1186.6469,Qualitatively Accurate
+CH_w3,MHS,adam,5,1,0,-40.623994,197,TRUE,358.8672,Failure
+CH_w3,MHS,adam,5,2,1,-40.636082,690,TRUE,1238.8034,Chemically Accurate
+CH_w3,MHS,adam,5,3,2,-40.623336,257,TRUE,471.0506,Failure
+CH_w3,MHS,adam,5,4,3,-40.628227,736,TRUE,1349.1587,Qualitatively Accurate
+CH_w3,MHS,adam,5,5,4,-40.624389,283,TRUE,514.7585,Failure
+CH_w3,MHS,adam,5,6,5,-40.625018,458,TRUE,839.8946,Failure
+CH_w3,MHS,adam,5,7,6,-40.625736,380,TRUE,695.0989,Failure
+CH_w3,MHS,adam,5,8,7,-40.623484,262,TRUE,478.9739,Failure
+CH_w3,MHS,adam,5,9,8,-40.085624,205,TRUE,372.4724,Failure
+CH_w3,MHS,adam,5,10,9,-40.624278,299,TRUE,553.6374,Failure
+CH_w3,MHS,adam,5,11,10,-40.624539,311,TRUE,575.8293,Failure
+CH_w3,MHS,adam,5,12,11,-40.083066,96,TRUE,172.8072,Failure
+CH_w3,MHS,adam,5,13,12,-40.622385,137,TRUE,246.9444,Failure
+CH_w3,MHS,adam,5,14,13,-40.623025,192,TRUE,348.9235,Failure
+CH_w3,MHS,adam,5,15,14,-40.625054,94,TRUE,164.0153,Failure
+CH_w3,MHS,adam,6,1,0,-40.623394,376,TRUE,695.9605,Failure
+CH_w3,MHS,adam,6,2,1,-40.622883,97,TRUE,178.2866,Failure
+CH_w3,MHS,adam,6,3,2,-40.630771,239,TRUE,436.9295,Qualitatively Accurate
+CH_w3,MHS,adam,6,4,3,-40.623777,100,TRUE,181.5165,Failure
+CH_w3,MHS,adam,6,5,4,-40.62369,172,TRUE,312.443,Failure
+CH_w3,MHS,adam,6,6,5,-40.623679,371,TRUE,674.2257,Failure
+CH_w3,MHS,adam,6,7,6,-40.623238,185,TRUE,326.759,Failure
+CH_w3,MHS,adam,6,8,7,-40.624431,398,TRUE,745.3564,Failure
+CH_w3,MHS,adam,6,9,8,-40.631998,500,TRUE,918.2392,Qualitatively Accurate
+CH_w3,MHS,adam,6,10,9,-40.624455,404,TRUE,740.9072,Failure
+CH_w3,MHS,adam,6,11,10,-40.624579,249,TRUE,459.3815,Failure
+CH_w3,MHS,adam,6,12,11,-40.622801,108,TRUE,201.0889,Failure
+CH_w3,MHS,adam,6,13,12,-40.624297,349,TRUE,635.1741,Failure
+CH_w3,MHS,adam,6,14,13,-40.624897,364,TRUE,669.2564,Failure
+CH_w3,MHS,adam,6,15,14,-40.627426,384,TRUE,685.474,Qualitatively Accurate
+CH_w3,MHS,adam,7,1,0,-40.623947,280,TRUE,508.2486,Failure
+CH_w3,MHS,adam,7,2,1,-40.623703,284,TRUE,527.6106,Failure
+CH_w3,MHS,adam,7,3,2,-40.634105,387,TRUE,722.4215,Qualitatively Accurate
+CH_w3,MHS,adam,7,4,3,-40.626915,352,TRUE,650.8464,Qualitatively Accurate
+CH_w3,MHS,adam,7,5,4,-40.635322,602,TRUE,1106.9393,Chemically Accurate
+CH_w3,MHS,adam,7,6,5,-40.624069,223,TRUE,415.0759,Failure
+CH_w3,MHS,adam,7,7,6,-40.625115,636,TRUE,1129.6239,Failure
+CH_w3,MHS,adam,7,8,7,-40.625268,418,TRUE,777.0419,Failure
+CH_w3,MHS,adam,7,9,8,-40.624326,305,TRUE,567.8272,Failure
+CH_w3,MHS,adam,7,10,9,-40.623743,245,TRUE,448.2522,Failure
+CH_w3,MHS,adam,7,11,10,-40.624959,259,TRUE,475.0338,Failure
+CH_w3,MHS,adam,7,12,11,-40.619766,116,TRUE,219.5361,Failure
+CH_w3,MHS,adam,7,13,12,-40.625606,115,TRUE,209.6643,Failure
+CH_w3,MHS,adam,7,14,13,-40.623434,277,TRUE,501.0277,Failure
+CH_w3,MHS,adam,7,15,14,-40.626366,334,TRUE,582.7136,Failure
+CH_w5,MHS,lbfgs,1,1,0,-40.003313,17,TRUE,2.1292,Chemically Accurate
+CH_w5,MHS,lbfgs,1,2,1,-40.003298,30,TRUE,2.9204,Chemically Accurate
+CH_w5,MHS,lbfgs,1,3,2,-40.003298,13,TRUE,2.2123,Chemically Accurate
+CH_w5,MHS,lbfgs,1,4,3,-29.547802,13,TRUE,1.9103,Failure
+CH_w5,MHS,lbfgs,1,5,4,-40.003299,21,TRUE,2.2934,Chemically Accurate
+CH_w5,MHS,lbfgs,1,6,5,-40.003298,15,TRUE,1.9966,Chemically Accurate
+CH_w5,MHS,lbfgs,1,7,6,-40.003304,23,TRUE,2.4092,Chemically Accurate
+CH_w5,MHS,lbfgs,1,8,7,-40.003302,12,TRUE,2.0115,Chemically Accurate
+CH_w5,MHS,lbfgs,1,9,8,-40.003298,11,TRUE,1.8931,Chemically Accurate
+CH_w5,MHS,lbfgs,1,10,9,-40.003299,38,TRUE,2.9932,Chemically Accurate
+CH_w5,MHS,lbfgs,1,11,10,-40.0033,18,TRUE,2.1897,Chemically Accurate
+CH_w5,MHS,lbfgs,1,12,11,-40.003298,17,TRUE,2.1243,Chemically Accurate
+CH_w5,MHS,lbfgs,1,13,12,-40.003298,11,TRUE,1.9016,Chemically Accurate
+CH_w5,MHS,lbfgs,1,14,13,-40.003307,14,TRUE,2.0953,Chemically Accurate
+CH_w5,MHS,lbfgs,1,15,14,-40.003313,9,TRUE,1.9408,Chemically Accurate
+CH_w5,MHS,lbfgs,2,1,0,-40.003313,13,TRUE,2.0121,Chemically Accurate
+CH_w5,MHS,lbfgs,2,2,1,-40.00331,14,TRUE,2.0506,Chemically Accurate
+CH_w5,MHS,lbfgs,2,3,2,-40.003298,15,TRUE,2.4239,Chemically Accurate
+CH_w5,MHS,lbfgs,2,4,3,-40.003308,29,TRUE,2.6134,Chemically Accurate
+CH_w5,MHS,lbfgs,2,5,4,-40.003299,13,TRUE,2.1673,Chemically Accurate
+CH_w5,MHS,lbfgs,2,6,5,-40.003311,14,TRUE,2.1935,Chemically Accurate
+CH_w5,MHS,lbfgs,2,7,6,-40.003298,14,TRUE,2.0965,Chemically Accurate
+CH_w5,MHS,lbfgs,2,8,7,-40.003298,23,TRUE,2.3498,Chemically Accurate
+CH_w5,MHS,lbfgs,2,9,8,-40.003298,28,TRUE,2.554,Chemically Accurate
+CH_w5,MHS,lbfgs,2,10,9,-40.003311,20,TRUE,2.4578,Chemically Accurate
+CH_w5,MHS,lbfgs,2,11,10,-40.003298,23,TRUE,2.2902,Chemically Accurate
+CH_w5,MHS,lbfgs,2,12,11,-40.003308,14,TRUE,2.2432,Chemically Accurate
+CH_w5,MHS,lbfgs,2,13,12,-40.003306,16,TRUE,2.1186,Chemically Accurate
+CH_w5,MHS,lbfgs,2,14,13,-40.003299,26,TRUE,2.5367,Chemically Accurate
+CH_w5,MHS,lbfgs,2,15,14,-40.003301,17,TRUE,2.3247,Chemically Accurate
+CH_w5,MHS,lbfgs,3,1,0,-40.003313,19,TRUE,2.5012,Chemically Accurate
+CH_w5,MHS,lbfgs,3,2,1,-40.003313,25,TRUE,2.4603,Chemically Accurate
+CH_w5,MHS,lbfgs,3,3,2,-40.003313,21,TRUE,2.5031,Chemically Accurate
+CH_w5,MHS,lbfgs,3,4,3,-40.003313,22,TRUE,2.4991,Chemically Accurate
+CH_w5,MHS,lbfgs,3,5,4,-40.00331,26,TRUE,2.8306,Chemically Accurate
+CH_w5,MHS,lbfgs,3,6,5,-40.003313,16,TRUE,2.1889,Chemically Accurate
+CH_w5,MHS,lbfgs,3,7,6,-40.003313,16,TRUE,2.1536,Chemically Accurate
+CH_w5,MHS,lbfgs,3,8,7,-40.003313,20,TRUE,2.4344,Chemically Accurate
+CH_w5,MHS,lbfgs,3,9,8,-40.003313,23,TRUE,2.4846,Chemically Accurate
+CH_w5,MHS,lbfgs,3,10,9,-40.003313,16,TRUE,2.4614,Chemically Accurate
+CH_w5,MHS,lbfgs,3,11,10,-40.003313,21,TRUE,2.4395,Chemically Accurate
+CH_w5,MHS,lbfgs,3,12,11,-40.003162,19,TRUE,2.206,Chemically Accurate
+CH_w5,MHS,lbfgs,3,13,12,-40.003313,24,TRUE,2.694,Chemically Accurate
+CH_w5,MHS,lbfgs,3,14,13,-40.003313,17,TRUE,2.2137,Chemically Accurate
+CH_w5,MHS,lbfgs,3,15,14,-40.003293,19,TRUE,2.3045,Chemically Accurate
+CH_w5,MHS,lbfgs,4,1,0,-40.003313,22,TRUE,2.5632,Chemically Accurate
+CH_w5,MHS,lbfgs,4,2,1,-40.003313,19,TRUE,2.4622,Chemically Accurate
+CH_w5,MHS,lbfgs,4,3,2,-40.003313,26,TRUE,2.7374,Chemically Accurate
+CH_w5,MHS,lbfgs,4,4,3,-40.003313,16,TRUE,2.3352,Chemically Accurate
+CH_w5,MHS,lbfgs,4,5,4,-40.003313,13,TRUE,2.254,Chemically Accurate
+CH_w5,MHS,lbfgs,4,6,5,-40.003313,24,TRUE,2.6517,Chemically Accurate
+CH_w5,MHS,lbfgs,4,7,6,-40.003313,13,TRUE,2.3216,Chemically Accurate
+CH_w5,MHS,lbfgs,4,8,7,-40.003313,13,TRUE,2.3701,Chemically Accurate
+CH_w5,MHS,lbfgs,4,9,8,-40.003313,14,TRUE,2.3205,Chemically Accurate
+CH_w5,MHS,lbfgs,4,10,9,-40.003313,14,TRUE,2.4244,Chemically Accurate
+CH_w5,MHS,lbfgs,4,11,10,-40.003313,26,TRUE,3.0179,Chemically Accurate
+CH_w5,MHS,lbfgs,4,12,11,-40.003312,18,TRUE,2.4884,Chemically Accurate
+CH_w5,MHS,lbfgs,4,13,12,-40.003313,18,TRUE,2.518,Chemically Accurate
+CH_w5,MHS,lbfgs,4,14,13,-40.003313,22,TRUE,2.6661,Chemically Accurate
+CH_w5,MHS,lbfgs,4,15,14,-40.003313,16,TRUE,2.557,Chemically Accurate
+CH_w5,MHS,lbfgs,5,1,0,-40.003313,15,TRUE,2.824,Chemically Accurate
+CH_w5,MHS,lbfgs,5,2,1,-40.003313,15,TRUE,2.6593,Chemically Accurate
+CH_w5,MHS,lbfgs,5,3,2,-40.003313,16,TRUE,2.4832,Chemically Accurate
+CH_w5,MHS,lbfgs,5,4,3,-40.003313,13,TRUE,2.5444,Chemically Accurate
+CH_w5,MHS,lbfgs,5,5,4,-40.003313,19,TRUE,2.4774,Chemically Accurate
+CH_w5,MHS,lbfgs,5,6,5,-40.003313,22,TRUE,2.8186,Chemically Accurate
+CH_w5,MHS,lbfgs,5,7,6,-40.003313,16,TRUE,2.5782,Chemically Accurate
+CH_w5,MHS,lbfgs,5,8,7,-40.003313,15,TRUE,2.4857,Chemically Accurate
+CH_w5,MHS,lbfgs,5,9,8,-40.003313,15,TRUE,2.4608,Chemically Accurate
+CH_w5,MHS,lbfgs,5,10,9,-40.003313,14,TRUE,2.4692,Chemically Accurate
+CH_w5,MHS,lbfgs,5,11,10,-40.003313,17,TRUE,2.7061,Chemically Accurate
+CH_w5,MHS,lbfgs,5,12,11,-40.003313,14,TRUE,2.6589,Chemically Accurate
+CH_w5,MHS,lbfgs,5,13,12,-40.003313,11,TRUE,2.5414,Chemically Accurate
+CH_w5,MHS,lbfgs,5,14,13,-40.003313,17,TRUE,2.4792,Chemically Accurate
+CH_w5,MHS,lbfgs,5,15,14,-40.003313,22,TRUE,2.5196,Chemically Accurate
+CH_w5,MHS,lbfgs,6,1,0,-40.003313,14,TRUE,2.8679,Chemically Accurate
+CH_w5,MHS,lbfgs,6,2,1,-40.003313,16,TRUE,2.822,Chemically Accurate
+CH_w5,MHS,lbfgs,6,3,2,-40.003313,19,TRUE,2.9264,Chemically Accurate
+CH_w5,MHS,lbfgs,6,4,3,-40.003313,21,TRUE,2.9824,Chemically Accurate
+CH_w5,MHS,lbfgs,6,5,4,-40.003313,14,TRUE,2.6984,Chemically Accurate
+CH_w5,MHS,lbfgs,6,6,5,-40.003313,14,TRUE,2.6417,Chemically Accurate
+CH_w5,MHS,lbfgs,6,7,6,-40.003313,15,TRUE,2.6612,Chemically Accurate
+CH_w5,MHS,lbfgs,6,8,7,-40.003313,14,TRUE,2.5211,Chemically Accurate
+CH_w5,MHS,lbfgs,6,9,8,-40.003313,14,TRUE,2.595,Chemically Accurate
+CH_w5,MHS,lbfgs,6,10,9,-40.003313,14,TRUE,2.4314,Chemically Accurate
+CH_w5,MHS,lbfgs,6,11,10,-40.003313,23,TRUE,2.7959,Chemically Accurate
+CH_w5,MHS,lbfgs,6,12,11,-40.003313,14,TRUE,2.3794,Chemically Accurate
+CH_w5,MHS,lbfgs,6,13,12,-40.003313,15,TRUE,2.7761,Chemically Accurate
+CH_w5,MHS,lbfgs,6,14,13,-40.003313,17,TRUE,2.4994,Chemically Accurate
+CH_w5,MHS,lbfgs,6,15,14,-40.003313,17,TRUE,2.4964,Chemically Accurate
+CH_w5,MHS,lbfgs,7,1,0,-40.003313,11,TRUE,2.435,Chemically Accurate
+CH_w5,MHS,lbfgs,7,2,1,-40.003313,14,TRUE,2.6986,Chemically Accurate
+CH_w5,MHS,lbfgs,7,3,2,-40.003313,15,TRUE,2.674,Chemically Accurate
+CH_w5,MHS,lbfgs,7,4,3,-40.003313,12,TRUE,2.606,Chemically Accurate
+CH_w5,MHS,lbfgs,7,5,4,-40.003313,14,TRUE,2.809,Chemically Accurate
+CH_w5,MHS,lbfgs,7,6,5,-40.003313,14,TRUE,2.7313,Chemically Accurate
+CH_w5,MHS,lbfgs,7,7,6,-40.003313,12,TRUE,2.6363,Chemically Accurate
+CH_w5,MHS,lbfgs,7,8,7,-40.003313,11,TRUE,2.6401,Chemically Accurate
+CH_w5,MHS,lbfgs,7,9,8,-40.003313,16,TRUE,2.5983,Chemically Accurate
+CH_w5,MHS,lbfgs,7,10,9,-40.003313,17,TRUE,2.5064,Chemically Accurate
+CH_w5,MHS,lbfgs,7,11,10,-40.003313,17,TRUE,2.7555,Chemically Accurate
+CH_w5,MHS,lbfgs,7,12,11,-40.003313,14,TRUE,2.758,Chemically Accurate
+CH_w5,MHS,lbfgs,7,13,12,-40.003313,14,TRUE,2.8151,Chemically Accurate
+CH_w5,MHS,lbfgs,7,14,13,-40.003313,14,TRUE,2.7,Chemically Accurate
+CH_w5,MHS,lbfgs,7,15,14,-40.003313,14,TRUE,2.7501,Chemically Accurate
+CH_w5,MHS,adam,1,1,0,-40.003281,159,TRUE,4.2203,Chemically Accurate
+CH_w5,MHS,adam,1,2,1,-40.003289,147,TRUE,4.5422,Chemically Accurate
+CH_w5,MHS,adam,1,3,2,-40.003276,124,TRUE,3.7525,Chemically Accurate
+CH_w5,MHS,adam,1,4,3,-40.003276,147,TRUE,4.0855,Chemically Accurate
+CH_w5,MHS,adam,1,5,4,-40.003267,122,TRUE,3.3769,Chemically Accurate
+CH_w5,MHS,adam,1,6,5,-40.00323,310,TRUE,6.9397,Chemically Accurate
+CH_w5,MHS,adam,1,7,6,-39.923734,93,TRUE,3.3761,Failure
+CH_w5,MHS,adam,1,8,7,-40.002923,100,TRUE,3.0551,Chemically Accurate
+CH_w5,MHS,adam,1,9,8,-40.003265,130,TRUE,3.5384,Chemically Accurate
+CH_w5,MHS,adam,1,10,9,-40.003278,130,TRUE,3.3896,Chemically Accurate
+CH_w5,MHS,adam,1,11,10,-40.003039,115,TRUE,3.0482,Chemically Accurate
+CH_w5,MHS,adam,1,12,11,-40.002866,102,TRUE,2.8222,Chemically Accurate
+CH_w5,MHS,adam,1,13,12,-40.003216,109,TRUE,3.1098,Chemically Accurate
+CH_w5,MHS,adam,1,14,13,-40.003253,138,TRUE,3.5965,Chemically Accurate
+CH_w5,MHS,adam,1,15,14,-40.003277,112,TRUE,3.188,Chemically Accurate
+CH_w5,MHS,adam,2,1,0,-40.003015,111,TRUE,3.4966,Chemically Accurate
+CH_w5,MHS,adam,2,2,1,-40.003302,120,TRUE,3.3528,Chemically Accurate
+CH_w5,MHS,adam,2,3,2,-40.003082,136,TRUE,3.6928,Chemically Accurate
+CH_w5,MHS,adam,2,4,3,-40.00299,132,TRUE,3.8848,Chemically Accurate
+CH_w5,MHS,adam,2,5,4,-40.003286,115,TRUE,3.2756,Chemically Accurate
+CH_w5,MHS,adam,2,6,5,-40.000288,71,TRUE,2.5341,Qualitatively Accurate
+CH_w5,MHS,adam,2,7,6,-40.003263,121,TRUE,3.4761,Chemically Accurate
+CH_w5,MHS,adam,2,8,7,-40.003199,106,TRUE,3.0565,Chemically Accurate
+CH_w5,MHS,adam,2,9,8,-40.003271,155,TRUE,4.3231,Chemically Accurate
+CH_w5,MHS,adam,2,10,9,-40.003261,244,TRUE,5.8069,Chemically Accurate
+CH_w5,MHS,adam,2,11,10,-40.003217,122,TRUE,3.4563,Chemically Accurate
+CH_w5,MHS,adam,2,12,11,-40.003242,131,TRUE,3.8047,Chemically Accurate
+CH_w5,MHS,adam,2,13,12,-40.003196,98,TRUE,2.919,Chemically Accurate
+CH_w5,MHS,adam,2,14,13,-40.003187,93,TRUE,2.8776,Chemically Accurate
+CH_w5,MHS,adam,2,15,14,-40.003265,120,TRUE,3.1853,Chemically Accurate
+CH_w5,MHS,adam,3,1,0,-40.003146,120,TRUE,4.2433,Chemically Accurate
+CH_w5,MHS,adam,3,2,1,-40.003237,125,TRUE,3.7659,Chemically Accurate
+CH_w5,MHS,adam,3,3,2,-40.003301,127,TRUE,3.8888,Chemically Accurate
+CH_w5,MHS,adam,3,4,3,-40.00305,117,TRUE,3.8639,Chemically Accurate
+CH_w5,MHS,adam,3,5,4,-40.003207,270,TRUE,7.483,Chemically Accurate
+CH_w5,MHS,adam,3,6,5,-40.003248,110,TRUE,3.3592,Chemically Accurate
+CH_w5,MHS,adam,3,7,6,-40.003301,122,TRUE,3.6964,Chemically Accurate
+CH_w5,MHS,adam,3,8,7,-40.003279,233,TRUE,6.6163,Chemically Accurate
+CH_w5,MHS,adam,3,9,8,-40.003244,116,TRUE,3.8447,Chemically Accurate
+CH_w5,MHS,adam,3,10,9,-40.003249,120,TRUE,3.4918,Chemically Accurate
+CH_w5,MHS,adam,3,11,10,-40.003285,133,TRUE,4.361,Chemically Accurate
+CH_w5,MHS,adam,3,12,11,-40.003192,118,TRUE,3.4936,Chemically Accurate
+CH_w5,MHS,adam,3,13,12,-40.00329,129,TRUE,4.5423,Chemically Accurate
+CH_w5,MHS,adam,3,14,13,-40.003203,130,TRUE,3.8371,Chemically Accurate
+CH_w5,MHS,adam,3,15,14,-40.003289,130,TRUE,3.9696,Chemically Accurate
+CH_w5,MHS,adam,4,1,0,-40.00317,112,TRUE,4.0506,Chemically Accurate
+CH_w5,MHS,adam,4,2,1,-40.003296,132,TRUE,4.1421,Chemically Accurate
+CH_w5,MHS,adam,4,3,2,-40.003201,105,TRUE,3.8542,Chemically Accurate
+CH_w5,MHS,adam,4,4,3,-40.00325,126,TRUE,4.5386,Chemically Accurate
+CH_w5,MHS,adam,4,5,4,-40.003306,124,TRUE,3.9782,Chemically Accurate
+CH_w5,MHS,adam,4,6,5,-40.003088,108,TRUE,3.846,Chemically Accurate
+CH_w5,MHS,adam,4,7,6,-40.00331,127,TRUE,4.1601,Chemically Accurate
+CH_w5,MHS,adam,4,8,7,-40.003306,114,TRUE,4.2378,Chemically Accurate
+CH_w5,MHS,adam,4,9,8,-40.003301,123,TRUE,4.0917,Chemically Accurate
+CH_w5,MHS,adam,4,10,9,-40.002812,97,TRUE,3.8071,Chemically Accurate
+CH_w5,MHS,adam,4,11,10,-40.003305,122,TRUE,3.6619,Chemically Accurate
+CH_w5,MHS,adam,4,12,11,-40.003268,121,TRUE,3.8013,Chemically Accurate
+CH_w5,MHS,adam,4,13,12,-40.003298,129,TRUE,4.3989,Chemically Accurate
+CH_w5,MHS,adam,4,14,13,-40.003152,101,TRUE,3.4916,Chemically Accurate
+CH_w5,MHS,adam,4,15,14,-40.003299,127,TRUE,4.3999,Chemically Accurate
+CH_w5,MHS,adam,5,1,0,-40.003282,109,TRUE,4.2051,Chemically Accurate
+CH_w5,MHS,adam,5,2,1,-40.003273,116,TRUE,4.333,Chemically Accurate
+CH_w5,MHS,adam,5,3,2,-40.003299,146,TRUE,5.5348,Chemically Accurate
+CH_w5,MHS,adam,5,4,3,-40.003109,92,TRUE,3.5248,Chemically Accurate
+CH_w5,MHS,adam,5,5,4,-40.002879,100,TRUE,3.8611,Chemically Accurate
+CH_w5,MHS,adam,5,6,5,-40.003277,108,TRUE,3.9365,Chemically Accurate
+CH_w5,MHS,adam,5,7,6,-40.001015,74,TRUE,3.5745,Qualitatively Accurate
+CH_w5,MHS,adam,5,8,7,-40.003303,127,TRUE,4.1552,Chemically Accurate
+CH_w5,MHS,adam,5,9,8,-40.003295,118,TRUE,3.968,Chemically Accurate
+CH_w5,MHS,adam,5,10,9,-40.0033,111,TRUE,4.3437,Chemically Accurate
+CH_w5,MHS,adam,5,11,10,-40.002995,92,TRUE,3.883,Chemically Accurate
+CH_w5,MHS,adam,5,12,11,-40.003271,114,TRUE,3.9727,Chemically Accurate
+CH_w5,MHS,adam,5,13,12,-40.003298,116,TRUE,4.2944,Chemically Accurate
+CH_w5,MHS,adam,5,14,13,-40.003307,136,TRUE,4.5652,Chemically Accurate
+CH_w5,MHS,adam,5,15,14,-40.003162,125,TRUE,4.063,Chemically Accurate
+CH_w5,MHS,adam,6,1,0,-40.003299,125,TRUE,4.1503,Chemically Accurate
+CH_w5,MHS,adam,6,2,1,-40.003242,121,TRUE,3.9185,Chemically Accurate
+CH_w5,MHS,adam,6,3,2,-40.003312,139,TRUE,4.412,Chemically Accurate
+CH_w5,MHS,adam,6,4,3,-40.00313,103,TRUE,3.7717,Chemically Accurate
+CH_w5,MHS,adam,6,5,4,-40.0033,123,TRUE,4.7822,Chemically Accurate
+CH_w5,MHS,adam,6,6,5,-40.002316,85,TRUE,3.3414,Chemically Accurate
+CH_w5,MHS,adam,6,7,6,-40.003303,133,TRUE,4.4217,Chemically Accurate
+CH_w5,MHS,adam,6,8,7,-40.003294,122,TRUE,4.0434,Chemically Accurate
+CH_w5,MHS,adam,6,9,8,-40.003061,105,TRUE,3.4664,Chemically Accurate
+CH_w5,MHS,adam,6,10,9,-40.003294,117,TRUE,4.2162,Chemically Accurate
+CH_w5,MHS,adam,6,11,10,-40.003301,126,TRUE,4.0872,Chemically Accurate
+CH_w5,MHS,adam,6,12,11,-40.003301,121,TRUE,4.097,Chemically Accurate
+CH_w5,MHS,adam,6,13,12,-40.003301,138,TRUE,4.4356,Chemically Accurate
+CH_w5,MHS,adam,6,14,13,-40.00325,112,TRUE,4.0463,Chemically Accurate
+CH_w5,MHS,adam,6,15,14,-40.003304,118,TRUE,4.2643,Chemically Accurate
+CH_w5,MHS,adam,7,1,0,-40.003303,124,TRUE,4.0843,Chemically Accurate
+CH_w5,MHS,adam,7,2,1,-40.002583,88,TRUE,3.3199,Chemically Accurate
+CH_w5,MHS,adam,7,3,2,-40.003303,134,TRUE,4.9543,Chemically Accurate
+CH_w5,MHS,adam,7,4,3,-40.003195,103,TRUE,4.1102,Chemically Accurate
+CH_w5,MHS,adam,7,5,4,-40.003274,117,TRUE,4.8337,Chemically Accurate
+CH_w5,MHS,adam,7,6,5,-40.003297,126,TRUE,5.2283,Chemically Accurate
+CH_w5,MHS,adam,7,7,6,-40.003299,123,TRUE,4.3132,Chemically Accurate
+CH_w5,MHS,adam,7,8,7,-40.003273,109,TRUE,4.5944,Chemically Accurate
+CH_w5,MHS,adam,7,9,8,-40.003195,111,TRUE,4.2755,Chemically Accurate
+CH_w5,MHS,adam,7,10,9,-40.003265,117,TRUE,3.8151,Chemically Accurate
+CH_w5,MHS,adam,7,11,10,-40.003257,115,TRUE,3.6429,Chemically Accurate
+CH_w5,MHS,adam,7,12,11,-40.003291,128,TRUE,3.8703,Chemically Accurate
+CH_w5,MHS,adam,7,13,12,-40.003302,125,TRUE,3.8823,Chemically Accurate
+CH_w5,MHS,adam,7,14,13,-40.003286,115,TRUE,3.6977,Chemically Accurate
+CH_w5,MHS,adam,7,15,14,-40.003306,122,TRUE,4.0454,Chemically Accurate
+
+
