@@ -1,5 +1,7 @@
 # local backups and sources of the R2 reorganisation
 Old/
+# local working notes (kept off GitHub)
+missing.md
 
 # Python / Jupyter
 __pycache__/

@@ -2,7 +2,7 @@
 
 Code and data for **"Molecular Ground State Simulation by Subspace Restriction and Hund's Rule"** (submitted to *J. Chem. Theory Comput.*). The full citation will be added on publication.
 
-The repository provides the data that are hard to reproduce and the scripts that draw every figure. Tables can be assembled from the committed data; convenience scripts are included for Tables 1, 4, 5 and 7. Figure and table numbers follow the manuscript. `missing.md` lists the open items and how each closed item was resolved.
+The repository provides the data that are hard to reproduce and the scripts that draw every figure. Tables can be assembled from the committed data; convenience scripts are included for Tables 1, 4, 5 and 7. Figure and table numbers follow the manuscript.
 
 ## Layout
 | Folder | Content |
