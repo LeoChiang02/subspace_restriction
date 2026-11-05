@@ -59,6 +59,7 @@ Its `spin_square` call was fixed for pyscf 2.14.
 - A rerun at L = 4 on a different CPU (the original runs used an Intel i9-13900H) gives 8/15 successes instead of 9/15. L\* = 4 is unchanged.
 - In that rerun, Iter. is 145.7 ± 39.6 versus the published 157.9 ± 44.7.
 
-## Not yet included (see `../missing.md`)
-- **G13:** the CH configuration used for the UCCSD runs.
-- **G15:** the UCCSD CNOT counts.
+## Table 4: UCCSD CNOT counts
+The JW/UCCSD CNOT counts in Table 4 (HF 2400, LiH 6976, OH 4120, CH 7688) are those of the `qml.UCCSD` circuit built as in `uccsd/tool.py`, in PennyLane 0.45.1 (the version locked in `uccsd/uv.lock`), decomposed into CNOTs and single-qubit gates. Each single excitation spanning n qubits uses 4(n−1) CNOTs, and each double excitation spanning n qubits uses 16(n−1). This is the standard CNOT-staircase construction described in Appendix A of Yordanov, Arvidsson-Shukur and Barnes, Phys. Rev. A 102, 062612 (2020).
+
+The qubit-excitation counts (HF 345, LiH 1020, OH 624, CH 1165) are 2N_s + 13N_d. They use the qubit-excitation circuits of the same paper: 2 CNOTs per single excitation (footnote 1) and 13 per double excitation (Fig. 7). N_s and N_d are the numbers of single and double excitations returned by `qml.qchem.excitations` for 12 qubits: HF 10/25, LiH 16/76, OH 13/46 and CH 17/87. Both counts are summed over the excitations, with no cancellation between neighbouring excitation circuits.

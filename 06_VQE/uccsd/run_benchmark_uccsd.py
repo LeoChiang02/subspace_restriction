@@ -69,6 +69,15 @@ EXAMPLE_MOLECULES = {
         "mult": 2,
         "custom_encodings": {},
     },
+    # CH: supplied by the authors (not in commit 8f4143a); geometry as in data/mol_info.py.
+    "CH": {
+        "symbols": ["C", "H"],
+        "coordinates": np.array([0, 0, 0, 0, 0, 1.1199]).reshape(2, 3),
+        "exact_energy": -37.81134935,  # FCI, lowest root of the (4a, 3b) sector (quartet)
+        "nelec": 7,
+        "mult": 2,
+        "custom_encodings": {},
+    },
 }
 
 

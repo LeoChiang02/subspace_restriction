@@ -2,7 +2,7 @@
 
 Code and data for **"Molecular Ground State Simulation by Subspace Restriction and Hund's Rule"** (submitted to *J. Chem. Theory Comput.*). The full citation will be added on publication.
 
-The repository provides the data that are hard to reproduce and the scripts that draw every figure. Tables can be assembled from the committed data; convenience scripts are included for Tables 1, 4, 5 and 7. Figure and table numbers follow the manuscript. Items marked ⚠ are not yet complete; `missing.md` lists every open item.
+The repository provides the data that are hard to reproduce and the scripts that draw every figure. Tables can be assembled from the committed data; convenience scripts are included for Tables 1, 4, 5 and 7. Figure and table numbers follow the manuscript. `missing.md` lists the open items and how each closed item was resolved.
 
 ## Layout
 | Folder | Content |
@@ -27,7 +27,7 @@ Run each command from its folder.
 | Table 2 (HCB rows), Table 3 (HCB columns) | `02_resources` | data: `hcb_hamiltonians/*.txt` (generator: `srs/hcb.py`) | — |
 | Table 6 (E_MHS(0)) | `03_H22` | `python H22_test.py` (about 36 min) | output pasted in the script |
 | H22 T, Λ, N_XBM | `03_H22` | `h22_encoding.ipynb` | `H22_MHS0_stream.json` |
-| H22 DMRG reference ⚠ | — | missing (G10) | — |
+| H22 DMRG reference | — | computed with block2 v0.5.4; code not included (see `03_H22/README.md`) | — |
 | Figures 4–6 data | `04_reference_sensitivity` | `python runner.py` | `subspace_results.csv` |
 | Figure 4 | `04_reference_sensitivity` | `python plot_energy.py` | `subspace_energy_linear.png` |
 | Figure 5 | `04_reference_sensitivity` | `python plot_uhf_vs_rhf.py` (labels/legend differ from the published figure; plotted values identical) | `UHFvsRHF.png` |
@@ -37,7 +37,7 @@ Run each command from its folder.
 | Figures 10–11 | `06_VQE/analysis` | `python plot_vqe_blocks.py` (data from `mhs_hea/run_benchmark.py`) | `HF_OH_VQE.png`, `LiH_CH_VQE.png` |
 | Figure 12 | `06_VQE/analysis` | `python plot_uccsd.py` (data from `uccsd/run_benchmark_uccsd.py`) | `UCCSD_box_scatter.png` |
 | Success rates, Table 4 (Iter., MHS CNOT) | `06_VQE/analysis` | `python vqe_stats.py` | `success_rates.csv`, `table4_iterations.csv` |
-| Table 4 (UCCSD CNOT) ⚠ | — | missing (G15) | — |
+| Table 4 (UCCSD CNOT, qubit exc.) | `06_VQE` | how the counts were obtained: `06_VQE/README.md`, "Table 4: UCCSD CNOT counts" | — |
 
 ## Environment
 Python 3.10.

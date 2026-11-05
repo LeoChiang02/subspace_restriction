@@ -3,7 +3,7 @@
 **Paper items:**
 - Table 6: E_MHS(0) and E_RHF.
 - The H22 Pauli statistics quoted in the text: T, Λ and N_XBM.
-- The DMRG reference (not included; see below).
+- The DMRG reference (computed with block2; see below).
 
 | File | What it is |
 |---|---|
@@ -31,4 +31,4 @@ To get it, either:
 - download it from the GitHub Release asset of this repository.
 
 ## DMRG reference
-The DMRG reference (−11.817206 Ha, bond dimension 2000) is not included yet (G10 in `../missing.md`).
+The DMRG reference (−11.817206 Ha, bond dimension 2000) was computed with block2 v0.5.4 (https://github.com/block-hczhai/block2-preview/tree/v0.5.4). The DMRG input and output are not included in this repository.

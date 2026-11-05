@@ -13,7 +13,8 @@ Code by Calvin Ku; original repository: https://github.com/calvinku96/subspace_r
 ## Changes from the original
 - A one-line credit header was added to each `.py` file and to `pyproject.toml`.
 - In `run_benchmark_uccsd.py`, the package-relative `from .tool import ...` became `from tool import ...`, so the script runs from this folder: `python run_benchmark_uccsd.py`.
+- A `CH` entry was added to `EXAMPLE_MOLECULES`, since commit 8f4143a lists only H2, HF, LiH and OH:
+  - The geometry, charge and spin were supplied by the authors (C 0 0 0; H 0 0 1.1199 Å; charge 0; 4α + 3β electrons, `mult` 2). They are the same as CH in `data/mol_info.py`.
+  - Its `exact_energy` is the FCI lowest root of that sector, the quartet at −37.81134935 Ha. It affects only the status column.
+  - Run with this entry and the locked environment, seed 0 reproduces the committed CH rows exactly: L-BFGS gives −37.811135 Ha in 19 iterations, and Adam gives −37.811054 Ha in 88 iterations.
 - There are no other changes.
-
-## Known gap
-The committed driver lists H2, HF, LiH and OH. The CH configuration that produced the CH rows of `SRS_VQE_UCCSD.csv` is not in commit 8f4143a (G13 in `../../missing.md`).
